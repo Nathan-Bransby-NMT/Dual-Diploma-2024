@@ -1,8 +1,8 @@
-# Dual-Diploma (_Advanced Programming & Back-End Web_) - 2024
+# **NMT Dual-Diploma** (_Advanced Programming & Back-End Web_) - 2024
 
 ---
 
-## Semester-1
+## **Semester-1**
 
 ### Innovation Project
 > ...
