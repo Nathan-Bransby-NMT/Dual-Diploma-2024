@@ -2,6 +2,7 @@
 
 > `submit queries via interactive help desk`
 > > `help@screencraft.net.au`
+> > https://help.screencraft.net.au/help/2680392001
 
 - Switch off AI-Assistance on IDE's
 
