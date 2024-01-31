@@ -1,5 +1,10 @@
 # Intermediate - IoT - Semester-1 Notes
 
+> `submit queries via interactive help desk`
+> > `help@screencraft.net.au`
+
+- Switch off AI-Assistance on IDE's
+
 ## Outline
 
 > ### Software
@@ -18,16 +23,15 @@
 > ### Devices
 > - Audino
 > - ESP-32 _(Micro Controller)_
-> - **Freenove Starter Kit** (inc ESP-32) -- _Buy from Amazon_
+> - **Freenove Starter Kit** (inc ESP-32) -- _Buy from Amazon_ [**REQUIRED**]
 
 ### Assessments
 
 |  Projects        | Due  |
 |------------------|------|
-| Portfolio pt1-7? | ???  |
+| Portfolio 1-(7?) | ???  |
 | Project T.B.D    | Wk18 |
 | KBA 1-4          | ???  |
-
 
 ---
 
