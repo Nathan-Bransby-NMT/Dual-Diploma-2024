@@ -3,7 +3,7 @@
 ## Week-1
 > ### Traversy Subscription `todo`
 
-> ### Sevice Types
+### Sevice Types
 > - SaaS - __Software as a Service__
 > - PaaS - __Platform as a Service__
 > - IaaS - __Infrastructure as a Service__
@@ -14,6 +14,7 @@
 > - CaaS - __Containers as a Service__ -- *Lightweight software packaged container services (sandbox) localised hardware instead of purely virtual.*
 > - KaaS - __Knowledge as a Service__ -- *Paid sources of information.*
 
+### Terminology
 > ### General Terminology
 > - **Buisiness Domain**
 >   - Defines the companny's overall area of activity. _(Such as; Car Manufacturing, Human Resources, Property Management, etc...)_
@@ -69,10 +70,10 @@
 >  
 > - **CI/CD**
 >   - Continuous Intergration (CI) - stops short of auto deployment
->   - Continuous Deployment (CD) - auto updates
+>   - Continuous Deployment (CD) - auto updates.
 >     - 2 Part process refering to intergration, testing and delivery of code changes.
 >
-> ### Programming Term
+> ### Programming Terminology
 > - **Stateless Programming / System**
 >   - Doesn't store info about past interactions.
 >
@@ -80,4 +81,4 @@
 >   - Remembers previous interactions.
 >   - Can change states with interaction, etc...
 
-##
+### 
