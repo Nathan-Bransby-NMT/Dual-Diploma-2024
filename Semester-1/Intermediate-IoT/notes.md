@@ -20,6 +20,15 @@
 > - ESP-32 _(Micro Controller)_
 > - **Freenove Starter Kit** (inc ESP-32) -- _Buy from Amazon_
 
+### Assessments
+
+|  Projects        | Due  |
+|------------------|------|
+| Portfolio pt1-7? | ???  |
+| Project T.B.D    | Wk18 |
+| KBA 1-4          | ???  |
+
+
 ---
 
 ## Week-1 Notes
