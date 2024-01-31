@@ -19,7 +19,7 @@
 > - **Buisiness Domain**
 >   - Defines the companny's overall area of activity. _(Such as; Car Manufacturing, Human Resources, Property Management, etc...)_
 >
-> -  **Web Server**
+> - **Web Server**
 >   - Application running on 'a host'.
 >   - Delivers data to browsers and applications.
 >   - Responds to HTTP requests / other protocols.
