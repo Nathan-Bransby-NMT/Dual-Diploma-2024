@@ -37,6 +37,6 @@
 ---
 
 ## Week-1 Notes
-
+> `Revision` - Ohms Law
 > ### ...
 > - ...
