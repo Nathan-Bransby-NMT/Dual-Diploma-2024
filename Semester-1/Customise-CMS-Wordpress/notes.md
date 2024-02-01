@@ -19,7 +19,7 @@ Delivery both in and out of class (i.e, learning materials)
 
 - _80% employment outcome from grad show._
 
-#### Coding Standards
+#### Coding Standards _(Style Guides)_
 
 <ul>
   <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/">
@@ -36,15 +36,51 @@ Delivery both in and out of class (i.e, learning materials)
   </a>
 </ul>
 
+#### Site Hosts.
+<ul>
+  <a href="https://wordpress.org">
+    <li><sub>Wordpress</sub></li>
+  </a>
+  <a href="https://squarespace.com">
+    <li><sub>Squarespace</sub></li>
+  </a>
+</ul>
+
+#### Documentation & Tools
+<ul>
+  <a href="https://wordpress.org/documentation/">
+    <li><sub><b>Wordpress</b> : Documentation</sub></li>
+  </a>
+  <a href="https://developer.wordpress.org/">
+    <li><sub><b>Wordpress</b> : Developer Resources</sub></li>
+  </a>
+  <a href="https://wordpress.org/plugins/">
+    <li><sub><b>Wordpress</b> : Plugins</sub></li>
+  </a>
+</ul>
+
+#### Plugins
+<ul>
+  <a href="https://wordpress.org/plugins/wpscan/">
+    <li><sub><b>WPScan</b> -- <i>WordPress Security Scanner</i></sub></li>
+  </a>
+</ul>
+
 ## **Week-1** : Intro _(Planning, Analysing & Proposing)_
->
-> ### Project Lifecycle
-> > - .
->
-> ### Required functionality according to buisiness requirements
-> > - .
->
->
+
+> ### Notes:
+> >
+> > - **Wordpress:**
+> >   - _Started as a blogging site (not web development)._
+> >   - _Used worldwide._
+> >   - _Needs PHP for scaling-up to handle traffic etc..._
+> >   - _Best for medium - small sites._
+> >   - _Open Source._ `Free`
+> >   - _Install onto website (each)_ - `WPScan - Wordpress Security Scanner plugin`
+> >   
+> 
+
+
 ---
 
 ## **Week-2** : Functionality / UX
