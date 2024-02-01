@@ -69,6 +69,19 @@ Delivery both in and out of class (i.e, learning materials)
   </a>
 </ul>
 
+#### Installing Wordpress
+> `utf8mb4_general_ci`
+
+<p>
+  <a href="https://developer.wordpress.org/advanced-administration/before-install/howto-install/">Instalation Guide</a>
+  or Recording (session-1) in BlackBoard Shell.
+</p>
+
+1. Install Laragon
+2. Start Laragon
+3. Create Root File
+4. Download Wordpress & Extract to root
+
 ## **Week-1** : Intro _(Planning, Analysing & Proposing)_
 
 > ### Notes:
