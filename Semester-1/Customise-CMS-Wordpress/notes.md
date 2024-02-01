@@ -10,6 +10,13 @@ Delivery both in and out of class (i.e, learning materials)
 | 1 pt2    | Own theme    | week 10  |
 | 2        | Client       | week 17  |
 
+<p>
+  <sub>
+    Assessment-1.1 -- <i>Create child theme with...</i><br>
+    - functions.php that includes - Widgets, Hooks, Actions, Filters.<br>
+  </sub
+<p>
+
 - _80% employment outcome from grad show._
 
 #### Coding Standards
