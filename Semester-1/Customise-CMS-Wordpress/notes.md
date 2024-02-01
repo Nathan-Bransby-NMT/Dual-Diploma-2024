@@ -57,6 +57,9 @@ Delivery both in and out of class (i.e, learning materials)
   <a href="https://wordpress.org/plugins/">
     <li><sub><b>Wordpress</b> : Plugins</sub></li>
   </a>
+  <a href="https://wordpress.org/themes/">
+    <li><sub><b>Wordpress</b> : Themes</sub></li>
+  </a>
 </ul>
 
 #### Plugins
