@@ -5,7 +5,7 @@ LAP : Back-End **NEEDS UPDATING**
 Delivery both in and out of class (i.e, learning materials)
 
 | Assement | Duscription  | Due Date |
-|+--------+|+------------+|+--------+|
+|----------+--------------+----------|
 | 1 pt.1   | Chilld theme | week 5   |
 | 1 pt.2   | Own theme    | week 10  |
 | 2        | Client       | week 17  |
