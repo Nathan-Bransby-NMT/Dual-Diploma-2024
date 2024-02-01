@@ -23,16 +23,16 @@ Delivery both in and out of class (i.e, learning materials)
 
 <ul>
   <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/">
-    <li>CSS Coding Standards</li>
+    <li><sub><b>CSS</b> Coding Standards</sub></li>
   </a>
   <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/html/">
-    <li>HTML Coding Standards</li>
+    <li><sub><b>HTML</b> Coding Standards</sub></li>
   </a>
   <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/">
-    <li>JavaScript Coding Standards</li>
+    <li><sub><b>JavaScript</b> Coding Standards</sub></li>
   </a>
   <a href="https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/">
-    <li>PHP Coding Standards</li>
+    <li><sub><b>PHP</b> Coding Standards</sub></li>
   </a>
 </ul>
 
