@@ -2,7 +2,7 @@
 
 ## Homework
 
-<a href="">
+<a href="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Advanced-Programming-Cluster/Exercises/lifo_singly_linked_list.py">
   <h3>LIFO (<i>Last In First Out</i>) Singly Linked List</h3>
 </a>
 
