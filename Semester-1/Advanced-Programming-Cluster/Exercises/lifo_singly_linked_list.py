@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import Any
 
 
@@ -6,7 +7,7 @@ class Node:
     Node class for representing elements in a linked list.
     """
 
-    def __init__(self, value: Any, next_node: 'Node' = None) -> None:
+    def __init__(self, value: Any, next_node: Node = None) -> None:
         """
             Initialises a node with given data.
 
@@ -14,8 +15,8 @@ class Node:
             value (Any): The data to be stored in the node.
             next_node (Node): The next node for the list to point to.
         """
-        self.value = value
-        self.next = next_node
+        self.value: Any = value
+        self.next: Node or None = next_node
 
 
 class LinkedLIFO:
@@ -23,7 +24,7 @@ class LinkedLIFO:
     A LIFO (Last-In, First-Out) Singly Linked List.
     """
 
-    head: Node | None = None  # The current element being focused in the list.
+    head: Node or None = None  # The current element being focused in the list.
 
     @property
     def is_empty(self) -> bool:
@@ -114,8 +115,7 @@ class MusicPlayer:
             number_of_songs (int): The number of songs to queue.
                        - Default as `0`.
         """
-        self.playlist = LinkedLIFO(
-            [n + 1 for n in range(number_of_songs)])
+        self.playlist = LinkedLIFO([n + 1 for n in range(number_of_songs)])
 
     def get_ids(self) -> None:
         """
