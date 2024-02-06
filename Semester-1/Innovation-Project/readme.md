@@ -3,7 +3,12 @@
 ## Course Information 
 
 > ### Group Members:
-> -
+> **Session-2**
+> - Nathan Bransby (me)
+> - Clive Chipunzi
+> - Alicia Soo
+> - Kinga Papay
+> - Vihn Do
 
 ## Notes
 
