@@ -47,5 +47,9 @@
 [NMTAFE 2024 - 2026 Strategic Plan.pdf](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/files/14174166/NMTAFE.2024.-.2026.Strategic.Plan.pdf)
 
 #### Exercise
-> create a strategic plan 
+> create a strategic plan
+<p> 
+  <sub><b>Group Document</b> <i>(Woolworths Strategic Plan)</i></sub>
+</p>
 
+[Document.docx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/files/14174671/Document.docx)
