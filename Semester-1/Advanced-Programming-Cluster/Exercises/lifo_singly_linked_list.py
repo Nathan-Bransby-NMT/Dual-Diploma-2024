@@ -18,6 +18,13 @@ class Node:
         self.value: Any = value
         self.next: Node or None = next_node
 
+    def __str__(self) -> str:
+        return str(value)
+
+    def __repr__(self) -> str:
+        cls_type = self.__class__.__name__
+        return f"{cls_type}({self.value!r}, {self.next!r})"
+
 
 class LinkedLIFO:
     """
