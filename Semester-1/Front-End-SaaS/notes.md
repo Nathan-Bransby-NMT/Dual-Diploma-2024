@@ -81,4 +81,21 @@
 >   - Remembers previous interactions.
 >   - Can change states with interaction, etc...
 
-### 
+---
+
+## Week2
+**Topic** - SaaS Tech Trends.
+
+
+- Generative AI
+  - Opened the door to AI driven product inhancements
+  - Widely replacing first contant customer support
+    - Personalises the interaction to the customer, enhancing overall user support
+
+  - **Links**: [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjD9L3ViZiEAxW9Z2wGHfdUDucQqb0CegQIABA6&url=https%3A%2F%2Fmedium.com%2Fpaypro-global%2F12-saas-trends-to-watch-in-2024-5613a361a234&usg=AOvVaw1HNGmoyf8KHmKD_6W2m5yC&opi=89978449](https://medium.com/paypro-global/12-saas-trends-to-watch-in-2024-5613a361a234), [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjD9L3ViZiEAxW9Z2wGHfdUDucQqb0CegQIABBA&url=https%3A%2F%2Fwww.clodura.ai%2Fblog%2F2024-vision-emerging-trends-shaping-the-b2b-saas-landscape%2F&usg=AOvVaw2n7nc0gmvLNvMT9MNUk3LM&opi=89978449](https://www.clodura.ai/blog/2024-vision-emerging-trends-shaping-the-b2b-saas-landscape/)https://www.clodura.ai/blog/2024-vision-emerging-trends-shaping-the-b2b-saas-landscape/
+
+- The shift towards subscription based models
+  - Driven by the rising demand for customer-centric su 
+
+  - **Links**: https://pathmonk.com/7-saas-marketing-trends-and-tactics-success-in-2024/ 
+   
