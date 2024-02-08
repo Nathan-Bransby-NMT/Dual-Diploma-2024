@@ -149,8 +149,15 @@ Delivery both in and out of class (i.e, learning materials)
 
 > ### Notes:
 > > #### Session-2.1
+> >
+> > **Organising Content**:
 > > - **Content Strategy:**
-> >   - _._ 
+> >   - _Strategic planning on what content to display and how to maximise the users experience._
+> > 
+> > **Identifying / Prioritising features;**
+> > - Looking at modules / distribution that will acomplish the functionality required.
+> > 
+> > **Understand users of the site and how they may use the site.
 > >
 >
 
