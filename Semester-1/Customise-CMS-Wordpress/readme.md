@@ -109,6 +109,25 @@ Delivery both in and out of class (i.e, learning materials)
   </ul>
 </div>
 
+---
+
+### Books & `.pdf` Documents
+
+<div>
+  <p>
+    <ul>
+      <li>
+        <a href="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Customise-CMS-Wordpress/the-basics-of-ux-design.pdf">
+          The Basics of UX Design.
+        </a>
+      </li>
+    </ul>
+  <sub>Contains <b>IMPORTANT</b> Information on creating UX designs and, conducting user interviews.</sub>
+  </p>
+</div>
+
+---
+
 ## **Week-1** : Intro _(Planning, Analysing & Proposing)_
 
 > ### Notes:
