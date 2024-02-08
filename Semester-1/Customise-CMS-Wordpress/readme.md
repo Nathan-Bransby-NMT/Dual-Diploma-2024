@@ -82,7 +82,7 @@ Delivery both in and out of class (i.e, learning materials)
 3. Create Root File
 4. Download Wordpress & Extract to root
 
-## **Tips & Design for Progressive Web Apps
+## **Tips & Design for Progressive Web Apps**
 
 <div>
   <ul>
@@ -129,11 +129,13 @@ Delivery both in and out of class (i.e, learning materials)
 ## **Week-2** : Functionality / UX
 
 > ### Notes:
-> 
+> > #### Session-2.1
 > > - **Content Strategy:**
-> >   - __ 
+> >   - _._ 
 > >
-> 
+>
+
+<!--Site Reference-->
 <p>
   <a href="https://uxbooth.com/articles/complete-beginners-guide-to-content-strategy/">
     <sub>UX Booth - Complete guide to content strategy.</sub>    
