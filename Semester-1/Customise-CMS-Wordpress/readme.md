@@ -82,6 +82,33 @@ Delivery both in and out of class (i.e, learning materials)
 3. Create Root File
 4. Download Wordpress & Extract to root
 
+## **Tips & Design for Progressive Web Apps
+
+<div>
+  <ul>
+    <li>
+      <a href="https://www.netguru.com/blog/pwa-ios">
+        6 Tips to make your iOS PWA feel like a native app.
+      </a>
+    </li>
+    <li>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps">
+        MDN - Mozilla - Progressive web apps (PWAs)
+      </a>
+    </li>
+    <li>
+      <a href="https://web.dev/explore/progressive-web-apps">
+        WebDev - Google Developers - Progressive Web Apps
+      </a>
+    </li>
+    <li>
+      <a href="https://developer.chrome.com/blog/getting-started-pwa">
+        Google - Getting Started with Progressive Web Apps
+      </a>
+    </li>
+  </ul>
+</div>
+
 ## **Week-1** : Intro _(Planning, Analysing & Proposing)_
 
 > ### Notes:
@@ -100,6 +127,18 @@ Delivery both in and out of class (i.e, learning materials)
 ---
 
 ## **Week-2** : Functionality / UX
+
+> ### Notes:
+> 
+> > - **Content Strategy:**
+> >   - __ 
+> >
+> 
+<p>
+  <a href="https://uxbooth.com/articles/complete-beginners-guide-to-content-strategy/">
+    <sub>UX Booth - Complete guide to content strategy.</sub>    
+  </a>
+</p>
 
 ---
 
