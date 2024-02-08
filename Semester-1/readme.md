@@ -1,4 +1,8 @@
-# Tasks to Complete
+<p>
+  <sub>**<b>Note</b> - Class related notes are found in the `readme.md` file for each subject.</sub>
+</p>
+
+# Tasks & Reminders
 > Semester-1
 
 | **Subject** | **Description** | **Issue-Date** | **Due-Date** | **Status** | **Notes** |
