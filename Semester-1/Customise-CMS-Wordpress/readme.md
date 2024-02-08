@@ -4,6 +4,8 @@ LAP : Back-End **NEEDS UPDATING**
 
 Delivery both in and out of class (i.e, learning materials)
 
+_**side-note:** Client pays for plugins, etc..._
+
 | Assement | Duscription  | Due Date |
 |----------|--------------|----------|
 | 1 pt1    | Chilld theme | week 5   |
@@ -79,8 +81,10 @@ Delivery both in and out of class (i.e, learning materials)
 
 1. Install Laragon
 2. Start Laragon
-3. Create Root File
-4. Download Wordpress & Extract to root
+3. ensure phpMyAdmin is installed in `/ProgramData/Laragon/etc/apps`
+5. Download Wordpress & Extract to `/ProgramData/Laragon/www/{site-name}` 
+6. Create new Database file and edit `wp-config-sample.php` -> username -> password -> db name -> etc...
+7. run `localhost` in browser, configure wordpress dashboard.
 
 ## **Tips & Design for Progressive Web Apps**
 
