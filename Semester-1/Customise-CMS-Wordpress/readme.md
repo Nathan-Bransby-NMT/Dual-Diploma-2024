@@ -200,3 +200,7 @@ _**side-note:** Client pays for plugins, etc..._
 ## **Week-11 - Week-16** : Working on Client Project
 
 ---
+
+# Misc. Notes:
+- Create WP plug-in that checks the repo's commit version on interaction. If updated fetch changes from upstream.
+  - (_updates local wp editor version to meet the changes_)
