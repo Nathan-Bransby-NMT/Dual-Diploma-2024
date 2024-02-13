@@ -10,6 +10,11 @@
 > - Kinga Papay
 > - Vihn Do
 
+> ### Clients
+> PLUM - (Lecturer learning tool)
+> Wayfinder - (NMTAFE student mobile app)
+> Shire of Chittering - (Existing codebase)
+
 ## Notes
 
 > ### Week-1
@@ -61,6 +66,6 @@
 
 ---
 
-### Week-3 _(...)_
-> #### Notes:
+### Week-3 _(Projects & Developing Ideas)_
+> #### Ideas & Solutions:
 > - 
