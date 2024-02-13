@@ -68,4 +68,26 @@
 
 ### Week-3 _(Projects & Developing Ideas)_
 > #### Ideas & Solutions:
-> - 
+> - **Colaboration**
+>   - Great Ideas
+>  
+> - **Brainstorming Tools**
+>   - Mind Mapping
+>     - Visual Organisation
+>     - Identifying central idea
+>     - Branching / Webs of ideas that clustered.
+>     
+>   - Star Bursting
+>     - Like a mind map - more specific (i.e, **who, what, where, when, why, how**)
+>    
+>   - SWOT Analysis
+>     - Wuater a space and identify -- **srengths, weaknesses, opertunities, threats**
+>       
+>   - Disney Approach
+>     - Relies on some roleplay (3-4 people minimum)
+>     - **Dreamer** - _Creative and passionate, think of big picture._
+>     - **Realist** - _Thinking more logically, narrow ideas to a short list, create an action plan to apply into a reality._
+>     - **Critic** - _Thinks more critically, obsticals and what could go wrong having heard the action plan._
+>     - **Outsider** - _To gain an analytical, external view of the challenge._
+>    
+> [https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Innovation-Project/slides/Ideas and solutions.pptx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx)https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx
