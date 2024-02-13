@@ -14,6 +14,7 @@
 | __CMS__ | *Install Laragon & Wordpress* | `THURSDAY 01-02` | `THURSDAY 08-02` | ✅️ | _Watch recorded lecturer._ |
 | __IP&E__ | *Expand notes from activity book into paragraph format.* | `Each Week` | `Week10` | ☑️ | `N/A` |
 | __IP&E__ | *Knowlege question-1* | `Week1` | `Week3` | ☑️ | `N/A` | 
+| __Adv Prog__ | *Assessment Portfolio Task -1* | `TURESDAY 13/02/24` | `TUESDAY 27/02/24` | ❌️ | `N/A` |
 
 
 ### Keys
