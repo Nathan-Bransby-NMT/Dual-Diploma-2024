@@ -97,6 +97,12 @@
 >     - Attainable
 >     - Relevant
 >     - Time-Based
+>    
+>  - Non-functional Requirements
+>    - "...define system attributes such as security, reliability, performance, maintainability, scalability, and usability...Also known as system qualities, non-functional requirements are just as critical as functional."
+>    
+>  - Functional Requirements
+>    - "...A description of the service that the software must offer. It describes a software system or its component...It can be a calculation, data manipulation, business process, user interaction, or any other specific functionality which defines what function a system is likely to perform." 
 >
 > ##### SLIDE:
 > [https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Innovation-Project/slides/Ideas and solutions.pptx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx)https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx
