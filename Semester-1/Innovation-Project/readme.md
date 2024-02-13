@@ -89,6 +89,14 @@
 >     - **Realist** - _Thinking more logically, narrow ideas to a short list, create an action plan to apply into a reality._
 >     - **Critic** - _Thinks more critically, obsticals and what could go wrong having heard the action plan._
 >     - **Outsider** - _To gain an analytical, external view of the challenge._
+>    
+> - **Turning Ideas into Requirements**
+>   - **S.M.A.R.T**
+>     - Specific
+>     - Measureable
+>     - Attainable
+>     - Relevant
+>     - Time-Based
 >
 > ##### SLIDE:
 > [https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Innovation-Project/slides/Ideas and solutions.pptx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx)https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx
