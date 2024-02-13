@@ -90,5 +90,9 @@
 >     - **Critic** - _Thinks more critically, obsticals and what could go wrong having heard the action plan._
 >     - **Outsider** - _To gain an analytical, external view of the challenge._
 >
-> ##### SLIDE
+> ##### SLIDE:
 > [https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Innovation-Project/slides/Ideas and solutions.pptx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx)https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx
+
+> #### Requirements Specifications; Implementation Plan
+> > `Determine projects and requirements; Engage with clients; Implementation plan.`
+> 
