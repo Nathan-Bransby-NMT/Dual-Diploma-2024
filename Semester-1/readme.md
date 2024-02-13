@@ -11,7 +11,7 @@
 | __SaaS__ | *Create subscription to Traversary* | `WEDNESDAY 31-01` | `WEDNESDAY 07-02` | ❌️ | `N/A` |
 | __IoT__     | *Purchace ESP-32 Module.* | `WEDNESDAY 31-01` | `WEDNESDAY 14-02` | ✅️ | `N/A` |
 | __IoT__     | *Revision on Ohms Law.* | `WEDNESDAY 31-01` | `N/A` | ✅️ | `N/A` |
-| __CMS__ | *Install Laragon & Wordpress* | `THURSDAY 01-02` | `THURSDAY 08-02` | ❌️ | _Watch recorded lecturer._ |
+| __CMS__ | *Install Laragon & Wordpress* | `THURSDAY 01-02` | `THURSDAY 08-02` | ✅️ | _Watch recorded lecturer._ |
 | __IP&E__ | *Expand notes from activity book into paragraph format.* | `Each Week` | `Week10` | ☑️ | `N/A` |
 | __IP&E__ | *Knowlege question-1* | `Week1` | `Week3` | ☑️ | `N/A` | 
 
