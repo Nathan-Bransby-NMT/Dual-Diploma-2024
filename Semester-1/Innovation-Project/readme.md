@@ -100,6 +100,9 @@
 >
 > ##### SLIDE:
 > [https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Innovation-Project/slides/Ideas and solutions.pptx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx)https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/slides/Ideas%20and%20solutions.pptx
+>
+> ##### Exercise:
+> https://webwhiteboard.com/board/yy0dKdOF3IETsj7ADnc6NwYnOH0UQxSU
 
 > #### Requirements Specifications; Implementation Plan
 > > `Determine projects and requirements; Engage with clients; Implementation plan.`
