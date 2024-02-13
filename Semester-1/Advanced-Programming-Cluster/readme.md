@@ -1,5 +1,8 @@
 # Advanced Programming Cluster
 
+## Github Classrooms:
+> - `...`
+
 ##  Course Delivery :
 > - __Every 4 weeks__ - No delivery (*Important Attendance*)
 > - __Repo__ : https://github.com/NM-TAFE/diploma-adv-prog-python
@@ -45,3 +48,18 @@
 > #### Linked List
 > - Each Node(element) points to the next items memory address.
 > - O(1) 
+
+---
+
+> ### Week-3 _(VCS - [Github / Git])_
+
+> #### Notes:
+> - 70-80% industries use git.
+> - 5-10% use mercurial.
+>
+> - Git-Hosting:
+>   - Gitlab
+>   - Bit-Bucket
+>   - Github
+>
+> - 
