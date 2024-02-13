@@ -11,9 +11,9 @@
 > - Vihn Do
 
 > ### Clients
-> PLUM - (Lecturer learning tool)
-> Wayfinder - (NMTAFE student mobile app)
-> Shire of Chittering - (Existing codebase)
+> **PLUM** - (Lecturer learning tool)
+> **Wayfinder** - (NMTAFE student mobile app)
+> **Shire of Chittering** - (Existing codebase)
 
 ## Notes
 
