@@ -58,3 +58,9 @@
 </p>
 
 [Document.docx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/files/14174671/Document.docx)
+
+---
+
+### Week-3 _(...)_
+> #### Notes:
+> - 
