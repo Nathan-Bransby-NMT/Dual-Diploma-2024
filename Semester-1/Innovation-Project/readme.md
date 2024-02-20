@@ -11,9 +11,31 @@
 > - Vihn Do
 
 > ### Clients
-> - **PLUM** - (Lecturer learning tool)
-> - **Wayfinder** - (NMTAFE student mobile app)
-> - **Shire of Chittering** - (Existing codebase)
+> - **PLUM** - A tool for students to identify correct course selections from the ICT areas. Including assessment on AQF levels. (CIV/DIP). Quiz like in nature but underlying complexity to determine outcomes. Also allowing lecturers (or automatically) to revise and recommend better choices or additional/prior reading before commencement. 
+>   - The project is basically an aptitude test for students to take ideally before enrolling in their course. There will be around 20 questions asked, starting easy with cert 3 material and increasing in difficulty to diploma level. The questions will test both the knowledge and skills of the student relating to the course they are interested in.  
+>   - When they have finished the test a copy of the results will be emailed to them, and a recommendation will be given to them regarding what level the TAFE believes they are suited for and possibly where they can do further reading based on their test results. It’s hoped that by providing this self-assessment tool students will be able to enrol in courses appropriate to their level and this will help reduce the administrative burden on the staff and reduce student stress.
+>
+> - **Wayfinder** - (NMTAFE student mobile app) This application as navigation at its core. The implementation of this can be delivered in various methods, but ultimately its supposed to support students getting from class to class by aiding navigation. There is a consideration for safety when navigating between campus’. Use of mapping tools can be used but in the previous attempts at this project, the obvious routing approach has fallen short of expectations particularly in the allocated time.
+>   - Out of the box thinking is needed to brainstorm a solution to this problem.
+>   - Additional Features – Social updates and integration would be great to keep new students updated with announcements, contact info, events or support services such as student services, koolark, international etc.
+>   
+> - **Shire of Chittering** - The shire of chittering has been working with us to develop an application that their residents can use to access information about fire safety ratings, get notifications on upcoming events or general news . Post information (similar to their website) and generally reach and better connect to their communities.
+>   - Work has been completed initial prototyping and finally implementing a working version of the app including notifications and news and updates. Integration with their payments systems would be helpful. However more investigation into the missing elements of the application is required to establish what needs to be completed.
+>   - As work has already been made towards the app’s completion, technology will be heavily influenced by what already exists. The choice of changing this will have to be weighed if necessary.
+>     - Range of clients
+>     - Complex and highly secure needs
+>     - Sensitive data
+>     - Pre-existing technology and implementation to work with.
+>     - Clear design and style guidelines
+>     
+> **PREFS:**
+>
+> | Rating | Client |
+> |--------|--------|
+> | 1. | Shire of Chittering |
+> | 2. | Wayfinder |
+> | 3. | PLUMS |
+> 
 
 ## Notes
 
