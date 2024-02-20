@@ -138,5 +138,35 @@
 
 ---
 
-> ### Week-4 _(...)_
-> * ...
+> ### Week-4 _(Business Analysis)_
+> #### Assessment 1
+> - _Part-A - Individual Analysis / Solutions Report_
+> - Interview the client
+> - Solution must best suit the client
+> - Utillise group members skills and consider expectations with the reccomendation (solution)
+> - Send report as a draft (no limit on attempts)
+>
+> ##### Elements of the report
+> _(executive summary)_ - comes first -> done at the end
+> 
+> - **Title Page**
+> 
+> - **Introduction**
+>   - stakeholders: (client - clients customers - team members - self - etc...)
+>   - background of the client
+>   - project brief
+>   - problem / requirement statement
+>  
+> - **Body**
+>   - core objectives + strategic plan
+>   - existing solutiions - Description of existing frameworks etc./ SWOT / Gap Analysis / Facts & Figures
+>   - major deliverables (list of required deliverables for the client project [Not assessment])
+>     - documments? -- & who's signing them off
+>     - application -- key expectations / components
+>     - amy follow ups?
+>   - 
+>   - scope -- timeline
+>   - assumptions 
+>   - constraints - financial / timeline / etc...
+>
+> - **Sign off** -- company and client sign off
