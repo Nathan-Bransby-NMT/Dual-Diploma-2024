@@ -113,3 +113,8 @@
 > #### Requirements Specifications; Implementation Plan
 > > `Determine projects and requirements; Engage with clients; Implementation plan.`
 > 
+
+---
+
+> ## Week-4 _(...)_
+> * ...
