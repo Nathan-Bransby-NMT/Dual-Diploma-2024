@@ -2,6 +2,9 @@
   <sub>**<b>Note</b> - Class related notes are found in the `readme.md` file for each subject.</sub>
 </p>
 
+# Projects Assignment
+> - **Shire of Chittering**
+
 # Tasks & Reminders
 > Semester-1
 
@@ -15,7 +18,6 @@
 | __IP&E__ | *Expand notes from activity book into paragraph format.* | `Each Week` | `Week10` | ☑️ | `N/A` |
 | __IP&E__ | *Knowlege question-1* | `Week1` | `Week3` | ☑️ | `N/A` | 
 | __Adv Prog__ | *Assessment Portfolio Task -1* | `TURESDAY 13/02/24` | `TUESDAY 27/02/24` | ❌️ | `N/A` |
-
 
 ### Keys
 > - ❌️ : _Incomplete_
