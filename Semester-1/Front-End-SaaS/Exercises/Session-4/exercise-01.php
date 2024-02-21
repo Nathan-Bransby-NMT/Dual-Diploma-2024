@@ -15,19 +15,29 @@
  */
 
 // TODO:  1 Create a variable called phonetic.
+$phonetic = NULL;
 // TODO:  2 Add the Radio Phonetic alphabet to this variable as an
 //        array of values
+$phonetic = [Range('A', 'Z')];
 
 // TODO:  3 Create a variable called symbols.
+$symbols = NULL;
+
 // TODO:  4 Add the symbols !@#$%^&<>? and a space as an array of values
+$symbols = ['! ', '...'];
 
 // TODO:  5 Create a new variable called password, and make sure it is empty
+$password = NULL;
 
 // TODO:  6 Create two new variables, word1 and word2 and make them empty
+$word1 = $word2 = NULL;
+
 // TODO:  7 Create two more variables, symbol1 and symbol2 and make them empty
+$symbol1 = $symbol2 = NULL;
 
 // TODO:  8 Use the mt_rand function to select a word from the phonetic
 //          array, and store in word1
+$word1 = $phonetic[mt_rand(0, count($phonetic))]
 
 // TODO:  9 Use the mt_rand function to select a word from the phonetic
 //          array, and store in word2
