@@ -127,3 +127,7 @@ _(**TODO: Cover the following chapters from PHP from scratch course -- Traversy)
 > 3. open laragon
 > 4. `root` > bin > php >>
 > 5. BB learning materials > support materials > download and decompress php file > drag into php file in laragon.
+>
+> nested ternary operators removed *
+>
+> UBUNTU - use docker as DBMS!
