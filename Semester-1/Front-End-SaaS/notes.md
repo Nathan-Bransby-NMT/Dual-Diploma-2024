@@ -102,4 +102,22 @@
 
 
 - https://www.mybib.com - online ref generator
-   
+
+---
+
+## Week3
+_(**TODO: Cover the following chapters from PHP from scratch course -- Traversy)_
+- 01 Intro
+- 02 Types, Var, Expressions, +
+- 03 Loops & Arrays
+- 04 Conditionals
+- 05 Funcs
+- 06 OOP
+- 07 Superglobals
+
+---
+
+## Week4
+> Relational Database Systems
+>
+> 
