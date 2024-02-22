@@ -6,7 +6,7 @@ Delivery both in and out of class (i.e, learning materials)
 
 | Assement | Duscription  | Due Date |
 |----------|--------------|----------|
-| 1 pt1    | Chilld theme | week 5   |
+| 1 pt1    | Chilld theme | week 5 -- Need to start `week4`  | 
 | 1 pt2    | Own theme    | week 10  |
 | 2        | Client       | week 17  |
 
@@ -95,6 +95,8 @@ Delivery both in and out of class (i.e, learning materials)
 ---
 
 ## **Week-4** : Child Themes
+
+> -
 
 ---
 ## **Week-5** : Widgets & Plugins
