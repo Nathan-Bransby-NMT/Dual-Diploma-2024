@@ -88,15 +88,24 @@ Delivery both in and out of class (i.e, learning materials)
 
 ## **Week-2** : Functionality / UX
 
+**IMPORTANT** -- Delete sample config file after setting up database
+
 ---
 
 ## **Week-3** : Themes & Child Themes
 
+`To-Add from session.`
+
 ---
 
 ## **Week-4** : Child Themes
+`Start on child theme today`
 
-> -
+- note pc's deleting local work & deleting student content. complete at homw.
+
+> - wordpress runs on loops.
+> - look at child theme -- where is fiter / how can i apply it?
+> - 
 
 ---
 ## **Week-5** : Widgets & Plugins
