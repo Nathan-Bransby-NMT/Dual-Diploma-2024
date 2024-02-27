@@ -61,5 +61,46 @@
 >   - Gitlab
 >   - Bit-Bucket
 >   - Github
+
+---
+
+> ### Week-5 _(Hash Tables)_
+
+> #### Notes:
+> ##### Array
+>   - Contiguous memory
+>   - Set (fixed) size & data type
+>   - Indexed
 >
-> - 
+>  [1][2][3][4][5]
+>   a  b  c  d  e
+>
+> ##### Key-pair Values _(hash table)_
+> - **key** - meaningful unique per function
+> - All hash functions have a probability of collisions.
+>
+> ```python3
+> '''Simple (but bad) hash function'''
+>  from typing import Any
+> 
+>  # ord("h") >> 104 -- ASCII Table Char to Decimal
+> 
+>  def my_hash(data: str) -> int:
+>    result = 0
+>    for char in data:
+>      result += ord(char)
+>    return result  > # return the sum of ord values of each char
+>
+> 
+>  def other_hash(data: str, size: int) -> int:
+>    return sum(ord(c) for c in data) % size
+>
+> 
+> def main() -> None:
+>   ARRAY_SIZE: int = 42
+>   num, name = '500', 'RAF'
+>   array = [None] * ARRAY_SIZE
+>   array[other_hash(num)] = name
+>   print(array[other_hash(num)], f'{array[other_hash(num)]}=') >> Raf other_hash(num)=42
+> 
+> ```
