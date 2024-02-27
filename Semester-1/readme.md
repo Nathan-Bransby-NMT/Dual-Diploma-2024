@@ -6,7 +6,7 @@
 > - **Shire of Chittering**
 
 # Tasks & Reminders
-> Semester-1
+> Semester-1 - `DO NOT USE`
 
 | **Subject** | **Description** | **Issue-Date** | **Due-Date** | **Status** | **Notes** |
 |---------|-------------|------------|---------|--------|--------|
