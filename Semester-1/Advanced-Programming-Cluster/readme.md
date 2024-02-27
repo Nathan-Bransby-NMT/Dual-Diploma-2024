@@ -76,6 +76,12 @@
 >   a  b  c  d  e
 >
 > ##### Key-pair Values _(hash table)_
+> > `Colection of key-value pairs`
+> > **map / dictionary / associative array**
+> > - **hash function** -- any input, returns hash with finite range.
+> >   - simplest is modulus `return val % n`
+> >     - with str to decimal `return n += ord(ch) for ch in val ... (psudo)`
+> 
 > - **key** - meaningful unique per function
 > - All hash functions have a probability of collisions.
 >
@@ -110,6 +116,23 @@
 > 
 > ```
 >
+> ##### Pearson Hashing
+> - substitution table
+> - limited from 0 - 255
+> 
 > ```python3
-> '''...'''
+> '''Pearson hashing'''
+> from random import shuffle
+> 
+> substitutionTable = list(range(256))  # k -> index, v = array val
+> shuffle(substitutionTable)
+>
+> '''
+> hash = 0
+> # objBytes is the sequence of bytes that make up the object..
+> for byte in objBytes:
+>   hash = substitutionTable[hash ^ byte]
+> return hash
+> '''
+> 
 > ``` 
