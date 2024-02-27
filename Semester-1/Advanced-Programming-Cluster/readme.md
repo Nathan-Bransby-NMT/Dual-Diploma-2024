@@ -4,8 +4,8 @@
 | **Assessment Task** | **Due-Dates** | **Status**   | **Upload-Status** |
 |---------------------|---------------|--------------|-------------------|
 | Portfolio Pt.1      | _27/02 -- Wk5_| `Completed`  | `Not-Uploaded`    |
-| Portfolio Pt.2      | _12/03_ --Wk7 | `Incomplete` | `Not-Uploaded`    |
-| `todo`              | `todo`        | `Incomplete` | `Not-Uploaded`    |
+| Portfolio Pt.2      | _12/03 -- Wk7_| `Incomplete` | `Not-Uploaded`    |
+| Portfolio Pt.3      | _`todo` --Wk10_| `Incomplete` | `Not-Uploaded`    |
 | `todo`              | `todo`        | `Incomplete` | `Not-Uploaded`    |
 | `todo`              | `todo`        | `Incomplete` | `Not-Uploaded`    |
 | `todo`              | `todo`        | `Incomplete` | `Not-Uploaded`    |
