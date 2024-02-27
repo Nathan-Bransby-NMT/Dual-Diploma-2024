@@ -91,6 +91,11 @@
 >      result += ord(char)
 >    return result  > # return the sum of ord values of each char
 >
+> ```
+>
+> 
+> ```python3
+> '''Simple (slightly better) hash function'''
 > 
 >  def other_hash(data: str, size: int) -> int:
 >    return sum(ord(c) for c in data) % size
@@ -104,3 +109,7 @@
 >   print(array[other_hash(num)], f'{array[other_hash(num)]}=') >> Raf other_hash(num)=42
 > 
 > ```
+>
+> ```python3
+> '''...'''
+> ``` 
