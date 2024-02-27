@@ -170,3 +170,31 @@
 >   - constraints - financial / timeline / etc...
 >
 > - **Sign off** -- company and client sign off
+
+---
+
+### Week - 5 _(Report Writing)_
+> #### Types of Reports
+> - **Academic/Scientific** - Lab reports, research papers, case studies
+> - **Business** - Annual, finance, project and marketing reports
+> - **Technical** - Feasibility, design and analysis reports, user manuals.
+>
+> #### Report Contents
+> - **Clarity & Accuracy** - Clear, concise. Use simple/direct language.
+> - **Objectibity** -
+> - **Relevance** -
+> - **Scope** -
+> - **Structure** -
+> - **Data analysis** -
+> - **Recommendations** -
+>
+> #### Structure
+> - **Introduction** -
+> - **Body** -
+> - **Conclusion** -
+>
+> #### Executive Summary
+> - **Start with problem**
+> - **Outline solution / objectives**
+> - **Explain and Justify**
+> - **Wrap up**
