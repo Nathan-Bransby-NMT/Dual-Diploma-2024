@@ -8,7 +8,7 @@ _**side-note:** Client pays for plugins, etc..._
 
 | Assement | Duscription  | Due Date |
 |----------|--------------|----------|
-| 1 pt1    | Chilld theme | week 5   |
+| 1 pt1    | Chilld theme | week 5 ** - _extended_   |
 | 1 pt2    | Own theme    | week 10  |
 | 2        | Client       | week 17  |
 
