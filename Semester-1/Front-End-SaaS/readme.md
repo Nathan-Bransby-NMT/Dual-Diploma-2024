@@ -22,6 +22,9 @@ Traversy - Head First PHP _Progress_
 
 # Notes
 
+## Docs
+- **TailwindCSS** -- https://tailwindcss.com/docs/installation
+
 ## Week 5
 
 ### TailwindCSS _(setting up & exercise)_
