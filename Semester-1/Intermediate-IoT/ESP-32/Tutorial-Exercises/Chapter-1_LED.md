@@ -46,3 +46,7 @@ In this project we will use an ESP32 to control blinking a common LED.
 > > 
 > >     R1 is I=U/R=5V/10KΩ=0.0005A=0.5mA
 > > ``` 
+
+### Schematics
+
+<img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/diagram_esp32_ch1-1.png" alt="ch1.1 exercise"/>
