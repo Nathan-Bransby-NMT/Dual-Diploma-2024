@@ -50,3 +50,37 @@ In this project we will use an ESP32 to control blinking a common LED.
 ### Schematics
 
 <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/diagram_esp32_ch1-1.png" alt="ch1.1 exercise"/>
+
+### Set-Up
+> 1. Open Arduino IDE.
+> 2. Create new project.
+> 3. Select the board:
+>   - `Tools` >> `Board` >> `ESP32 Wrover Module`
+> 4. Select the serial port:
+>   - `Tools` >> `Port` >> `COM5`
+
+
+### Programming Code
+
+```C
+/***************************************
+* Filename:     Blink.c
+* Author:       www.freenove.com
+***************************************/
+
+#define PIN_LED 2
+
+void setup() {
+    pinMode(PIN_LED, OUTPUT);
+}
+
+void loop() {
+    digitalWrite(PIN_LED, HIGH);
+    delay(1000);
+    digitalWrite(PIN_LED, LOW);
+    delay(1000);
+}
+
+```
+
+> - Finally upload the code to the ESP by pressing `Upload`.
