@@ -27,27 +27,29 @@ _**What are the 3 values in the ACS Code of Professional Conduct?**_
 
 ---
 ## Question-2
-``todo`` === (ITPA 2018) === https://www.itpa.org.au/code-of-ethics === 2018???
 
-_**List any 5 Codes of Ethics pertinent to the ICT industry in Australia_
+_**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
 
-_**- ``explain each, using 200-250 words``**_
+_**``-- explain each, using 200-250 words``**_
 
 > _**My Example_:
 >
-> > ### ITPA Code of Ethics
-> > _`(Information Technology Professions Association)`_
-> Here are some of the following codes adopted by the ITPA.
-> >
-> > 1. Fair Treatment - Ensures that everybody is treated fairly as equals without 
-> > discrimination based on personal attributes such as age, disability, sexual preferences 
-> > etc...
-> >
-> > 2. Privacy - This governs that anyone with access to private digital information is restricted to gaining access when it is not necessary in the line of their duties. Failure to comply could result in action being taken for breaching the statutory laws governing data such as the Australian Privacy Principles.
-> >
-> > 3. Communication - The obligation to inform users about any changes or disruptions that may affect them.
-> > 
-> > 4. System Integrity -
-``Todo``
-> >
-> > 5. Social Responsibility - The professional will keep up to date with social and legal issues ensuring their understanding is ethically aligned with the current laws and policies in ICT.
+> ### ITPA Code of Ethics
+> _`(Information Technology Professions Association)`_
+> 
+> - **Here are some of the following codes adopted by the ITPA;**
+> 
+> > **1. Fair Treatment** :
+> > Ensures that everybody is treated fairly as equals without discrimination based on personal attributes such as age, disability, sexual preferences, etc.
+> 
+> > **2. Privacy** : This governs that anyone with access to private digital information is restricted to gaining access when it is not necessary in the line of their duties. Failure to comply could result in action being taken for breaching the statutory laws governing data such as the Australian Privacy Principles.
+> 
+> > **3. Communication** : The obligation to inform users about any changes or disruptions that may affect them.
+> 
+> > **4. System Integrity** : System Integrity ensures that employees and professionals in the ICT industry make an effort when setting up computer systems and components and that the system has been cleary thought out and planned for the most suitable need.
+> > This also creates the obligation that ensure the employee has taken all precautions regarding securing the system as well as the maintainance over time.  
+> 
+> > **5. Social Responsibility** : The professional will keep up to date with social and legal issues ensuring their understanding is ethically aligned with the current laws and policies in ICT.
+>
+> ### AT1-KQ2 Reference List
+> -  _(ITPA 2018), https://www.itpa.org.au/code-of-ethics, © Information Technology Professions Association 2018_
