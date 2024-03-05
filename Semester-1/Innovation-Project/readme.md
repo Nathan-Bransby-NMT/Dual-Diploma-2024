@@ -201,6 +201,36 @@
 
 ---
 
-# Week 6 _(???)_
+## Week 6 _(Evaluating Solutions)_
 
-> - ...
+<p>
+<b>Links:</b><br>
+<sub>- https://www.linkedin.com/pulse/heres-how-evaluate-solutions-within-projects-michael
+<br>
+- https://project-management.com/6-ways-of-measuring-project-success/
+</sub>
+</p>
+
+### Why Evaluate?
+> - Reduce costs
+>   - i.e. automations, etc.
+> - Minimise risks
+> - Ensures User Adoption
+
+### Evaluation Criteria **[Important]**
+> - Technical compatability
+> - User Interface
+> - Performance & Scalability
+> - Security
+> - Cost
+> - Support & Maintainance
+> - Compatability with Industry Standards
+> - Intergraation With Existing Systems
+> - Customisation & Flexibillity
+> - Training and Adoption
+
+<img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/InoPrj_ElavuationCriteria.png" alt="Innovation Project - Evaluation Criteria"/>
+
+### Industry Standards **_(ISO)_**
+> ISO - Industry specifics on security and software...
+
