@@ -9,3 +9,10 @@
 > https://exercism.org/tracks/python/exercises/linked-list/solutions
 > > Double Linked Exercise (Exercism)
 > **Side Note:** _Raff wants to catch up next week with python progress (week 4)_
+
+
+
+###########################################################
+# UPLOAD DOUBLE LINKED LIST!!!!
+
+WP login: j)1z5TyU3Q(revj44W
