@@ -2,6 +2,8 @@
 
 ## Course Information 
 
+Part 1 - week 10 - 7/4
+
 > ### Group Members:
 > **Session-2**
 > - Nathan Bransby (me)
@@ -233,4 +235,3 @@
 
 ### Industry Standards **_(ISO)_**
 > ISO - Industry specifics on security and software...
-
