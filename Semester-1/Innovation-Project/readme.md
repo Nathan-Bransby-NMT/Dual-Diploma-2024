@@ -198,3 +198,9 @@
 > - **Outline solution / objectives**
 > - **Explain and Justify**
 > - **Wrap up**
+
+---
+
+# Week 6 _(???)_
+
+> - ...
