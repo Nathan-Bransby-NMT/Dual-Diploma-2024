@@ -32,3 +32,8 @@ Traversy - Head First PHP _Progress_
   - https://www.youtube.com/watch?v=dFgzHOX84xQ
 - **Github** :
   - https://github.com/bradtraversy/tailwind-landing-page/blob/main/index.html   
+
+---
+
+## Week 6 _(Super Globals)_
+-
