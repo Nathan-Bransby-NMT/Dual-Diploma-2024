@@ -4,3 +4,6 @@
 [submodule "Semester-1/Customise-CMS-Wordpress/Assessment-1/Part-1/AT1pt1-CMS-ChildTheme"]
 	path = Semester-1/Customise-CMS-Wordpress/Assessment-1/Part-1/AT1pt1-CMS-ChildTheme
 	url = https://github.com/Nathan-Bransby-NMT/AT1pt1-CMS-ChildTheme.git
+[submodule "Semester-1/Front-End-SaaS/Assessments/SaaS-Portfolio"]
+	path = Semester-1/Front-End-SaaS/Assessments/SaaS-Portfolio
+	url = https://github.com/Nathan-Bransby-NMT/SaaS-Portfolio.git
