@@ -1,4 +1,4 @@
-<!--Replace content which was hear to the following code -->
+<!--Replace content which was here to the following code -->
 
 <?php
  /*
