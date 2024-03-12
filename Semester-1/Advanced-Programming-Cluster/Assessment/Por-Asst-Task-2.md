@@ -55,17 +55,26 @@ Hashing is the conversion of input data of arbitrary size into a fixed size stri
 **Q3. _Provide a stepwise description (algorithmic) of;** 
 
 a. **How you can store a password safely using hashing techniques?**
-    1. Retrieve the user input
-    2. Randomly generate a unique salt value
-    3. Combine the salt with the password.
-    3. Apply a hash function
-    4. Store the salt value along with the hashed password in the database with the user id.
+
+1. Retrieve the user input
+
+2. Randomly generate a unique salt value
+
+3. Combine the salt with the password.
+    
+4. Apply a hash function
+    
+5. Store the salt value along with the hashed password in the database with the user id.
 
 b. **How you can verify that some string is the right password?_**
-    1. Retrieve the hashed password and salt from the assossiated user id from the database.
-    2. Combine the provided password and salt
-    3. Use the same hash function that was used in explination a.
-    4. Compare the hashed passwords
+    
+1. Retrieve the hashed password and salt from the assossiated user id from the database.
+    
+2. Combine the provided password and salt
+    
+3. Use the same hash function that was used in explination a.
+    
+4. Compare the hashed passwords
 
 ---
 
