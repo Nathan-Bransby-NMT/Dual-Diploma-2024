@@ -1,5 +1,8 @@
 # Innovation Project _(Semester-1)_
 
+nmt.diploma_group2024@outlook.com
+Tafe2024
+
 ## Course Information 
 
 Part 1 - week 10 - 7/4
