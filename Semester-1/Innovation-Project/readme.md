@@ -1,5 +1,10 @@
 # Innovation Project _(Semester-1)_
 
+nmt.diploma_group2024@outlook.com
+Tafe2024
+
+[Contacts](https://tafewa.sharepoint.com/:w:/s/NMTStudentPINICT50220-Project-ShireofChittering2024/EXYJsP9lKa5KjlNh7mxmBecBs1n2Lrq_sWbTIjM3-bHvOw)
+
 ## Course Information 
 
 Part 1 - week 10 - 7/4
