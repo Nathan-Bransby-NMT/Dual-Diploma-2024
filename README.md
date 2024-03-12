@@ -1,6 +1,15 @@
 # **NMT Dual-Diploma** (_Advanced Programming & Back-End Web_) - 2024
 
----
+### Note for submodule directories: 
+> `todo` - Reference [THIS](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+> #### To add a submodule
+>   - go to parent directory
+>  ```bash
+>     $ git submodule add <url>
+>  ```
+> #### Commiting to a submodule
+> `todo` 
+-
 
 ## **Semester-1**
 
