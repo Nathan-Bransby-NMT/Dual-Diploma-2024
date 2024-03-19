@@ -378,4 +378,7 @@
 > # Sorted
 > lst = lst.sort()
 > ```
+>
+> _Code Asthetic Link:_
+> * [**Premature Optimisation - _YouTube_**](https://www.youtube.com/watch?v=tKbV6BpH-C8)
 
