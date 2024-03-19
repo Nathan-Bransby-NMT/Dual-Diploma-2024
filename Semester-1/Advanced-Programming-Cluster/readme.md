@@ -359,11 +359,11 @@
 >> Repeated frames being called and **the stack** overflows
 >
 > _Example:_
->```python3
+>```python
 > def a(v: int) -> int:
 >   return a(v) + 1
 >
-> >> RecursionError: ...
+> # >> RecursionError: ...
 >```
 >
 > functional programming might not implement `for loops` -- (i.e. functional recursion.)
@@ -371,7 +371,7 @@
 > ### Sorting
 > _python sorting algorithm:_"
 >
-> ```python3
+> ```python
 > # Unsorted
 > lst = [52, 22, 1, 8, ...]  
 > 
@@ -381,4 +381,171 @@
 >
 > _Code Asthetic Link:_
 > * [**Premature Optimisation - _YouTube_**](https://www.youtube.com/watch?v=tKbV6BpH-C8)
+>
+>
+#### Quick-Sorting Functions
+ ```python 3.8+
+import random
 
+
+class Player:
+    
+    def __init__(self, score: int) -> None:
+        self.score = score
+
+    def __lt__(self, other):
+        return self.score < other.score
+
+    def __gt__(self, other):
+        return self.score > other.score
+
+    def __ge__(self, other):
+        return self.score >= other.score
+
+    def __eq__(self, other):
+        return self.score == other.score
+
+    def __repr__(self) -> str:
+        return `f"{self.__class__.__name__}({self.score!r})"
+
+
+def quicksort(arr: list) -> list:
+    """"Quicksort Method"""
+    if len(arr) <= 1:
+        return arr  
+
+    pivot = data[0]  # Base Array
+
+    left = [i for i in data[1:] if i < ivot]
+    right = [i for i in array[1:] if i >= ivot]
+
+    return (quicksort(left)
+         + [pivot]
+         + quicksort(right))
+
+
+def main():
+    random_scores = random.sample(range(1000), 1000)
+    players = [Player(i) for _ in range(5)]
+    # >> [Plater(...), Player(...), ...]
+
+    assert quicksort(players) != players
+
+if __name__ == '__main__':
+    main()
+```
+
+
+<h4><center>Binary Search Trees</h4>
+
+> 1. _Directed_, 
+> 2. _Acyclic_, 
+> 3. _Graph_
+
+- **Tree** : Acyclic -- _branches, nodes_
+```
+    [3] <-- root
+   /  \
+  [2]  [5]
+  /\    \
+[1]  [4] [6]
+```
+
+- **Binary _(Tree)_** :  _Binary??_
+- **Search** : ...
+```
+     [n]
+  > /   \ <=
+  [lt]  [ge]
+  / \   /  \
+ []  [][]  []
+```
+
+- height : the height of the tree
+- depth  : relative to the node (count of height to node)
+
+>- **Binary tree can be recursive of binary trees**
+
+```
+a. 
+(h1)      O
+(h2)     / \ 
+(h3)    O   O
+(h4)  / |   | \
+(h5) O  O   O  O
+
+b. 
+(h1)      O
+(h2)     / \ 
+(h3)    O   O
+
+```
+
+_Example of binary search tree_
+
+```python
+class Player:
+    ...
+
+
+class Node:
+    def __init__(self, 
+                 player: Player, 
+                 left: Node | None, 
+                 right: Node | None):
+        self.player = player
+        self.left = left
+        self.right = right
+
+    def __repr__(self) -> str:
+        class_name = self.__class__.__name__
+        return f"{class_name}({self.player!r}, {self.left}, {self.right})"
+
+
+class BinarySearchTree:
+    
+    def __init__(self,
+                 _root: Node | None) -> None:
+        self.root = _root
+    
+    def _set_left(self, 
+                  current_node: Node | None, 
+                  new_node: Node | None) -> None:
+        current_node.left = new_node
+
+    def _set_right(self, 
+                   current_node: Node, 
+                   new_node: Node | None) -> None:
+        current_node.right = new_node        
+
+    def insert(self, 
+               node: Node, current_node: Node | None = None):
+
+        if self.root is None:
+            self.root = node
+            return
+
+        current_node = current_node or self.root
+        
+        if self.root.player < node.player:
+
+            if current_node.player < node.player:
+                return self._set_left(curret_node, left)
+            
+            self.root.left = node
+            return self.insert(node, current_node.left)
+            
+        if current_node.right is None:
+            return self._set_right(current_node, node)
+        return self.insert(node current_node.right)
+
+    def __repr__(self) -> str:
+        class_name = self.__class__.__name__
+        return f"{class_name}({self.root!r})"
+
+
+if __name__ == '__main__':
+    bst = BinarySearchTree(Node(Player(42)))
+    bst.insert(Node(Player(24)))
+    bst.insert(Node(Player(62)))
+```
