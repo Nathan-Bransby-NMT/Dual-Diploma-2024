@@ -344,3 +344,38 @@
 >
 ><center><sub>End</sub>
 
+---
+
+## Week 8 _(Sorting Algorithms)_
+> ### Stack 
+>
+>> - Data Type
+>> - Last In First Out (**LIFO**)
+>
+> ### The Stack
+>> - order of execution
+
+> ### [Recursion](https://www.google.com/search?q=recursion&oq=recursion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMjczMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
+>> Repeated frames being called and **the stack** overflows
+>
+> _Example:_
+>```python3
+> def a(v: int) -> int:
+>   return a(v) + 1
+>
+> >> RecursionError: ...
+>```
+>
+> functional programming might not implement `for loops` -- (i.e. functional recursion.)
+
+> ### Sorting
+> _python sorting algorithm:_"
+>
+> ```python3
+> # Unsorted
+> lst = [52, 22, 1, 8, ...]  
+> 
+> # Sorted
+> lst = lst.sort()
+> ```
+
