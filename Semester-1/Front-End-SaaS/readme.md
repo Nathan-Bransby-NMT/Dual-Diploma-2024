@@ -1,4 +1,5 @@
 Traversy - Head First PHP _Progress_
+> complete course before the monday after the week break _(Term-1 - Term-2)_
 
 | **Chapter** | **Expected Due-Date** | **Status** | **Upload-Status** |
 |-------------|-----------------------|------------|-------------------|
@@ -162,3 +163,53 @@ $dog->sound(); // Outputs "Dog barks!"
 
 ---
 
+## Week 7 _(Routing)_
+
+### Router as a class
+- 
+
+```PHP
+class Router
+{
+  protected $routes = [];
+
+  public function registerRoute($method, $uri, $controller)
+  {
+    $this->routes[] = [
+      'method' => $method,
+      'uri' => $uri,
+      'controller' => $controller,
+    ];
+  }
+
+  public function get($uri, $controller)
+  {
+    $this->registerRoute('GET', $uri, $controller);  
+  }
+
+  public function error($http_code = 404) 
+  {
+    http_response_code($http_code);
+  }
+
+  public function route()
+}
+```
+
+### Database Class
+
+<img src="" alt=""/> <!--Slide-1-->
+
+<p>
+  <sub><b>Slide - 1</b></sub>
+</p>
+
+<img src="" alt=""/> <!--Slide-2-->
+
+<p>
+  <sub><b>Step - 2</b><br/><i> &nbsp;&nbsp; - Query Method</i></sub>
+</p>
+
+<img src="" alt=""/> <!--Slide-3-->
+
+<img src="" alt=""/> <!--Slide-4-->
