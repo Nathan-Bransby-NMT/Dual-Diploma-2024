@@ -190,26 +190,69 @@ class Router
   public function error($http_code = 404) 
   {
     http_response_code($http_code);
+    loadView("error/{$http_code}");
+    exit();
   }
 
-  public function route()
+  public function route($uri, $method)
+  {
+    foreach ($this->routes as $route) {
+      if ($route['uri'] === $uri && $route['method'] === $method) {
+        require basePath($route['controller']);
+        return;
+      }
+    }
+
+    $this->error();
+  }
 }
+```
+
+```PHP
+$router->get('/', 'controllers/home.php');
+$router->get('/listings', 'controllers/listings/index.php');
+$router->get('/listings/create', 'controllerss/listings/create.php');
+```
+
+#### The Refactored Page
+
+```PHP
+require basePath('Router.php');
+
+$router = new Router();
+$routes = require basePath('routes.php');
+
+$uri = $_SERVER['REQUEST_URI'];
+$method = $_SERVER['REQUEST_METHOD'];
+
+$router->route($uri, $method);
 ```
 
 ### Database Class
 
-<img src="" alt=""/> <!--Slide-1-->
 
 <p>
   <sub><b>Slide - 1</b></sub>
 </p>
 
-<img src="" alt=""/> <!--Slide-2-->
+<img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/Slides/SaaS-Database-Classes/db-class-slide1.png" alt=""/> <!--Slide-1-->
 
 <p>
-  <sub><b>Step - 2</b><br/><i> &nbsp;&nbsp; - Query Method</i></sub>
+  <sub><b>Slide - 2</b></sub>
 </p>
 
-<img src="" alt=""/> <!--Slide-3-->
+<img src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Slides/SaaS-Database-Classes/db-class-slide2.png?raw=true" alt=""/> <!--Slide-2-->
 
-<img src="" alt=""/> <!--Slide-4-->
+<p>
+  <sub><b>Slide - 3</b></sub>
+  <br/>
+  <small><i> &nbsp;&nbsp; - Query Method</i></small>
+</p>
+
+<img src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Slides/SaaS-Database-Classes/db-class-slide3.png?raw=true" alt=""/> <!--Slide-3-->
+
+<p>
+  <sub><b>Slide - 4</b></sub>
+</p>
+
+<img src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Slides/SaaS-Database-Classes/db-class-slide4.png?raw=true" alt=""/> <!--Slide-4-->
