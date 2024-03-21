@@ -3,14 +3,14 @@
 ## Quick Navigation
 > **Semester-1**
 > > **_Diploma - Advanced Programming._**
-> 
-> [`Advanced Programming`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Advanced-Programming-Cluster)
->
-> [`Apply IP & Ethics`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
+> >
+> > [`Advanced Programming`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Advanced-Programming-Cluster)
+> >
+> > [`Apply IP & Ethics`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
 >
 > > **_Diploma - Back-End Web Development._**
-> [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
-> * 
+> > [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
+>  
 
 ### Note for submodule directories: 
 > `todo` - Reference [THIS](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
