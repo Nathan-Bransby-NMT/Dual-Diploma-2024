@@ -1,13 +1,15 @@
 # **NMT Dual-Diploma** (_Advanced Programming & Back-End Web_) - 2024
 
 ## Quick Navigation
-> **Semester-1**
+
+### Semester-1
+
 > - **_Diploma - Advanced Programming._**
 > 
 >   - [`Advanced Programming`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Advanced-Programming-Cluster)
 > 
 >   - [`Apply IP & Ethics`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
->
+
 > - **_Diploma - Back-End Web Development._**
 >   - [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
 >  
