@@ -3,7 +3,9 @@
 <div>
   <h2>Quick Navigation:</h2>
   <div style="padding: 20px; display: flex-col;">
-    <button>Test</button>
+    <div style="background-color: #000; color: #fff;">
+      <a ref="">Test</a>
+    </div>
   </div>
 </div>
 
