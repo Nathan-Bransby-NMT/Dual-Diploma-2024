@@ -1,13 +1,11 @@
 # **NMT Dual-Diploma** (_Advanced Programming & Back-End Web_) - 2024
 
-<div>
-  <h2>Quick Navigation:</h2>
-  <div style="padding: 20px; display: flex-col;">
-    <div style="background-color: #000; color: #fff;">
-      <a ref="">Test</a>
-    </div>
-  </div>
-</div>
+## Quick Navigation
+> **Semester-1**
+> * [`Advanced Programming`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Advanced-Programming-Cluster)
+> * [`Apply IP & Ethics`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
+> * [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
+> * 
 
 ### Note for submodule directories: 
 > `todo` - Reference [THIS](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
