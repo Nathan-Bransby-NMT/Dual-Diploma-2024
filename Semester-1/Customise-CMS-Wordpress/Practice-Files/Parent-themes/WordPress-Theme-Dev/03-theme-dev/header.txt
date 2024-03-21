@@ -1,0 +1,8 @@
+<!--/ Start Primary Navigation /-->
+  <div id="primary_navigation">
+    <ul>
+      <li <?php if ( is_home() ) { ?>class="current_page_item"<?php } ?>><a href="<?php echo get_settings('home'); ?>">Home</a></li>
+      <?php wp_list_pages('title_li=&sort_column=menu_order'); ?>
+    </ul>
+  </div>
+  <!--/ End Primary Navigation /-->
