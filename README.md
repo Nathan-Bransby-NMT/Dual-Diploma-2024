@@ -41,7 +41,7 @@ _Pretty much a master repository for storing and working through the Advanced Pr
 - [Apply IP & Ethics](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
 
 <div>
-  <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/d49a0bae268bae521c0dbee3740b5c04f615f157/Assets/dip-back-end.svg">
+  <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/9672bea2ee5cfceb0c18f840a3c673b147b7e73c/Assets/dip-back-end.svg">
 </div>
 
 - [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
