@@ -38,18 +38,148 @@ _Pretty much a master repository for storing and working through the Advanced Pr
 
 ---
 
-- [Apply IP & Ethics](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
+### ➢ [Apply IP, Privacy & Ethics](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Apply-IP-Privacy-and-Ethics)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+      
+      _Apply IP, Privacy & Ethics Cluster (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
+
+---
+
+### ➢ [**Front-End SaaS**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Front-End-SaaS)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+
+      _Front-End SaaS Cluster -<small>system as a service</small> (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
+    ---
+
+### ➢ [**Innovation Project**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Innovation-Project)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+      
+      _Innovation Project Cluster (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
+
+    ---
+
+### ➢ [**Intermediate IoT**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Intermediate-IoT)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+      
+      _Intermediate IoT Cluster (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
 
 <div>
   <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/9672bea2ee5cfceb0c18f840a3c673b147b7e73c/Assets/dip-back-end.svg">
 </div>
 
-- [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
-
-
 ---
 
-## **Semester-1** (_Assignments_)
+### ➢ [**Implement Quality Assurance**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Implement-Quality-Assurance)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+      
+      _Implement Back-End Quality Assurance Cluster (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
+  
+    ---
+
+### ➢ [**CMS WordPress**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Customise-CMS-Wordpress)
+
+  - <div>
+      <details>
+        <summary>
+          <b>Content</b> | Assessments | Notes 🔗 
+        </summary>
+      
+      _Customise CMS WordPress Cluster (directory)_
+
+      > **Notes**:
+      > - [**Semester-1**]() 
+      <!-- TODO -->
+
+      > [**Assessments**]()
+      > - ...
+      <!-- TODO -->
+
+      </details>
+    </div>
+  
+  ---
+
+## **Semester-1 TimeTable** (_Assignments_)
 
 ### Weeks 3-6
 
