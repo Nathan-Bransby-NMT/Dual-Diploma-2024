@@ -7,7 +7,7 @@ _Pretty much a master repository for storing and working through the Advanced Pr
 ## **Navigation / Links**
 
 <div>
-  <img src="assets/dip-adv-prg.svg" style="width: 100%"/>
+  <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/d49a0bae268bae521c0dbee3740b5c04f615f157/Assets/dip-adv-prg.svg" style="width: 100%"/>
 </div>
 
 ### ➢ [Advanced Programming cluster](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Advanced-Programming-Cluster)
@@ -40,7 +40,9 @@ _Pretty much a master repository for storing and working through the Advanced Pr
 
 - [Apply IP & Ethics](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Apply-IP-Privacy-and-Ethics)
 
-#### Diploma - Back-End Web Development
+<div>
+  <img src="https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/d49a0bae268bae521c0dbee3740b5c04f615f157/Assets/dip-back-end.svg">
+</div>
 
 - [`Back-End (Quality Assurance)`](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/Semester-1/Back-End-Quality-Assurance)
 
