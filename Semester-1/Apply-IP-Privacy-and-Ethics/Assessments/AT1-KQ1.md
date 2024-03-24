@@ -1,6 +1,6 @@
 # IP, Privacy & Ethics AT1-KQ1
 
-_**Date** : 05-03-2024_
+_**Submission** : 24-03-2024_
 
 _**Student** : Nathan Bransby_
 
@@ -8,7 +8,10 @@ _**Email Address** : V141198@TAFE.WA.EDU.AU_
 
 ---
 
-## Question-1 :
+## Assessment 1 - <small>1.1.</small>
+
+### 1. **AT-1.1 Q1.**
+---
 _**What are the 3 values in the ACS Code of Professional Conduct?**_
 
 > Whilst ACS has 3 core values outlined in their Code of Professional Ethics - **(Honesty, Trustworthiness & Respect)**, their Code of Professional Conduct consists of the following 6 core values;
@@ -20,17 +23,42 @@ _**What are the 3 values in the ACS Code of Professional Conduct?**_
 5. > Professional Development.
 6. > Professionalism.
 
-### KQ-1 Reference List
-- >_(Ethic and Discipline n.d.), https://www.acs.org.au, © 2024 Copyright reserved by ACS._
-
-- >_(ACS Code of Professional Condict Professional Standards Board), https://www.acs.ord.au, ©Australian Computer Society 2014._
+<div>
+    <p>
+        <pub>
+            <h3>References:</h3>
+            <ul>
+                <li>(Ethic and Discipline n.d.),
+                    <a href="https://www.acs.org.au">www.acs.org.au</a>,
+                    <br/>
+                    <ul>
+                        <li>Australian Computer Society © 2024</li>
+                    </ul>
+                </li>
+                <br>
+                <!--Ref2-->
+                <li>(ACS Code of Professional Condict Professional Standards Board.),
+                    <a href="https://www.acs.org.au">
+                        www.acs.org.au
+                    </a>,
+                    <br/>
+                    <ul>
+                        <li>Australian Computer Society © 2014 
+                            - <small>Copyright Reserved by ACS.</small>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </pub>
+    </p>
+</div>
 
 ---
-## Question-2
+### 2. **AT-1.1 Q2**.
 
 _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
 
-_**``-- explain each, using 200-250 words``**_
+<sub>Max 200-250 words</sub>_
 
 > _**My Example_:
 >
@@ -46,10 +74,28 @@ _**``-- explain each, using 200-250 words``**_
 > 
 > > **3. Communication** : The obligation to inform users about any changes or disruptions that may affect them.
 > 
-> > **4. System Integrity** : System Integrity ensures that employees and professionals in the ICT industry make an effort when setting up computer systems and components and that the system has been cleary thought out and planned for the most suitable need.
-> > This also creates the obligation that ensure the employee has taken all precautions regarding securing the system as well as the maintainance over time.  
+> > **4. System Integrity** - System Integrity ensures that employees and professionals in the ICT industry make an effort to keep up to date with current threats and applying the current leading cyber security practices when setting up networks and computer systems.
+>>
+>> System integrity also refers to ensuring you have a well thought out UI/UX, accessability and maintainability whilst keeping the primary stakeholders in mind.
 > 
 > > **5. Social Responsibility** : The professional will keep up to date with social and legal issues ensuring their understanding is ethically aligned with the current laws and policies in ICT.
->
-> ### AT1-KQ2 Reference List
-> -  _(ITPA 2018), https://www.itpa.org.au/code-of-ethics, © Information Technology Professions Association 2018_
+
+
+<div>
+    <p>
+        <pub>
+            <h3>References:</h3>
+            <ul>
+                <li>(ITPA - 2018),
+                    <a href="https://www.itpa.org.au/code-of-ethics">© Information Technology Professions Association</a> 
+                    © 2018,
+                    <br/>
+                    <!--.-->
+                    <ul>
+                        <li>Information Technology Professions Association <i>(ITPA)</i> © 2024</li>
+                    </ul>
+                </li>
+            </ul>
+        </pub>
+    </p>
+</div>
