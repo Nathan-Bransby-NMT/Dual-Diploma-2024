@@ -53,7 +53,8 @@ _Pretty much a master repository for storing and working through the Advanced Pr
       <!-- TODO -->
 
       > [**Assessments**]()
-      > - [**AT-1.1 _(KBA- Submission)_**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Apply-IP-Privacy-and-Ethics/Assessments/AT1-KQ1.md#references)
+      > - [**AT-1.1 _(KBA - Submission)_**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Apply-IP-Privacy-and-Ethics/Assessments/AT1-KQ1.md#references)
+      > - [**AT-1.2 _(KBA - Submission)_**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Apply-IP-Privacy-and-Ethics/Assessments/AT-1-KQ2.md)
       <!-- TODO -->
 
       </details>
