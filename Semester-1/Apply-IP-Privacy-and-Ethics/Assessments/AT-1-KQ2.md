@@ -112,7 +112,7 @@ The most common types of IP rights are:
 | 9 | Privacy and Data Protection Act - 2014 | _State [VIC]_ | _Outlines a framework that defines how to handle personal information by following the outlined 10 Information Privacy Principles for the state of Victoria._ |
 | 10 | Privacy and Personal Information Act - 1998 | _State [NSW]_ | _Outlines and defines how personal information should be handled by the public sector agencies and appoints a Privacy Commissioner within the state of New South Wales._ |
 | 11 | Information Privacy Act - 2014 | _Territory [ACT]_ | _Regulates how the Australian Capital Territory's public sector handle and disclose personal information._ |
-| 12 | Information Act - 2002 | __ | __ |
-| 13 | Personal Information Protection Act - 2004 | __ | __ |
-| 14 | State Records Act - 1997 | __ | __ |
-| 15 | Freedom of Information Act - 1992 | __ | __ |
+| 12 | Information Act - 2002 | _Territory [NT]_ | _Regulates how the Northern Territory Government are allowed to access records. The creation of this Act created the role of the Information Commissioner in the Northern Territory._ |
+| 13 | Personal Information Protection Act - 2004 | _State [TAS]_ | _Governs the collection, use and disclosure of information of individuals in the state of Tasmania._ |
+| 14 | State Records Act - 1997 | _State [SA]_ | _This Act sets out the requirements & responsibilities of agencies in the management of official records (information assets)._ |
+| 15 | Freedom of Information Act - 1992 | _State [WA]_ | _This Act provides the public the opportunity to make an official request for information held in state Government documents with-in Western Australia. The Freedom of Information Act helps ensure that information in documents are accurate, complete, up to date and are not misleading._ |
