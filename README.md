@@ -95,11 +95,11 @@ _Pretty much a master repository for storing and working through the Advanced Pr
       _Innovation Project Cluster (directory)_
 
       > **Notes**:
-      > - [**Semester-1**]() 
+      > - [**Semester-1**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/readme.md#notes) 
       <!-- TODO -->
 
-      > [**Assessments**]()
-      > - ...
+      > [**Assessments**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Innovation-Project/Assessments)
+      > - [AT1-A](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Innovation-Project/Assessments/AT1) | [Solutions Report](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/Assessments/AT1/solutions-report.md) | [Requirements](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/Assessments/ICT50220%20AT1-A.pdf)
       <!-- TODO -->
 
       </details>
