@@ -95,7 +95,8 @@ _Pretty much a master repository for storing and working through the Advanced Pr
       _Innovation Project Cluster (directory)_
 
       > **Notes**:
-      > - [**Semester-1**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/readme.md#notes) 
+      > - [**Semester-1**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/readme.md#notes)
+
       <!-- TODO -->
 
       > [**Assessments**](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/tree/main/Semester-1/Innovation-Project/Assessments)
