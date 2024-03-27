@@ -37,7 +37,7 @@ _**What are the 3 values in the ACS Code of Professional Conduct?**_
                 </li>
                 <br>
                 <!--Ref2-->
-                <li>(ACS Code of Professional Condict Professional Standards Board.),
+                <li>(ACS Code of Professional Conduct Professional Standards Board.),
                     <a href="https://www.acs.org.au">
                         www.acs.org.au
                     </a>,
@@ -59,6 +59,8 @@ _**What are the 3 values in the ACS Code of Professional Conduct?**_
 _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
 
 <sub>Max 200-250 words</sub>_
+
+`Firt Attempt` `**Marked Incorrect`
 
 > _**My Example_:
 >
@@ -99,3 +101,20 @@ _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
         </pub>
     </p>
 </div>
+
+`Second Attempt` `(not yet submitted)`
+
+1. [**Australian Computer Society _(ACS)_ Code of Ethics**](https://www.acs.org.au)
+   - ACS is a professional association with members representing the Australian IT industry.Their code of ethics include; Fair treatment, Privacy, Communication, System integrity and social responsibility.
+
+2. [**Atlassian Code of Business & Ethics**](https://s28.q4cdn.com/541786762/files/doc_downloads/governance/Code-of-Business-Conduct-and-Ethics_7.1.20.pdf)
+   - Atlassian are an Australian IT software provider that offer services such as Jira, Atlas, Trello and Confluence. Their code of Business Conduct & Ethics include the following core values; Open company (no bulls***t), Build with heart and balance, Don't #@!% the customer, Play as a team, Be the change you seek.
+
+3. [**Kinetic IT Code of Conduct Policy**](https://cdn.wearekinetic.com/media/Documents/Code-of-Conduct-Policy.pdf)
+   - Kinetic IT is a leading Australian-Owned IT service provider of solutions that harness human AI to enhance user experience. Their code of conduct values; passion, authenticity, humility, integrity and respect.
+
+4. [**CSIRO Code Of Conducts**](https://www.csiro.au/en/about/policies/code-of-conduct)
+   - CSIRO is an Australian Government statutory authority that provide a range of commercial innovation services. Some of the core values highlighted in their code of conduct are; Comply with all applicable laws, Maintain high standards, Be an impartial source of independent research, conduct affairs in a way which enhances their reputation.
+
+5. [**Datacom Partner code of conduct**](https://datacom.com/au/en/legal/partner-code-of-conduct)
+   - Datacom are an Australian company that offer cyber risk detection and incident response for businesses.Their code of conduct is to; exceed customer expectations, look beyond today, thrive together, everybody had a part, it's the people, courage to act.
