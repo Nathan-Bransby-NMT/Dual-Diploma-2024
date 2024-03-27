@@ -48,4 +48,4 @@ Welcome to my Dual Diploma 2024 repository! Please take a moment to review the g
 
 ## Get Help
 
-If you need any assistance or have questions about contributing, don't hesitate to contact me through [email](v141198@tafe.wa.edu.au)
+If you need any assistance or have questions about contributing, don't hesitate to contact me through `v141198@tafe.wa.edu.au`
