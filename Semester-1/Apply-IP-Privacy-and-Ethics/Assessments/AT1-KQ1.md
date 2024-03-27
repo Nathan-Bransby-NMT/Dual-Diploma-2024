@@ -102,7 +102,7 @@ _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
     </p>
 </div>
 
-`Second Attempt` `(not yet submitted)`
+`Second Attempt` `(submitted)`
 
 1. [**Australian Computer Society _(ACS)_ Code of Ethics**](https://www.acs.org.au)
    - ACS is a professional association with members representing the Australian IT industry.Their code of ethics include; Fair treatment, Privacy, Communication, System integrity and social responsibility.

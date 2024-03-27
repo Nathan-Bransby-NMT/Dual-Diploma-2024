@@ -9,6 +9,9 @@
 - _v141198@tafe.wa.edu.au_
 
 ## 1. Executive Summary
+``Todo Last...``
+
+## 2. Overview
 
 The Shire of Chittering want to develop an application to connect with the residents within the Chittering region along with having the following functionality:
 
@@ -18,10 +21,6 @@ The Shire of Chittering want to develop an application to connect with the resid
   - _(Possibly include Harvests bans.)_
 - View upcoming events.
   - Allow for venders to apply for stalls at events.
-
-## 2. Overview
-
-???
 
 ## 3. Business Requirements
 
