@@ -1,0 +1,14 @@
+
+h1 {
+  color: #00ff00;
+}
+
+div.custom-menu-class ul {
+    list-style-type: none;
+    list-style: none;
+    list-style-image: none;
+}
+div.custom-menu-class li {
+    padding: 20px;
+    display: inline;
+}
