@@ -4,7 +4,7 @@ Author:   Nathan Bransby
 Email:    v141198@tafe.wa.edu.au  
 Updated:  26/03/2024
 """
-
+from __future__ import annotations
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError
 
@@ -24,6 +24,25 @@ class Player:
         self._score = 0
 
         self._hasher, self._password = Player.add_password(password)
+
+    def __int__(self) -> int:
+        return self.score
+    
+    def __eq__(self, other: int | Player) -> bool:
+        # Raff... Genuine question, would this still be exceptable
+        return int(self) == int(other)
+    
+    def __gt__(self, other: int | Player) -> bool:
+        return int(other) > int(other)
+    
+    def __lt__(self, other: int | Player) -> bool:
+        return int(self) < int(other)
+    
+    def __ge__(self, other: int | Player) -> bool:
+        return int(self) >= int(other)
+    
+    def __le__(self, other: int | Player) -> bool:
+        return (int) <= int(other)
 
     def __str__(self) -> str:
         return f'Player[uid={self.uid!r}, name={self.name!r}]'
