@@ -26,16 +26,16 @@ _..._
 
 _**In this step, you will be sorting a list of player objects based on their score. This step has multiple parts to it.**_
 
-a. **Add a private instance variable to the Player class that will hold the score (a positive integer value).Provide a getter (property) and a setter method for this value.**
+a. **Add a private instance variable to the Player class that will hold the score (a positive integer value).Provide a getter (property) and a setter method for this value.** `...done`
 
-b. **Implement the comparison operators ``__eq__``, ``__ge__``, etc.) for the Player class. Implement each so that the comparison uses the score.**  
+b. **Implement the comparison operators ``__eq__``, ``__ge__``, etc.) for the Player class. Implement each so that the comparison uses the score.**  `...done`
 
-c. **Add unit tests to test the new operators.**
+c. **Add unit tests to test the new operators.** `...done`
 
-d. **Implement a static method for the Player class that will sort a list of Player objects in descending order (higher scores come first). Choose an algorithm of your liking based on the answers you provided to the Knowledge Questions and describe why you chose it.  IMPORTANT: you must implement this algorithm yourself; you may not use Python’s sort method.**
+d. **Implement a static method for the Player class that will sort a list of Player objects in descending order (higher scores come first). Choose an algorithm of your liking based on the answers you provided to the Knowledge Questions and describe why you chose it.  IMPORTANT: you must implement this algorithm yourself; you may not use Python’s sort method.** `todo`
 
-e. **Add unit tests to test the new sorting functionality.**
+e. **Add unit tests to test the new sorting functionality.** `todo`
 
-f. **Add and commit all changes, then push your changes to the remote repository on GitHub.**
+f. **Add and commit all changes, then push your changes to the remote repository on GitHub.** `todo`
 
 > _Submit Work._
