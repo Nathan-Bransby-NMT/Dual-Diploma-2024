@@ -28,6 +28,19 @@ class Player:
     def __int__(self) -> int:
         return self.score
     
+    def __sub__(self, other: int) -> int:
+        result = int(self) - other
+        return result if result > 0 else 0
+
+    def __add__(self, other: int) -> int:
+        return int(self) + other
+
+    def __isub__(self, other: int) -> None:
+        self.score = int(self) - other
+
+    def __iadd__(self, other: int) -> None:
+        self.score += other 
+    
     def __eq__(self, other: int | Player) -> bool:
         # Raff... Genuine question, would this still be exceptable
         return int(self) == int(other)
