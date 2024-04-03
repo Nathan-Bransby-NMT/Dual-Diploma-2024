@@ -1,5 +1,7 @@
 Traversy - Head First PHP _Progress_
 > complete course before the monday after the week break _(Term-1 - Term-2)_
+>
+> [Tail Wind From Scratch _(Youtube)_](https://www.youtube.com/watch?v=dFgzHOX84xQ) - `1.5hrs` []
 
 | **Chapter** | **Expected Due-Date** | **Status** | **Upload-Status** |
 |-------------|-----------------------|------------|-------------------|
@@ -252,7 +254,13 @@ $router->route($uri, $method);
 <img src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Slides/SaaS-Database-Classes/db-class-slide3.png?raw=true" alt=""/> <!--Slide-3-->
 
 <p>
+
+  
   <sub><b>Slide - 4</b></sub>
 </p>
 
 <img src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Slides/SaaS-Database-Classes/db-class-slide4.png?raw=true" alt=""/> <!--Slide-4-->
+
+## Week 10 _(Laravel (Chirps))_
+- Re-Watch lecture & follow along...
+- 
