@@ -5,6 +5,8 @@ Email:    v141198@tafe.wa.edu.au
 Updated:  26/03/2024
 """
 from __future__ import annotations
+from typing import Literal
+
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError
 
@@ -84,6 +86,16 @@ class Player:
         if value < 0:
             raise ValueError("Cannot assign a negative value score.")
         self._score = value
+
+    @staticmethod
+    def score_sort(players: list[Player], direction: Literal['ascending', 'descending'] = 'descending') -> list[Player]:
+        if direction == 'descending':
+            ...  # todo
+
+        elif direction == 'ascending':
+            ...  # todo
+        
+        raise ValueError("The direction must be either 'ascending' or 'descending'.")
 
     @staticmethod
     def add_password(password: str) -> tuple[PasswordHasher, bytes]:
