@@ -14,6 +14,23 @@
 
 ## 2. Overview
 
+In response to the Shire of Chittering, our team has been tasked with developing an application that will act as centralized platform for the residents within the Chittering Region. As discussed with CEO Malinda (_Surname_), there is a need for more effective announcements to residents about upcoming events, a more cost effective solution for sending important alerts and a need for making payments to the Shire for Services and Rates more accessible to all residents.
+
+## 3. Business Requirements
+
+### 3.1 High Level Objectives / Use Cases
+
+Enable residents to make
+
+- Allow the Shire and local businesses to connect with residents about upcoming events.
+  - Residents have spoken previously about not being aware of upcoming events being held in Bindoon and the surrounding suburbs.
+
+- The application will need to cut costs for sending announcements regarding Fire Danger Ratings, bushfire alerts and harvest bans.
+
+- Allows residents to make rates payments, whilst cutting time and difficulties for staff to record payments for each property.
+
+By integrating these functionalities
+
 The Shire of Chittering want to develop an application to connect with the residents within the Chittering region along with having the following functionality:
 
 - A platform for the shire to post news and events.

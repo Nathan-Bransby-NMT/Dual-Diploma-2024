@@ -1,6 +1,7 @@
 # Douglas - 2/4/24
 
-### Background
+## Background
+
 - Shire of Chittering has been working with North Metro TAFE Diploma students for 3 years.
 	- A previous TAFE Diploma team worked on a website recreation.
 	- A previous TAFE Diploma team worked on the first app, in Xamarin?
