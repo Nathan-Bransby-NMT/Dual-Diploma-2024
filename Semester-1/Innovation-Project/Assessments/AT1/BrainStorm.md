@@ -2,6 +2,12 @@
 
 **Notes**:
 
+- ensure maintainable 
+
+- _[Software]_
+- CMS: (spark cms) Council Connect
+- SynergySoft
+
 - [rates - payment options.](https://www.chittering.wa.gov.au/council/rates/rates.aspx#-2023-2024-budget-project-highlights)
   - **Pay With:**
     - Online (credit card)
@@ -9,7 +15,7 @@
     - Direct Debit BPay (_reoccuring BPay_)
     - Visa or Mastercard Phone. (_Phone BPoint: 1300 276 468_)
     - In-Person (_POS_)
-    - Mail Cheques (_Shire o Chittering: PO Box 70, Bindoon WA 6502_)
+    - Mail Cheques (_Shire of Chittering: PO Box 70, Bindoon WA 6502_)
 
   - **Installments:** _(1-4 installments)_
     - Single installment incentives (_Sponsor cash prizes for opting single installment._)
