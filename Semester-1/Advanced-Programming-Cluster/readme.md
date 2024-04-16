@@ -549,3 +549,23 @@ if __name__ == '__main__':
     bst.insert(Node(Player(24)))
     bst.insert(Node(Player(62)))
 ```
+
+---
+
+## Week 11 _(Inter-process Communications)_
+
+<u>IPv4</u> = n.n.n.n.n => n = (0-255 aka. 1 byte.) => 32-bit addresses
+
+<u>IPv6</u> = $^n_n$ $^n_n$ => 128-bit addresses
+
+### Python Sockets
+
+#### IPC: Sockets
+
+- **Inter-process Communication using Sockets**
+  - works even across a network
+
+- by using the loopback adapter -- sockets can communicate between process on the same machine.
+  - uses `localhost` <small>(127.0.0.1)</small>
+  - client
+  - server
