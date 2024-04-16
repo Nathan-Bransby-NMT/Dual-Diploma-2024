@@ -240,3 +240,35 @@ Part 1 - week 10 - 7/4
 
 ### Industry Standards **_(ISO)_**
 > ISO - Industry specifics on security and software...
+
+---
+
+## Week 11: &#160; &#160;_**Project Planning** --- Tasks & Objectives)_
+
+### Why create tasks?
+
+- Accountability 
+- Tracking Progress
+
+### Task Management (_**IMPORTANT!**_)
+
+- ensure things are done on time.
+- time = $$$
+- promotes better communication
+- ensures tasks are being completed/covered in full
+
+> #### Task -  Key Terms
+>
+> - Task
+> - Task List
+> - Task Dependency
+> - Task Duration
+> - Task Owner
+> - Task Priority
+> - Task Status
+> - Task Tracking
+> - Gantt Chart
+
+### Parkinson's Law
+
+<< Never-Mind [ADHD - Brain says no :P ... ] >>
