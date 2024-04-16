@@ -641,17 +641,5 @@ if __name__ == '__main__':
 ```
 
 
-(magic 8 ball - pull str from list -- use random and assign a msg as a seed (will always return the same str))...
+PortAs5..(magic 8 ball - pull str from list -- use random and assign a msg as a seed (will always return the same str))...
 
-
-```python
-
-question = input()
-
-x = ["1", "2", "3"]
-
-random.seed(question)
-
-print(random.choice(ANSWER))
-
-```
