@@ -554,7 +554,7 @@ if __name__ == '__main__':
 
 ## Week 11 _(Inter-process Communications)_
 
-<u>IPv4</u> = n.n.n.n.n => n = (0-255 aka. 1 byte.) => 32-bit addresses
+<u>IPv4</u> = n.n.n.n => n = (0-255 aka. 1 byte.) => 32-bit addresses
 
 <u>IPv6</u> = $^n_n$ $^n_n$ => 128-bit addresses
 
@@ -567,5 +567,91 @@ if __name__ == '__main__':
 
 - by using the loopback adapter -- sockets can communicate between process on the same machine.
   - uses `localhost` <small>(127.0.0.1)</small>
+    - can bind a port address <small>(127.0.0.1:80)</small> = local host @ port 80.
   - client
   - server
+
+- Files (.txt, etc) are IPC's
+
+
+#### Python Socket Server
+
+```python
+"""
+filename: server.py
+"""
+
+import socket
+from typing import Any
+
+
+PortedAddress = tuple[str, int]
+
+class Server:
+    
+    def __init__(self, ported_address: PortedAddress = ('127.0.0.1', 1234)) -> None:
+        self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self.socket.bind(ported_address)
+
+    def __enter__(self, queue: int) -> Any:
+        self.socket.listen(queue)
+
+        while True:
+            client_socket, client_port_address = self.socket.accept()  ## blocking
+            print(f"Connection from {client_socket = }, {client_port_address = }")
+            client_socket.send("Welcome to the server".encode('utf-8'))
+
+    def __exit__(self, msg: str, callback, *args) -> None:
+        pass  # todo
+
+```
+
+Client python script.
+
+```python
+"""
+filename: ./src/client.py
+"""
+from src import PortedAddress, socket, Any
+
+class Client:
+    def __init__(self, port: int) -> None:
+        self.socket = socket.socket(socket.AF_INET, port)
+
+    def connect(self, destination: PortedAddress, call: bytes) -> Any:
+        self.socket.connect(destination)
+        massage = self.socket.recv(call)
+        yield message.decode('utf-8')
+
+```
+
+```python
+"""
+filename: ./src/main.py
+"""
+from src import Server, Client
+
+
+def main():
+    ...
+
+if __name__ == '__main__':
+    main()
+
+```
+
+
+(magic 8 ball - pull str from list -- use random and assign a msg as a seed (will always return the same str))...
+
+
+```python
+
+question = input()
+
+x = ["1", "2", "3"]
+
+random.seed(question)
+
+print(random.choice(ANSWER))
+
+```
