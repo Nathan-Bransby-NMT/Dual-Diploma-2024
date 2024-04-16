@@ -1,4 +1,4 @@
-# Draft Solution Report
+# Shire of Chittering -- Solution Report
 
 ## 1. Executive Summary
 
@@ -103,11 +103,10 @@
     > _3.2.B._ **Events & Community News** -- 
     <i><small>( see <b><a href="#b-events--community-news-–">appendix – B</a></b> )</small></i>
     >
-    >     In the strategic plan the Shire have listed having "An active and supportive community" 
-    
-    *** TO-DO
-    
-    Objective [𝚜¹⋅¹] . The Strategic Objective table within importance of Objective 1.1 [𝚜¹⋅¹] under  within the Community Aspiration Strategic Community Plan, highlights the some of the key services & businesses as usual programs/events that contributes in bringing the community together. found in the most recent Shire of Chittering's 'Corporate Business Plan¹'.
+    >     Within the Shires 'Strategic Community Plan', they introduce their strategic objective for 
+
+    _[Disregard below...]_
+    >     The Shire have listed having "An active and supportive community" Objective [𝚜¹⋅¹] . The Strategic Objective table within importance of Objective 1.1 [𝚜¹⋅¹] under  within the Community Aspiration Strategic Community Plan, highlights the some of the key services & businesses as usual programs/events that contributes in bringing the community together. found in the most recent Shire of Chittering's 'Corporate Business Plan¹'.
     >
     >     Further information about [𝚜₁.₁] such as the events outlined can also be found in the 2023 - 2024 Budget Project Highlights Plan / Rates Brochure⁽²⁾.
     > - <table><tr><th>#</th><th>References</th><th></th></tr><tr><sup><td><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027"><sup>[1]</sup></a></td><td><sup><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027">Shire of Chittering Coorporate Business Plan 2022 - 2027</a></td><td><sup><small><b>Strategic Objective 1.1</b></small><br><i>page.</i><small> 27</small></sup></td></sup></tr><tr><sup><td><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027"><sup>[2]</sup></a></td><td><sup><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027">2023 - 2024 Budget Project Highlights / Rates Brochure</a></td><td><sup><small><b>Strategic Objective 1.1</b></small><br><i>page.</i><small> 3</small></sup></td></sup></tr></table>
@@ -167,7 +166,21 @@
 
 ## 4. Gap Analysis
 
+  >### Solution: 1
+  >
+  > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
+  > |---------:|:------------|:------------|:---|-------------------------|
+  > | **Rates Payment<br> System** |  |  |  |  |
+  > | **Events <br>& Community<br>News** |  |  |  |  |
+  > | **Emergency Alerts <br>& Broadcast** |  |  |  |  |
 
+  >### Solution: 2
+  >
+  > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
+  > |---------:|:------------|:------------|:---|-------------------------|
+  > | **Rates Payment<br> System** | Payment options for property rates can be done via BPoint on <br>the Shire of Chittering's Website, Cheque, BPay (single or reoccurring) <br>telephone, or in person.  |  |  |  |
+  > | **Events <br>& Community<br>News** |  |  |  |  |
+  > | **Emergency Alerts <br>& Broadcast** |  |  |  |  |
 
 ## 5. Preliminary Research
 
