@@ -264,3 +264,8 @@ $router->route($uri, $method);
 ## Week 10 _(Laravel (Chirps))_
 - Re-Watch lecture & follow along...
 - 
+
+---
+
+## Week 11
+- [Laravel 11 bootcamp](https://github.com/AdyGCode/l11-bootcamp-2024-s1) - chirps Repo 
