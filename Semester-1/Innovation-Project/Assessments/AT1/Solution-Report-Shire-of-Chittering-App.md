@@ -178,9 +178,9 @@
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
-  > | **Rates Payment<br> System** | Payment options for property rates can be done via BPoint on <br>the Shire of Chittering's Website, Cheque, BPay (single or reoccurring) <br>telephone, or in person.  |  |  |  |
-  > | **Events <br>& Community<br>News** |  |  |  |  |
-  > | **Emergency Alerts <br>& Broadcast** |  |  |  |  |
+  > | **Rates Payment<br> System** | Payment options for property rates can be done via BPoint on the Shire of Chittering's Website, Cheque, BPay (single or reoccurring) telephone, or in person.  | Be able to view Property Rate information, make payments and queries with ease. |  |  |
+  > | **Events <br>& Community<br>News** | Community outreach is lacking for residents that don't live within the town of Bindoon. Those residents are only made aware of events if they follow the Shire on social media or use the website. | Increase resident connectivity and involvement from those living in the broader "Satelite Community" beyond the town of Bindoon. |  |
+  > | **Emergency Alerts <br>& Broadcast** | Emergency Broadcasted SMS messages are costing the Shire upward of $63,000.00 a year. The service is affected to those who are in "black-spot" mobile areas. | Get emergency bushfire alerts to all affected residents whilst dropping the overall costs to the Shire. |  | - Implement a bushfire togglable service on the application that gives residents the option to subscribe to alerts that may affect them (Harvest bans), whilst providing a non-surpressable alert system for emergency broadcasts and total fire bans.<br><br>- By implementing a calendar system for recieving pre-schedualed alerts like total fire bans, it can allow for a timed alert to be scheduled as soon as residents come into signal so the alert comes through regardless of their signal as it comes into effect.  |
 
 ## 5. Preliminary Research
 
