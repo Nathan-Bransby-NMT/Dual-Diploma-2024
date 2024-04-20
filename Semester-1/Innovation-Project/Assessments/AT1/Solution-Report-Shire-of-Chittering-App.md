@@ -204,22 +204,11 @@
   >   </tr>
   > </table>
   >
-  > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
-  > |---------:|:------------|:------------|:---|-------------------------|
-  > | _<small>[<b>A</b></small> - 𝚜1.1.<small>]</small>_<br>**Residents Query<br>Payement Progress** | Residents Are required to track their own progress, or must call the shire. | Residents can query their progress without contacting the shire. | <li>Self service requests.</li> | Create an effective system that allows residents to check their own rates information. |
-  > |_[**B** - 𝚜1.2.]_<br>**Increased Community Awareness**| Some residents are not aware of events happening in and around Bindoon. | All residents are aware of things happening in the community. | <li>Residents that prefer not to use facebook may not hear about events.</li> | Broadcast Event Annou |
-  > ||||||
-  > | **Rates Payment<br> System** |  |  |  |  |
-  > | **Events <br>& Community<br>News** |  |  |  |  |
-  > | **Emergency Alerts <br>& Broadcast** |  |  |  |  |
-
   >### 4.𝚜2. _(Solution-2)_
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
-  > | **Rates Payment<br> System** | Payment options for property rates can be done via BPoint on the Shire of Chittering's Website, Cheque, BPay (single or reoccurring) telephone, or in person.  | Be able to view Property Rate information, make payments and queries with ease. |  |  |
-  > | **Events <br>& Community<br>News** | Community outreach is lacking for residents that don't live within the town of Bindoon. Those residents are only made aware of events if they follow the Shire on social media or use the website. | Increase resident connectivity and involvement from those living in the broader "Satelite Community" beyond the town of Bindoon. |  |
-  > | **Emergency Alerts <br>& Broadcast** | Emergency Broadcasted SMS messages are costing the Shire upward of $63,000.00 a year. The service is affected to those who are in "black-spot" mobile areas. | Get emergency bushfire alerts to all affected residents whilst dropping the overall costs to the Shire. |  | - Implement a bushfire togglable service on the application that gives residents the option to subscribe to alerts that may affect them (Harvest bans), whilst providing a non-surpressable alert system for emergency broadcasts and total fire bans.<br><br>- By implementing a calendar system for recieving pre-schedualed alerts like total fire bans, it can allow for a timed alert to be scheduled as soon as residents come into signal so the alert comes through regardless of their signal as it comes into effect.  |
+  > ||||||
 
 ## 5. Preliminary Research
 
@@ -234,7 +223,8 @@
   > - $\large f$ _: Frequency of alerts sent --_ _<small>(2024 fire-season to date).</small>_ $= 42.$
   > 
   > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
-  > - $\large{v}$ _: Total Expense on SMS service this year :_ $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ 
+  > - $\large{v}$ _: Total Expense on SMS service this year :_ 
+  $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$
 
 
 ## 6. Possible Solutions
