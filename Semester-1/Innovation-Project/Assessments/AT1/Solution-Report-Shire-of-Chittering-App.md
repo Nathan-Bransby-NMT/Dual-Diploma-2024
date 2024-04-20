@@ -223,8 +223,6 @@
 
 ## 5. Preliminary Research
 
-
-
   > ### _<u>Figure:</u>_ <b>E</b>
   >
   > #### Telstra Integrated Messaging Service (TIMS) Cost Analysis.
@@ -254,34 +252,91 @@
       To implement an effective system that benefits both residents and Shire staff, I propose the implementation of a self 
       service portal that allows residents to: 
 
-          - Make property rate payments, select appropriate installment period options.
-          - View any outstanding rates for the financial year.
-          - Get notified when rates are issues and/or due.
-          - Change payment details / options.
+          1. Make property rate payments, select appropriate installment period options.
+          2. View any outstanding rates for the financial year.
+          3. Get notified when rates are issues and/or due.
+          4. Change payment details / options.
       
       In order to enhance security when requesting property payments and other sensitive information, I propose the following 
       solutions:
 
-          - Users Create a one time account registry 
-          - Account information will be tied with each property's unique reference number and name of the addressee that can be 
-            found on the issued rate notice.
-          - Users will create passwords with email verification upon registering.
-            - This allows for account recovery incase details are lost.
-          - Information on account creation WILL be encrypted using Industry Best Practices & Standards when stored account
-            info. 
-          - Once encrypted the details can be stored in the current database with only slight amendments to the current table,
-            however if the need arises, the creation of an individual database can be created.
-            
-            **Note:**
-              Alterations WILL NOT impact how the current information is stored or accessed by the rates department & systems.
+          5. Users can register accounts with a  one time registration process.
 
+          6. Account information will be tied to each property's unique reference number and name of the addressee. 
+             - This information can be found on the issued rate notice sent to the resident.
+          
+          7. Users will create passwords with email verification upon registering their accounts.
+             - By implements an email verification, residents can recover accounts if details are lost.
+
+          8. Information on account creation will be encrypted using Industry Best Practices & Standards.
+             - This ensures password protection at all levels.
+
+          9. Once user credentials are encrypted they can be stored in either:
+             - The currently implemented database (with minimal amendments to the current table)
+             - If the need arises, the creation of an separate database can be created after the account setup process.
+
+            **Note**: Alterations WILL NOT impact how any of the current property information is stored and/or 
+                      accessed by internal & external systems & practices.
+          
     > Section II. Events & Community News:
+          
+      An additional requirement of the application is the implementation of a community platform, that will improve event & 
+      community news announcements to the residents in the shire. As the Shire consists of multiple rural satellite towns,
+      hearing the latest news & community information can be difficult for residents. 
+      
+      Highlighted in the Shires Strategic-Objectives for Connecting Communities, their strategic approach illustrates the 
+      importance of supporting community events, social hubs and increasing community volunteering. 
+      This demonstrates the importance of establishing an effective community outreach & engagement system, and how it is an 
+      essential element to capture in the project. To support this ideology I propose we include the following elements:
+           
+          1. A togglable system that allows users to opt for notifications about upcoming events.
+             - This ensures that residents and store-holders are aware of events as soon as they are announced.
 
-      An additional requirement of the application being developed is the 
+          2. An Export event to calender feature. 
+             - This will allow residents to export scheduled events straight from the application into their personal device. 
 
+          3. The possibility of having a contact feature for resident feedback / questions.
+             - The feature could include required fields such as contact information for non registered accounts.
+             - The send messages will act as an email service for Shire staff as an alternative means of contact.
 
     > Section III. Emergency Alerts & Broadcasts:
 
+      The Shire of Chittering being a rural area surrounded by natural bushland, means that bushfires are a annual threat to
+      the community. Henceforth, addressing bushfire information guarantees that residents are made aware of what to do if a 
+      bushfire occurs, as well as convey their responsibility in reducing the risks and support to emergency services during 
+      the bushfire season. To administer the following requirements I propose the development of the following areas:
+        
+        1. A information page and/or links to current sources of information for residents to view what their requirements are.
+           - This will aid in the reduction of bushfire threats & encourage resident compliance.
+        
+        2. Alerts and Highlight sections to notify residents when: 
+           - Fire Restrictions come into affect
+           - Leading up to Fire-Break compliance inspection dates.
+
+        3. Emergency Service Information.
+           - Contacts and Links to DFES
+           - DFES, VFES, SES & VFS information (such as websites, contact details and volunteer recruitment dates)
+
+        4. Display the current FDR for the Swan Inland North Area.
+
+      Currently the Shire rely on a Subscription based SMS service (TIMS) to notify subscribed residents when they are required 
+      to stop machine related activities during summer. How ever the costs to broadcast alerts are expensive. [see 5.figure: E]
+      Another downside the the current broadcast system is that those subscribed will only receive alerts when they come into 
+      effect if they are currently with-in mobile signal. The shire has many mobile 'black-spot' areas where there is no mobile 
+      signal making it deadly when fire restrictions are put in place. Therefore I also propose the following features:
+
+        5. Display information regarding any active or scheduled bushfire restrictions on the application.
+
+        6. Create a togglable notification system for pre-scheduled fire restrictions.
+           - Allow residents to subscribe for push notifications as an alternative to the current TIMS system.
+        
+        7. A feature that checks for updates whenever users come into mobile signal.
+           - Checks for scheduled alerts.
+           - Operational for users in 'dead-spot' areas.
+           - Removes the current push activation system with one that can be pre scheduled. This revolutionizes the way 
+             that users receive scheduled emergency alerts.
+        
+        8. The feature will operate entire free of charge to both resident & Shire cutting costs dramatically.
 
  ### 6.b. -- Solution #2
 
@@ -302,6 +357,15 @@
      > Section III. Emergency Alerts & Broadcasts:
        ...
 
+- #### 6.0.1 -- SWOT Analysis
+
+  - Solution - #1
+    ---
+    |                             | **Strengths** | **Weaknesses** | **Objectives** | **Threats** |
+    |-----------------------------|---------------|----------------|----------------|-------------|
+    |`Section I. Rates & Payments`|<li>Secure handling of sensitive data.</li>|...|Shire of Chittering<br>Strategic Objective (Community):<br>[𝚜1.<small> Connected Communities</small>](#32-relation-to-strategic-plan)||
+
+
 - ### 6.1. Business Impacts
 
   #### 6.1.1. **Solution - #1**
@@ -310,7 +374,7 @@
 
         By implementing a built in rates payment & query system into the application, it will ease staff workload by enabling residents to access rates services without the need of staff. This overall will increase customer support satisfaction, and increase staff productivity.
 
-        ??Shire Staff Training & Community "How To" workshops and material??
+        There will be a requirement to train Shire Staff, and the need to develop Community "How To" support material and/or information sessions.
 
       ---
 
@@ -318,13 +382,15 @@
 
         Creating a central hub for community information, will increase attendance of events, therefore help boost local economy by encouraging residents to engage within the community. By fostering a platform, a space is created for local advertisement opportunities.
 
+        Allowing residents to export event schedules into their personal calendar, makes sure they receive reminders when events are taking place.
+
       ---
 
     - **S1.C. Emergency Alerts & Broadcasts**
 
         By implementing in-app broadcast alert system, the Shire may be able to phase out of their current Emergency Broadcast system that is implemented by Telstra Integrated Messaging System (TIMS). TIMS is not a cost effective solution as each broadcast costs upwards of $1500 _[see [figure E](#figure-e)]_.
 
-        Ensuring that residents are made aware of active restrictions can reduce the number of emergency events through effective compliance. This ensures that there are less business interruptions throughout the year.
+        Reinforces confidence that residents are made aware of active restrictions, therefore potentially reducing the number of emergency events creating less business interruptions throughout the year.
 
   ---
   #### **6.1.2. Solution - #2**
@@ -355,13 +421,16 @@
 
     - **S1.B. Events & Community News**
 
-        * The ability for local businesses to uttilise the platform without engaging the shire may decrease its effectiveness
+        * The ability for local businesses to utilise the platform without engaging the shire may decrease its effectiveness.
+        * Implementing a support enquiry platform may increase the number of emails received by Shire administration staff.
+        * Those less likely to adopt a technology based approach may not use the application if the process is too complex.
 
       ---
 
     - **S1.C. Emergency Alerts & Broadcasts**
 
-        ...
+       * Phasing out of the current TIMS broadcast service will require a timely approach for residents to adopt the new system.
+       * Time constraints may effect our ability to implement the service, given the overall  scope of the project, testing requirements.
 
   #### 6.2.2. **Solution - #2**
 
@@ -387,7 +456,7 @@
 
     - **S1.A.  Rates Payment System**
 
-        ...
+        * e
 
       ---
 
