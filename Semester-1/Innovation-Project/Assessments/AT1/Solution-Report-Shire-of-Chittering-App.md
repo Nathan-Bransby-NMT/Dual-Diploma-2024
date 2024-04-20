@@ -172,14 +172,38 @@
   >   <tr><th>Objectives</th><th>Current-State</th><th>Desired-State</th><th>Gaps</th><th>Action to Bridge the Gaps</th></tr>
   >   <tr><td><i>[𝚜1.1]</i><br><b>Query Payment Information</b></td><td>Unable to check current payment information<br><i>(i.e., remaining rates, etc.)</i></td><td>Allow residents to check their own balances</td><td><table><tr><td>No self service<sup>[i]</sup></td></tr><tr><td><br>Requesting Information Requires Staff assistance<sup>[ii]</sup></td></tr><tr><td>Can only make request during the opening hours at the shire<sup>[iii]</sup></td></tr><tr><td>Difficult to do if you don't live near Bindoon.<sup>[iv]</sup></td></tr></table></td><td><table><tr><td>Implement a Secure Sign in system, allowing self service payment queries.<sup>[i]</sup></td></tr><tr><td>Connect application queries to Rates & Payment database to query based of account info.<sup>[ii]</sup></td></tr><tr><td>Implement a 24/7 access system, without needing shire assistance.<sup>[iii]</sup></td></tr><tr><td><br>No need to go in person.<sup>[iv]</sup></td></tr></table></td></tr>
   >   <tr>
-  >    <td><i>[𝚜1.2]</i><br><b>Increased Community Awareness</b></td><td><table><tr><td>Some residents are unaware of events happening in and around Chittering.<sup>[v]</sup></td></tr><tr><td>Events are advertised on social media sites.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>All Residents that want to be made aware of events are made aware.<sup>[v]</sup></td></tr><tr><td>No social media required to engage with comminity.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Event announcements & Community News reaches all residents.<sup>[v]</sup></td></tr><tr><td>Not all residents have social media.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Create an notification system.<sup>[v]</sup></td></tr><tr><td>Create a central News & Announce Portal.<sup>[vi]</sub></td></tr></table></td>
+  >    <td><i>[𝚜1.2]</i><br><b>Increase Community Awareness</b></td><td><table><tr><td>Some residents are unaware of events happening in and around Chittering.<sup>[v]</sup></td></tr><tr><td>Events are advertised on social media sites.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>All Residents that want to be made aware of events are made aware.<sup>[v]</sup></td></tr><tr><td>No social media required to engage with comminity.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Event announcements & Community News reaches all residents.<sup>[v]</sup></td></tr><tr><td>Not all residents have social media.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Create an notification system.<sup>[v]</sup></td></tr><tr><td>Create a central News & Announce Portal without the need of social media.<sup>[vi]</sub></td></tr></table></td>
+  >   </tr>
+  >   <tr>
+  >    <td><i>[𝚜1.3]<i><br><b>Increase Bush-Fire Danger Awareness & Compliance</b></td><td><table><tr><td>FDR information is only available via Emergency WA or the Shire of Chittering's Website<sup>[vii]</sup></td></tr><tr><td>Residents with property have to seek fire-break compliance dates<sup>[viii]</sup></td></tr></table></td><td><table><tr><td>Make it more accessible for residents personal devices.<sup>[vii]</sup></td></tr><tr><td>Residents no longer require to seek compliance dates.<sup>[viii]</sup></td></tr></table></td><td>Currently requires frequent monitoring by residents.</td><td><table><tr><td>Display Current FDR for Swan Inland North<sup>[vii]</sup></td></tr><tr><td>Enable automatic push notifications when FDR is high and/or Fire Restrictions are in-place.<sup>[viii]</sup></td></tr></table></td>
+  >   </tr>
+  >   <tr>
+  >    <td><i>[𝚜1.4]</i><br><b>Broadcast Bushfire Alerts & Fire Restrictions</b></td>
+  >    <td><table><tr><td>Bushfire Restrictions & Alerts via SMS subscriptions, require mobile signal at the time of the issued alert.<sup>[ix]</sup></td></tr><tr><td>Currently paying for each broadcasted SMS through <b><i>Telstra Integrated Messaging Service</i></b> - (<b>TIMS</b>)<sup>[x]</sup></td></tr></table></td>
+  >    <td><table><tr><td>Increase the reliability of the alert system ensuring that all residents are aware of active alerts.</td></tr><tr><td>Reduce the costs of using sending emergency SMS alerts to residents.</td></tr></table></td>
+  >    <td><table><tr><td>Residents in "black-spot" areas may not receive alerts at the time they go into affect.<sup>[ix]</sup></td></tr><tr><td>TIMS is expensive for each alert sent.<sup>[x]<br><i>[see <a href="#figure-e">Fig: E</a>]</i></sup></td></tr></table></td>
+  >    <td><table><tr><td></td></tr><tr><td></td></tr></table></td>
   >   </tr>
   > </table>
+
+  > ### _<u>Figure:</u>_ <b>E</b>
+  >
+  > #### Telstra Integrated Messaging Service (TIMS) Cost Analysis.
+  >
+  > - $\large n$ _: Total number of subscribed residents to SMS notifications._ $= 2000 \small ^+/_- $ _residents._
+  >
+  > - $\large c$ _: Costs_ $= \$1500.00 \small ^+/_-$ _per SMS Broadcast._
+  >
+  > - $\large f$ _: Frequency of alerts sent --_ _<small>(2024 fire-season to date).</small>_ $= 42.$
+  > 
+  > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
+  > - $\large{v}$ _: Total Expense on SMS service this year :_ $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ 
+
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
   > | _<small>[<b>A</b></small> - 𝚜1.1.<small>]</small>_<br>**Residents Query<br>Payement Progress** | Residents Are required to track their own progress, or must call the shire. | Residents can query their progress without contacting the shire. | <li>Self service requests.</li> | Create an effective system that allows residents to check their own rates information. |
-  > |_[**B** - 𝚜1.2.]_<br>**Increased Community Awareness**| Some residents are not aware of events happening in and around Bindoon. | All residents are aware of things happening in the community. | <li>Residents that prefer not to use facebook may not hear about events.</li> ||
+  > |_[**B** - 𝚜1.2.]_<br>**Increased Community Awareness**| Some residents are not aware of events happening in and around Bindoon. | All residents are aware of things happening in the community. | <li>Residents that prefer not to use facebook may not hear about events.</li> | Broadcast Event Annou |
   > ||||||
   > | **Rates Payment<br> System** |  |  |  |  |
   > | **Events <br>& Community<br>News** |  |  |  |  |
