@@ -6,6 +6,24 @@
 
 > In response to the Shire of Chittering, our team has been tasked with developing an application that will act as centralized platform for the residents within the Chittering Region. As discussed with CEO Malinda Prinsloo, there is a need for more effective announcements to residents about upcoming events, a more cost effective solution for sending important alerts and a need for making payments to the Shire for Services and Rates more accessible to all residents.
 
+### 2.1. Stakeholders
+
+  > **The application contains the following stakeholders:**
+  > 1. The Residents within the Shire of Chittering.
+  > 2. The Staff within the Shire of Chittering.
+  >   - Shire CEO -- Melinda Prinsloo
+  >   - Emergency Service Coordinator -- Jodie Connell
+  >   - Shire Rates Department & Staff.
+  > 3. Our Team, developing the application.
+  >   - Bianca Ishikawa
+  >   - Douglas Ferguson
+  >   - Daniel Mulenga
+  >   - Nathan Bransby (Myself)
+  >   - Sangay Thinley
+  >   - Yang Lim
+  > 4. North Metropolitan TAFE
+  >   - Project Supervisor -- Aaron Clifford
+
 
 ## 3. Business Requirements
 
@@ -180,25 +198,11 @@
   >   <tr>
   >    <td><i>[𝚜1.4]</i><br><b>Broadcast Bushfire Alerts & Fire Restrictions</b></td>
   >    <td><table><tr><td>Bushfire Restrictions & Alerts via SMS subscriptions, require mobile signal at the time of the issued alert.<sup>[ix]</sup></td></tr><tr><td>Currently paying for each broadcasted SMS through <b><i>Telstra Integrated Messaging Service</i></b> - (<b>TIMS</b>)<sup>[x]</sup></td></tr></table></td>
-  >    <td><table><tr><td>Increase the reliability of the alert system ensuring that all residents are aware of active alerts.</td></tr><tr><td>Reduce the costs of using sending emergency SMS alerts to residents.</td></tr></table></td>
-  >    <td><table><tr><td>Residents in "black-spot" areas may not receive alerts at the time they go into affect.<sup>[ix]</sup></td></tr><tr><td>TIMS is expensive for each alert sent.<sup>[x]<br><i>[see <a href="#figure-e">Fig: E</a>]</i></sup></td></tr></table></td>
-  >    <td><table><tr><td></td></tr><tr><td></td></tr></table></td>
+  >    <td><table><tr><td>Increase the reliability of the alert system ensuring that all residents are aware of active alerts.<sup>[ix]</sup></td></tr><tr><td>Reduce the costs of using sending emergency SMS alerts to residents.<sup>[x]</sup></td></tr></table></td>
+  >    <td><table><tr><td>Residents in "black-spot" areas may not receive alerts at the time they go into effect.<sup>[ix]</sup></td></tr><tr><td>TIMS is expensive for each alert sent.<sup>[x]<br><i>[see <a href="#figure-e">Fig: E</a>]</i></sup></td></tr></table></td>
+  >    <td><table><tr><td>Implement an alert feature that can schedule any planned restrictions so alerts come through without requiring signal when they come into effect.<sup>[ix]</sup></td></tr><tr><td>Implement a togglable notification system to phase of out the current TIMS subscription service.<sup>[x]</sup></td></tr></table></td>
   >   </tr>
   > </table>
-
-  > ### _<u>Figure:</u>_ <b>E</b>
-  >
-  > #### Telstra Integrated Messaging Service (TIMS) Cost Analysis.
-  >
-  > - $\large n$ _: Total number of subscribed residents to SMS notifications._ $= 2000 \small ^+/_- $ _residents._
-  >
-  > - $\large c$ _: Costs_ $= \$1500.00 \small ^+/_-$ _per SMS Broadcast._
-  >
-  > - $\large f$ _: Frequency of alerts sent --_ _<small>(2024 fire-season to date).</small>_ $= 42.$
-  > 
-  > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
-  > - $\large{v}$ _: Total Expense on SMS service this year :_ $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ 
-
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
@@ -219,65 +223,236 @@
 
 ## 5. Preliminary Research
 
+
+
+  > ### _<u>Figure:</u>_ <b>E</b>
+  >
+  > #### Telstra Integrated Messaging Service (TIMS) Cost Analysis.
+  >
+  > - $\large n$ _: Total number of subscribed residents to SMS notifications._ $= 2000 \small ^+/_- $ _residents._
+  >
+  > - $\large c$ _: Costs_ $= \$1500.00 \small ^+/_-$ _per SMS Broadcast._
+  >
+  > - $\large f$ _: Frequency of alerts sent --_ _<small>(2024 fire-season to date).</small>_ $= 42.$
+  > 
+  > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
+  > - $\large{v}$ _: Total Expense on SMS service this year :_ $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ 
+
+
 ## 6. Possible Solutions
 
+ ### 6.a. -- Solution #1
+
+    In order to address the requirements being asked by the Shire of Chittering, I propose that we adhere to these following solution that cover the key objectives below:
+
+        - I.   | Rates Payment System
+        - II.  | Events & Community News
+        - III. | Emergency Alerts & Broadcasts
+
+    > Section I. Rates Payment System:
+      
+      To implement an effective system that benefits both residents and Shire staff, I propose the implementation of a self 
+      service portal that allows residents to: 
+
+          - Make property rate payments, select appropriate installment period options.
+          - View any outstanding rates for the financial year.
+          - Get notified when rates are issues and/or due.
+          - Change payment details / options.
+      
+      In order to enhance security when requesting property payments and other sensitive information, I propose the following 
+      solutions:
+
+          - Users Create a one time account registry 
+          - Account information will be tied with each property's unique reference number and name of the addressee that can be 
+            found on the issued rate notice.
+          - Users will create passwords with email verification upon registering.
+            - This allows for account recovery incase details are lost.
+          - Information on account creation WILL be encrypted using Industry Best Practices & Standards when stored account
+            info. 
+          - Once encrypted the details can be stored in the current database with only slight amendments to the current table,
+            however if the need arises, the creation of an individual database can be created.
+            
+            **Note:**
+              Alterations WILL NOT impact how the current information is stored or accessed by the rates department & systems.
+
+    > Section II. Events & Community News:
+
+      An additional requirement of the application being developed is the 
+
+
+    > Section III. Emergency Alerts & Broadcasts:
+
+
+ ### 6.b. -- Solution #2
+
+     ...
+
+         - I.   | Rates Payment System
+         - II.  | Events & Community News
+         - III. | Emergency Alerts & Broadcasts
+
+     > Section I. Rates Payment System:
+       
+       ...
+
+     > Section II. Events & Community News:
+
+       ...
+
+     > Section III. Emergency Alerts & Broadcasts:
+       ...
 
 - ### 6.1. Business Impacts
 
   #### 6.1.1. **Solution - #1**
 
-    - **S1.A.  Rate Payment System**
+    - **S1.A.  Rates Payment System**
 
-          ...
+        By implementing a built in rates payment & query system into the application, it will ease staff workload by enabling residents to access rates services without the need of staff. This overall will increase customer support satisfaction, and increase staff productivity.
+
+        ??Shire Staff Training & Community "How To" workshops and material??
+
+      ---
 
     - **S1.B. Events & Community News**
 
-          ...
+        Creating a central hub for community information, will increase attendance of events, therefore help boost local economy by encouraging residents to engage within the community. By fostering a platform, a space is created for local advertisement opportunities.
+
+      ---
 
     - **S1.C. Emergency Alerts & Broadcasts**
 
-          ...
+        By implementing in-app broadcast alert system, the Shire may be able to phase out of their current Emergency Broadcast system that is implemented by Telstra Integrated Messaging System (TIMS). TIMS is not a cost effective solution as each broadcast costs upwards of $1500 _[see [figure E](#figure-e)]_.
 
-  #### **Solution - #2**
+        Ensuring that residents are made aware of active restrictions can reduce the number of emergency events through effective compliance. This ensures that there are less business interruptions throughout the year.
+
+  ---
+  #### **6.1.2. Solution - #2**
     
     - **S2.A. Rate Payment System**
 
-          ...
+        ...
 
     - **S2.B. Events & Community News**
 
-          ...
+        ...
 
     - **S2.C. Emergency Alerts & Broadcasts**
 
-          ...
+        ...
 
 - ### 6.2. Implementation Constraints
 
-  #### **Solution: 1**
+  #### 6.2.1. **Solution - #1**
 
-      ...
+    - **S1.A.  Rates Payment System**
 
-  #### **Solution: 2**
+        * Accessing existing database and making alterations to help secure / create user accounts.
+        * Residents support of the changing system may need some encouragement as the median age of residents are above the age of 40 so their acceptance of a technology based approach may be lower than the latter.
+        * Potential time constraints of implementing such a system may impact our ability to deliver all requirements.
 
-      ...
+      ---
+
+    - **S1.B. Events & Community News**
+
+        * The ability for local businesses to uttilise the platform without engaging the shire may decrease its effectiveness
+
+      ---
+
+    - **S1.C. Emergency Alerts & Broadcasts**
+
+        ...
+
+  #### 6.2.2. **Solution - #2**
+
+    - **S2.A.  Rates Payment System**
+
+        ...
+
+      ---
+
+    - **S2.B. Events & Community News**
+
+        ...
+
+      ---
+
+    - **S2.C. Emergency Alerts & Broadcasts**
+
+        ...
 
 - ### 6.3. Overall Effectiveness
 
-  #### **Solution: 1**
+  #### 6.3.1. **Solution - #1**
 
-      ...
+    - **S1.A.  Rates Payment System**
 
-  #### **Solution: 2**
+        ...
 
-      ...
+      ---
+
+    - **S1.B. Events & Community News**
+
+        ...
+
+      ---
+
+    - **S1.C. Emergency Alerts & Broadcasts**
+
+        ...
+
+  #### 6.3.2. **Solution - #2**
+
+    - **S2.A.  Rates Payment System**
+
+        ...
+
+      ---
+
+    - **S2.B. Events & Community News**
+
+        ...
+
+      ---
+
+    - **S2.C. Emergency Alerts & Broadcasts**
+
+        ...
 
 - ### 6.4. Refection to Industry Standards (Best Practices)
 
-  #### **Solution: 1**
+  #### 6.4.1. **Solution - #1**
 
-      ...
+    - **S1.A.  Rates Payment System**
 
-  #### **Solution: 2**
+        ...
 
-      ...
+      ---
+
+    - **S1.B. Events & Community News**
+
+        ...
+
+      ---
+
+    - **S1.C. Emergency Alerts & Broadcasts**
+
+        ...
+
+  #### 6.4.2. **Solution - #2**
+
+    - **S2.A.  Rates Payment System**
+
+        ...
+
+      ---
+
+    - **S2.B. Events & Community News**
+
+        ...
+
+      ---
+
+    - **S2.C. Emergency Alerts & Broadcasts**
+
+        ...
