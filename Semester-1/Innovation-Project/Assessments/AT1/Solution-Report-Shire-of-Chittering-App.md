@@ -166,15 +166,26 @@
 
 ## 4. Gap Analysis
 
-  >### Solution: 1
+  >### 4.𝚜1. _(Solution-1)_
+  >
+  > <table>
+  >   <tr><th>Objectives</th><th>Current-State</th><th>Desired-State</th><th>Gaps</th><th>Action to Bridge the Gaps</th></tr>
+  >   <tr><td><i>[𝚜1.1]</i><br><b>Query Payment Information</b></td><td>Unable to check current payment information<br><i>(i.e., remaining rates, etc.)</i></td><td>Allow residents to check their own balances</td><td><table><tr><td>No self service<sup>[i]</sup></td></tr><tr><td><br>Requesting Information Requires Staff assistance<sup>[ii]</sup></td></tr><tr><td>Can only make request during the opening hours at the shire<sup>[iii]</sup></td></tr><tr><td>Difficult to do if you don't live near Bindoon.<sup>[iv]</sup></td></tr></table></td><td><table><tr><td>Implement a Secure Sign in system, allowing self service payment queries.<sup>[i]</sup></td></tr><tr><td>Connect application queries to Rates & Payment database to query based of account info.<sup>[ii]</sup></td></tr><tr><td>Implement a 24/7 access system, without needing shire assistance.<sup>[iii]</sup></td></tr><tr><td><br>No need to go in person.<sup>[iv]</sup></td></tr></table></td></tr>
+  >   <tr>
+  >    <td><i>[𝚜1.2]</i><br><b>Increased Community Awareness</b></td><td><table><tr><td>Some residents are unaware of events happening in and around Chittering.<sup>[v]</sup></td></tr><tr><td>Events are advertised on social media sites.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>All Residents that want to be made aware of events are made aware.<sup>[v]</sup></td></tr><tr><td>No social media required to engage with comminity.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Event announcements & Community News reaches all residents.<sup>[v]</sup></td></tr><tr><td>Not all residents have social media.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Create an notification system.<sup>[v]</sup></td></tr><tr><td>Create a central News & Announce Portal.<sup>[vi]</sub></td></tr></table></td>
+  >   </tr>
+  > </table>
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
+  > | _<small>[<b>A</b></small> - 𝚜1.1.<small>]</small>_<br>**Residents Query<br>Payement Progress** | Residents Are required to track their own progress, or must call the shire. | Residents can query their progress without contacting the shire. | <li>Self service requests.</li> | Create an effective system that allows residents to check their own rates information. |
+  > |_[**B** - 𝚜1.2.]_<br>**Increased Community Awareness**| Some residents are not aware of events happening in and around Bindoon. | All residents are aware of things happening in the community. | <li>Residents that prefer not to use facebook may not hear about events.</li> ||
+  > ||||||
   > | **Rates Payment<br> System** |  |  |  |  |
   > | **Events <br>& Community<br>News** |  |  |  |  |
   > | **Emergency Alerts <br>& Broadcast** |  |  |  |  |
 
-  >### Solution: 2
+  >### 4.𝚜2. _(Solution-2)_
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
@@ -189,13 +200,33 @@
 
 - ### 6.1. Business Impacts
 
-  #### **Solution: 1**
+  #### 6.1.1. **Solution - #1**
 
-      ...
+    - **S1.A.  Rate Payment System**
 
-  #### **Solution: 2**
+          ...
 
-      ...
+    - **S1.B. Events & Community News**
+
+          ...
+
+    - **S1.C. Emergency Alerts & Broadcasts**
+
+          ...
+
+  #### **Solution - #2**
+    
+    - **S2.A. Rate Payment System**
+
+          ...
+
+    - **S2.B. Events & Community News**
+
+          ...
+
+    - **S2.C. Emergency Alerts & Broadcasts**
+
+          ...
 
 - ### 6.2. Implementation Constraints
 
