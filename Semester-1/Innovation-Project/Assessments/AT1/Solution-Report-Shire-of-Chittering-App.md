@@ -115,12 +115,15 @@
 
     >   _3.2.A._ **Rate Payment System** --
     <i><small>( see <b><a href="#a-rate-payment-system-–">appendix – A</a></b> )</small></i>
-    >
-    >     ...
+    >    - Reduces paper waste as residents will be able to opt out of future paper rate notices.<sup>[<b>s.2</b>]</sup>
+    >    ...
     >
     > _3.2.B._ **Events & Community News** -- 
     <i><small>( see <b><a href="#b-events--community-news-–">appendix – B</a></b> )</small></i>
     >
+    >    - encourages members in satellite areas to connect and engage with community events<sup>[<b>s.1</b>]</sup>
+
+
     >     Within the Shires 'Strategic Community Plan', they introduce their strategic objective for 
 
     _[Disregard below...]_
@@ -132,7 +135,10 @@
     > _3.2.C._ **Emergency Alerts & Broadcasts** -- 
     <i><small>( see <b><a href="#c-emergency-alerts--broadcasts-–">appendix–C</a></b> )</small></i>
     >
-    >       As highlighted in the Chittering Corporate Business Plan⁽¹⁾, a constant global threat that the Shire faces is the potential disaster of bushfires. An objective of the Shire is to implement planning measures and further development to minimise the impact of this threat.
+    >    - As highlighted in the Chittering Corporate Business Plan⁽¹⁾, a constant global threat that the Shire faces is the potential disaster of bushfires. An objective of the Shire is to implement planning measures and further development to minimise the impact of this threat.
+    >
+    >      This aligns with the <u>_Shire of Chittering's strategic objective 2 -- Sustainable living in a protected environment._</u><sup>[<b>s.2</b>]</sup>
+    >
     > - <table><tr><th>#</th><th>References</th><th></th></tr><tr><sup><td><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027"><sup>[1]</sup></a></td><td><sup><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027">Shire of Chittering Coorporate Business Plan 2022 - 2027</a></td><td><sup><small><b>Global Threats</b></small><br><i>page.</i><small> 6</small></sup></td></sup></tr></table>
     >
 
@@ -175,11 +181,19 @@
   > _3.3.B._ **Events & Community News** -- 
     <i><small>( see <b><a href="#b-events--community-news-–">appendix – B</a></b> )</small></i>
 
+      - Facebook
+      - Website
+      - Fliers & Posters
+      - Electronic Billboards
       ...
 
   > _3.3.C._ **Emergency Alerts & Broadcasts** -- 
     <i><small>( see <b><a href="#c-emergency-alerts--broadcasts-–">appendix – C</a></b> )</small></i>
 
+      - TIMS (Restrictions)
+      - Facebook (Restrictions)
+      - Website (FDR)
+      - Emergency WA (FDR & Restrictions)
       ...
 
 ## 4. Gap Analysis
@@ -224,8 +238,30 @@
   > 
   > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
   > - $\large{v}$ _: Total Expense on SMS service this year :_ 
-  $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$
+  $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ Per Year.
 
+  > ### City of Swan's Online Rates Portal _(How to Guide)_
+  >
+  >  - Download / View : [online-service-rates-portal.pdf](https://www.swan.wa.gov.au/awcontent/Web/Documents/Annual-Reports/online-services-rates-portal-how-to-guide.pdf)
+  >
+  >      #### Relevant Document Content :
+  >
+  >           1. Registering details.
+  >              - Customer name & activation-key.
+  >              - Create a password.
+  >
+  >           2. Signing into the portal.
+  >        
+  >           3. Using the portal.
+  >
+  >           4. Editing contact details.
+  >
+  >           5. Viewing rate notices & manage payments.
+  >              - Create a direct debit.
+  >              - Confirm your direct debit.
+  >              - Create a payment arrangement.
+  >
+  >           6. View Current & Previous notices.
 
 ## 6. Possible Solutions
 
@@ -338,51 +374,61 @@
 
      > Section I. Rates Payment System:
        
-       ...
+       1. Simple verification method 
+          - Only requires property reference number & addressed resident.
+
+       2. Users can make one time payments from the application.
+
+       3. 
 
      > Section II. Events & Community News:
 
-       ...
+       1. Hooks posts from the website.
+       
+       2. 
 
      > Section III. Emergency Alerts & Broadcasts:
        ...
-
-- #### 6.0.1 -- SWOT Analysis
-
-  - Solution - #1
-    ---
-    |                             | **Strengths** | **Weaknesses** | **Objectives** | **Threats** |
-    |-----------------------------|---------------|----------------|----------------|-------------|
-    |`Section I. Rates & Payments`|<li>Secure handling of sensitive data.</li>|...|Shire of Chittering<br>Strategic Objective (Community):<br>[𝚜1.<small> Connected Communities</small>](#32-relation-to-strategic-plan)||
-
 
 - ### 6.1. Business Impacts
 
   #### 6.1.1. **Solution - #1**
 
     - **S1.A.  Rates Payment System**
+        
+        1. By implementing a built in rates payment & query system into the application, it will ease staff workload by 
+          enabling residents to access rates services without the need of staff. This overall will increase customer support 
+          satisfaction, and increase staff productivity.
 
-        By implementing a built in rates payment & query system into the application, it will ease staff workload by enabling residents to access rates services without the need of staff. This overall will increase customer support satisfaction, and increase staff productivity.
-
-        There will be a requirement to train Shire Staff, and the need to develop Community "How To" support material and/or information sessions.
+        2. There will be a requirement to train Shire Staff, and the need to develop Community "How To" support material and/or 
+          information sessions.
 
       ---
 
     - **S1.B. Events & Community News**
 
-        Creating a central hub for community information, will increase attendance of events, therefore help boost local economy by encouraging residents to engage within the community. By fostering a platform, a space is created for local advertisement opportunities.
+        1. Creating a central hub for community information, will increase attendance of events, better connecting the
+           community together.
+        
+        2. By fostering a platform, a space is created for local advertisement opportunities which overall will boost local
+           economy.
 
-        Allowing residents to export event schedules into their personal calendar, makes sure they receive reminders when events are taking place.
+        3. By allowing residents to export event schedules from the application, into their personal device calendar encourages
+           residents to attend the event as they can be notified prior to an event date.
 
       ---
 
     - **S1.C. Emergency Alerts & Broadcasts**
 
-        By implementing in-app broadcast alert system, the Shire may be able to phase out of their current Emergency Broadcast system that is implemented by Telstra Integrated Messaging System (TIMS). TIMS is not a cost effective solution as each broadcast costs upwards of $1500 _[see [figure E](#figure-e)]_.
+        1. By implementing in-app broadcast alert system, the Shire may be able to phase out of their current Emergency
+           Broadcast system that is implemented by Telstra Integrated Messaging System (TIMS).
+               
+           - <u>TIMS is not a cost effective solution as each broadcast costs upwards of $1500 --- _[see [figure E](#figure-e)]_.</u>
 
-        Reinforces confidence that residents are made aware of active restrictions, therefore potentially reducing the number of emergency events creating less business interruptions throughout the year.
+        2. Makes sure that residents are made aware of active restrictions, therefore potentially reducing the number of emergency events creating less business interruptions throughout the year.
 
   ---
+
   #### **6.1.2. Solution - #2**
     
     - **S2.A. Rate Payment System**
@@ -397,30 +443,40 @@
 
         ...
 
+  ---
+
 - ### 6.2. Implementation Constraints
 
   #### 6.2.1. **Solution - #1**
 
     - **S1.A.  Rates Payment System**
 
-        * Accessing existing database and making alterations to help secure / create user accounts.
-        * Residents support of the changing system may need some encouragement as the median age of residents are above the age of 40 so their acceptance of a technology based approach may be lower than the latter.
-        * Potential time constraints of implementing such a system may impact our ability to deliver all requirements.
+        1. Accessing existing database and making alterations to help secure / create user accounts.
+
+        2. Residents support of the changing system may need some encouragement as the median age of residents are above the
+           age of 40 so their acceptance of a technology based approach may be lower than the latter.
+        
+        3. Potential time constraints of implementing such a system may impact our ability to deliver all requirements.
 
       ---
 
     - **S1.B. Events & Community News**
 
-        * The ability for local businesses to utilise the platform without engaging the shire may decrease its effectiveness.
-        * Implementing a support enquiry platform may increase the number of emails received by Shire administration staff.
-        * Those less likely to adopt a technology based approach may not use the application if the process is too complex.
+        1. The ability for local businesses to utilise the platform without engaging the shire may decrease its effectiveness.
+
+        2. Implementing a support enquiry platform may increase the number of emails received by Shire administration staff.
+        
+        3. Those less likely to adopt a technology based approach may not use the application if the process is too complex.
 
       ---
 
     - **S1.C. Emergency Alerts & Broadcasts**
 
-       * Phasing out of the current TIMS broadcast service will require a timely approach for residents to adopt the new system.
-       * Time constraints may effect our ability to implement the service, given the overall  scope of the project, testing requirements.
+       1. Phasing out of the current TIMS broadcast service will require a timely approach for residents to adopt the new system.
+
+       2. Time constraints may effect our ability to implement the service, given the overall  scope of the project, testing requirements.
+
+       3. Effectiveness of the Emergency Alert broadcasts from within 'black-spot' areas is still unknown.
 
   #### 6.2.2. **Solution - #2**
 
