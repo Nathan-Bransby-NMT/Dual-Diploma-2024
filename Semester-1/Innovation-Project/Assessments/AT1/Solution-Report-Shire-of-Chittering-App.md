@@ -198,27 +198,13 @@
 
 ## 4. Gap Analysis
 
-  >### 4.𝚜1. _(Solution-1)_
+  >### 4.𝚜1. <u>Solution-1</u>
   >
-  > <table>
-  >   <tr><th>Objectives</th><th>Current-State</th><th>Desired-State</th><th>Gaps</th><th>Action to Bridge the Gaps</th></tr>
-  >   <tr><td><i>[𝚜1.1]</i><br><b>Query Payment Information</b></td><td>Unable to check current payment information<br><i>(i.e., remaining rates, etc.)</i></td><td>Allow residents to check their own balances</td><td><table><tr><td>No self service<sup>[i]</sup></td></tr><tr><td><br>Requesting Information Requires Staff assistance<sup>[ii]</sup></td></tr><tr><td>Can only make request during the opening hours at the shire<sup>[iii]</sup></td></tr><tr><td>Difficult to do if you don't live near Bindoon.<sup>[iv]</sup></td></tr></table></td><td><table><tr><td>Implement a Secure Sign in system, allowing self service payment queries.<sup>[i]</sup></td></tr><tr><td>Connect application queries to Rates & Payment database to query based of account info.<sup>[ii]</sup></td></tr><tr><td>Implement a 24/7 access system, without needing shire assistance.<sup>[iii]</sup></td></tr><tr><td><br>No need to go in person.<sup>[iv]</sup></td></tr></table></td></tr>
-  >   <tr>
-  >    <td><i>[𝚜1.2]</i><br><b>Increase Community Awareness</b></td><td><table><tr><td>Some residents are unaware of events happening in and around Chittering.<sup>[v]</sup></td></tr><tr><td>Events are advertised on social media sites.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>All Residents that want to be made aware of events are made aware.<sup>[v]</sup></td></tr><tr><td>No social media required to engage with comminity.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Event announcements & Community News reaches all residents.<sup>[v]</sup></td></tr><tr><td>Not all residents have social media.<sup>[vi]</sup></td></tr></table></td><td><table><tr><td>Create an notification system.<sup>[v]</sup></td></tr><tr><td>Create a central News & Announce Portal without the need of social media.<sup>[vi]</sub></td></tr></table></td>
-  >   </tr>
-  >   <tr>
-  >    <td><i>[𝚜1.3]<i><br><b>Increase Bush-Fire Danger Awareness & Compliance</b></td><td><table><tr><td>FDR information is only available via Emergency WA or the Shire of Chittering's Website<sup>[vii]</sup></td></tr><tr><td>Residents with property have to seek fire-break compliance dates<sup>[viii]</sup></td></tr></table></td><td><table><tr><td>Make it more accessible for residents personal devices.<sup>[vii]</sup></td></tr><tr><td>Residents no longer require to seek compliance dates.<sup>[viii]</sup></td></tr></table></td><td>Currently requires frequent monitoring by residents.</td><td><table><tr><td>Display Current FDR for Swan Inland North<sup>[vii]</sup></td></tr><tr><td>Enable automatic push notifications when FDR is high and/or Fire Restrictions are in-place.<sup>[viii]</sup></td></tr></table></td>
-  >   </tr>
-  >   <tr>
-  >    <td><i>[𝚜1.4]</i><br><b>Broadcast Bushfire Alerts & Fire Restrictions</b></td>
-  >    <td><table><tr><td>Bushfire Restrictions & Alerts via SMS subscriptions, require mobile signal at the time of the issued alert.<sup>[ix]</sup></td></tr><tr><td>Currently paying for each broadcasted SMS through <b><i>Telstra Integrated Messaging Service</i></b> - (<b>TIMS</b>)<sup>[x]</sup></td></tr></table></td>
-  >    <td><table><tr><td>Increase the reliability of the alert system ensuring that all residents are aware of active alerts.<sup>[ix]</sup></td></tr><tr><td>Reduce the costs of using sending emergency SMS alerts to residents.<sup>[x]</sup></td></tr></table></td>
-  >    <td><table><tr><td>Residents in "black-spot" areas may not receive alerts at the time they go into effect.<sup>[ix]</sup></td></tr><tr><td>TIMS is expensive for each alert sent.<sup>[x]<br><i>[see <a href="#figure-e">Fig: E</a>]</i></sup></td></tr></table></td>
-  >    <td><table><tr><td>Implement an alert feature that can schedule any planned restrictions so alerts come through without requiring signal when they come into effect.<sup>[ix]</sup></td></tr><tr><td>Implement a togglable notification system to phase of out the current TIMS subscription service.<sup>[x]</sup></td></tr></table></td>
-  >   </tr>
-  > </table>
+  > <image src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/Assessments/AT1/Solution-1-Gap-Analysis.png?raw=true" alt="Solution-1, Gap Analysis"></image>
+  > >
+  > > _ref:_ [Solution-1-Gap-Analysis.xlsx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/raw/main/Semester-1/Innovation-Project/Assessments/AT1/Solution-1-Gap-Analysis.xlsx)
   >
-  >### 4.𝚜2. _(Solution-2)_
+  >### 4.𝚜2. <u>Solution-2</u>
   >
   > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
   > |---------:|:------------|:------------|:---|-------------------------|
@@ -242,26 +228,27 @@
 
   > ### City of Swan's Online Rates Portal _(How to Guide)_
   >
-  >  - Download / View : [online-service-rates-portal.pdf](https://www.swan.wa.gov.au/awcontent/Web/Documents/Annual-Reports/online-services-rates-portal-how-to-guide.pdf)
+  > - #### Relevant Document Content
   >
-  >      #### Relevant Document Content :
+  >   1. Registering details.
+  >      - Customer name & activation-key.
+  >      - Create a password.
   >
-  >           1. Registering details.
-  >              - Customer name & activation-key.
-  >              - Create a password.
+  >   2. Signing into the portal.
+  >  
+  >   3. Using the portal.
   >
-  >           2. Signing into the portal.
-  >        
-  >           3. Using the portal.
+  >   4. Editing contact details.
   >
-  >           4. Editing contact details.
+  >   5. Viewing rate notices & manage payments.
+  >      - Create a direct debit.
+  >      - Confirm your direct debit.
+  >      - Create a payment arrangement.
   >
-  >           5. Viewing rate notices & manage payments.
-  >              - Create a direct debit.
-  >              - Confirm your direct debit.
-  >              - Create a payment arrangement.
+  >   6. View Current & Previous notices.
   >
-  >           6. View Current & Previous notices.
+  > > - _ref :_ [online-service-rates-portal.pdf](https://www.swan.wa.gov.au/awcontent/Web/Documents/Annual-Reports/online-services-rates-portal-how-to-guide.pdf)
+  >
 
 ## 6. Possible Solutions
 
