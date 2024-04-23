@@ -5,11 +5,21 @@ Email:    v141198@tafe.wa.edu.au
 Updated:  26/03/2024
 """
 
+from __future__ import annotations
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError
 
 
 class Player:
+    """Player object.
+    
+    Represents a player object, containing a player score.
+
+    Args:
+        unique_id (str):    The players unique identification.
+        name (str):         The players name.
+        password (str):     A password used to secure the players account.
+    """
 
     _unique_id: str
     _name: str
@@ -18,32 +28,75 @@ class Player:
     _score: int
 
     def __init__(self, unique_id: str, name: str, password: str) -> None:
+        self._hasher, self._password = Player.add_password(password)
         self._unique_id = unique_id
         self._name = name
         self._score = 0
 
-        self._hasher, self._password = Player.add_password(password)
+    def __int__(self) -> int:
+        """Represents the players score as an integer value."""
+        return self.score
+    
+    def __eq__(self, other: Player | int) -> bool:
+        """Equal-To Comparison Operator on the players score.
+        
+        Allows score comparison between two players as well as integer values.
+        """
+        return int(self) == int(other)
+    
+    def __ge__(self, other: Player | int) -> bool:
+        """Greater-Than or Equal-To Comparison Operator on the players score.
+        
+        Allows score comparison between two players as well as integer values.
+        """
+        return int(self) >= int(other)
+    
+    def __le__(self, other: Player | int) -> bool:
+        """Less-Than or Equal-To Comparison Operator on the players score.
+        
+        Allows score comparison between two players as well as integer values.
+        """
+        return int(self) <= int(other)
+    
+    def __gt__(self, other: Player | int) -> bool:
+        """Greater-Than Comparison Operator on the players score.
+        
+        Allows score comparison between two players as well as integer values.
+        """
+        return int(self) > int(other)
+    
+    def __lt__(self, other: Player | int) -> bool:
+        """Less-Than Comparison Operator on the players score.
+        
+        Allows score comparison between two players as well as integer values.
+        """
+        return int(self) < int(other)
 
     def __str__(self) -> str:
-        return f'Player[uid={self.uid!r}, name={self.name!r}]'
+        return f"Player: {self.name}\n" \
+               f"ID:     {self.uid}\n" \
+               f"Score:  {self.score}"
 
     def __repr__(self) -> str:
         return f'{self.__class__.__name__}({self.uid!r}, {self.name!r})'
 
     @property
     def uid(self) -> str:
+        """Getter method for returning the player's Unique-ID."""        
         if not self._unique_id:
             raise ValueError('Error: No Unique ID provided.')
         return self._unique_id
 
     @property
     def name(self) -> str:
+        """Getter method for returning the player's name."""
         if not self._name:
             raise ValueError('Error: No Name provided.')
         return self._name
     
     @property
     def score(self) -> int:
+        """Getter method for returning the player's score."""
         return self._score
     
     @score.setter
