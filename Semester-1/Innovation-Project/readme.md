@@ -2,8 +2,11 @@
 
 nmt.diploma_group2024@outlook.com
 Tafe2024
+***********
 
-* Key Notes (solution) - Simplify and section solution impacts into summary for the 3 objectives together. // Submit ASAP & do brainstorming activity with group ***********
+* Key Notes (solution) - Simplify and section solution impacts into summary for the 3 objectives together, adjust for a more tech based solution breakdown and research!. // Submit ASAP & do brainstorming activity with group.
+
+***********
 
 [Contacts](https://tafewa.sharepoint.com/:w:/s/NMTStudentPINICT50220-Project-ShireofChittering2024/EXYJsP9lKa5KjlNh7mxmBecBs1n2Lrq_sWbTIjM3-bHvOw)
 
