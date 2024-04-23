@@ -107,6 +107,10 @@ class Player:
         self._score = value
 
     @staticmethod
+    def rank_player(players: list[Player]) -> list[Player]:
+        ...
+
+    @staticmethod
     def add_password(password: str) -> tuple[PasswordHasher, bytes]:
         """Static Player method that generates a encoded password hash.
 
