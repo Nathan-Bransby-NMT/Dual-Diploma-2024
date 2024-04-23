@@ -15,10 +15,12 @@ class Player:
     _name: str
     _password: bytes
     _hasher: PasswordHasher
+    _score: int
 
     def __init__(self, unique_id: str, name: str, password: str) -> None:
         self._unique_id = unique_id
         self._name = name
+        self._score = 0
 
         self._hasher, self._password = Player.add_password(password)
 
@@ -39,6 +41,16 @@ class Player:
         if not self._name:
             raise ValueError('Error: No Name provided.')
         return self._name
+    
+    @property
+    def score(self) -> int:
+        return self._score
+    
+    @score.setter
+    def score(self, value: int) -> None:
+        if value < 0:
+            raise ValueError("A player score cannot be a negative value.")
+        self._score = value
 
     @staticmethod
     def add_password(password: str) -> tuple[PasswordHasher, bytes]:
