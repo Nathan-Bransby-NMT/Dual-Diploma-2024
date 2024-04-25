@@ -5,25 +5,8 @@
 ## 2. Overview
 
 > In response to the Shire of Chittering, our team has been tasked with developing an application that will act as centralized platform for the residents within the Chittering Region. As discussed with CEO Malinda Prinsloo, there is a need for more effective announcements to residents about upcoming events, a more cost effective solution for sending important alerts and a need for making payments to the Shire for Services and Rates more accessible to all residents.
-
-### 2.1. Stakeholders
-
-  > **The application contains the following stakeholders:**
-  > 1. The Residents within the Shire of Chittering.
-  > 2. The Staff within the Shire of Chittering.
-  >   - Shire CEO -- Melinda Prinsloo
-  >   - Emergency Service Coordinator -- Jodie Connell
-  >   - Shire Rates Department & Staff.
-  > 3. Our Team, developing the application.
-  >   - Bianca Ishikawa
-  >   - Douglas Ferguson
-  >   - Daniel Mulenga
-  >   - Nathan Bransby (Myself)
-  >   - Sangay Thinley
-  >   - Yang Lim
-  > 4. North Metropolitan TAFE
-  >   - Project Supervisor -- Aaron Clifford
-
+>
+> This is the third year that North Metropolitan TAFE has partnered with The Shire of Chittering, As a result of this our team will be working with existing code bases, and prior implementations for features such as, FDR display board, notification system (firebase), etc...
 
 ## 3. Business Requirements
 
@@ -122,14 +105,8 @@
     <i><small>( see <b><a href="#b-events--community-news-–">appendix – B</a></b> )</small></i>
     >
     >    - encourages members in satellite areas to connect and engage with community events<sup>[<b>s.1</b>]</sup>
-
-
-    >     Within the Shires 'Strategic Community Plan', they introduce their strategic objective for 
-
-    _[Disregard below...]_
-    >     The Shire have listed having "An active and supportive community" Objective [𝚜¹⋅¹] . The Strategic Objective table within importance of Objective 1.1 [𝚜¹⋅¹] under  within the Community Aspiration Strategic Community Plan, highlights the some of the key services & businesses as usual programs/events that contributes in bringing the community together. found in the most recent Shire of Chittering's 'Corporate Business Plan¹'.
-    >
-    >     Further information about [𝚜₁.₁] such as the events outlined can also be found in the 2023 - 2024 Budget Project Highlights Plan / Rates Brochure⁽²⁾.
+    >    - The Shire have listed having "An active and supportive community" Objective [𝚜¹⋅¹] . The Strategic Objective table within importance of Objective 1.1 [𝚜¹⋅¹] under  within the Community Aspiration Strategic Community Plan, highlights the some of the key services & businesses as usual programs/events that contributes in bringing the community together. found in the most recent Shire of Chittering's 'Corporate Business Plan¹'.
+    > - **Note** -- _Further information about [𝚜₁.₁] such as the events outlined can also be found in the 2023 - 2024 Budget Project Highlights Plan / Rates Brochure⁽²⁾._
     > - <table><tr><th>#</th><th>References</th><th></th></tr><tr><sup><td><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027"><sup>[1]</sup></a></td><td><sup><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027">Shire of Chittering Coorporate Business Plan 2022 - 2027</a></td><td><sup><small><b>Strategic Objective 1.1</b></small><br><i>page.</i><small> 27</small></sup></td></sup></tr><tr><sup><td><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027"><sup>[2]</sup></a></td><td><sup><a href="https://www.chittering.wa.gov.au/documents/584/corporate-business-plan-2023-2027">2023 - 2024 Budget Project Highlights / Rates Brochure</a></td><td><sup><small><b>Strategic Objective 1.1</b></small><br><i>page.</i><small> 3</small></sup></td></sup></tr></table>
     >
     > _3.2.C._ **Emergency Alerts & Broadcasts** -- 
@@ -176,41 +153,37 @@
         IIV.  Mail Cheques to:
               The Shire of Chittering, PO Box 70 Bindoon WA 6502
         
-    [https://www.bpoint.com.au/payments/chittering]
+    _ref: [Shire of Chittering's BPoint Page](https://www.bpoint.com.au/payments/chittering)_
 
   > _3.3.B._ **Events & Community News** -- 
     <i><small>( see <b><a href="#b-events--community-news-–">appendix – B</a></b> )</small></i>
 
-      - Facebook
-      - Website
-      - Fliers & Posters
-      - Electronic Billboards
-      ...
+      - Facebook.
+      - Website.
+      - Fliers & Posters.
+      - Electronic Billboards around the town.
+      - Word of mouth.
+      - Community Notice Letters (postal)
+      
 
   > _3.3.C._ **Emergency Alerts & Broadcasts** -- 
     <i><small>( see <b><a href="#c-emergency-alerts--broadcasts-–">appendix – C</a></b> )</small></i>
 
-      - TIMS (Restrictions)
-      - Facebook (Restrictions)
-      - Website (FDR)
-      - Emergency WA (FDR & Restrictions)
-      ...
+      - TIMS - Fire restriction SMS subscription service.
 
-## 4. Gap Analysis
+      - Facebook - Posts stating when fire bans & restrictions are coming into affect.
 
-  >### 4.𝚜1. <u>Solution-1</u>
+      - Website - About Fire Ratings & displays a FDR for the current day.
+
+      - Emergency WA - External government site that displays FDR for regions as well as any active emergency alerts.
+
+## 4. Gap Analysis / Preliminary Research
+
+  >### 4.A. <u>Solution Gap-Analysis Table</u>
   >
   > <image src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/Assessments/AT1/Solution-1-Gap-Analysis.png?raw=true" alt="Solution-1, Gap Analysis"></image>
   > >
   > > _ref:_ [Solution-1-Gap-Analysis.xlsx](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/raw/main/Semester-1/Innovation-Project/Assessments/AT1/Solution-1-Gap-Analysis.xlsx)
-  >
-  >### 4.𝚜2. <u>Solution-2</u>
-  >
-  > |Objectives|Current-State|Desired-State|Gaps|Action to bridge the gaps|
-  > |---------:|:------------|:------------|:---|-------------------------|
-  > ||||||
-
-## 5. Preliminary Research
 
   > ### _<u>Figure:</u>_ <b>E</b>
   >
@@ -225,6 +198,19 @@
   > - $\small{T}$ _: Total SMS's sent this fire-season_ $:$ $\small{T} = \large{n} \times \large{f} = \small{2000} \times \small{42} = 84000$ $\small{^+/_-}$
   > - $\large{v}$ _: Total Expense on SMS service this year :_ 
   $\large{v} = \large{c} \times \large{f} = \small{\$1500.00} \times 42 = \small{\$63000.00}$ $\small{^+/_-}$ Per Year.
+
+  > ### _<u>Figure:</u>_ **F** <br><br>Payment Gateway's / S.W.O.T Analysis Table
+  >
+  > - Payment Service / Gateway must meet the [PCI Compliance Checklist](https://business.gov.au/finance/payments-and-invoicing/choose-payment-methods) criteria.
+  >
+  > > #### Payment Gateway Workflow Model _[<u>figure : **F-I**</u>]_
+  > >
+  > > <image src="" alt="A workflow diagram showing how payment gateways operate."></image>
+  >
+  > | _**Service**_ | **Strengths** | **Weaknesses** | **Opportunities** | **Threats** |
+  > |---|---|---|---|---|
+  > | **BPoint** _(current system)_ | - Allows Custom JavaScript Alterations | - Relies of redirecting the user to a BPoint payment page (out of application). |  - Allows customisation of the payment API's to meet the users needs. | - Payer must manually enter a reference number, which could be entered incorrectly. |
+  ||||
 
   > ### City of Swan's Online Rates Portal _(How to Guide)_
   >
@@ -250,9 +236,9 @@
   > > - _ref :_ [online-service-rates-portal.pdf](https://www.swan.wa.gov.au/awcontent/Web/Documents/Annual-Reports/online-services-rates-portal-how-to-guide.pdf)
   >
 
-## 6. Possible Solutions
+## 5. Possible Solutions
 
- ### 6.a. -- Solution #1
+ ### 5.a. -- Solution #1
 
     In order to address the requirements being asked by the Shire of Chittering, I propose that we adhere to these following solution that cover the key objectives below:
 
@@ -351,7 +337,7 @@
         
         8. The feature will operate entire free of charge to both resident & Shire cutting costs dramatically.
 
- ### 6.b. -- Solution #2
+ ### 5.b. -- Solution #2
 
      ...
 
