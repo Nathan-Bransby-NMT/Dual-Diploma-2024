@@ -205,12 +205,14 @@
   >
   > > #### Payment Gateway Workflow Model _[<u>figure : **F-I**</u>]_
   > >
-  > > <image src="" alt="A workflow diagram showing how payment gateways operate."></image>
+  > > <image src="https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Innovation-Project/Client-Project/Payment-Gateway-Workflow.png?raw=true" alt="A workflow diagram showing how payment gateways operate."></image>
+  > > 
+  > > | **<sub>F.I.</sub>** &nbsp;<small><i>[ Reference : [https://squareup.com/au](https://squareup.com/au/en/the-bottom-line/managing-your-finances/payment-gateway) ]</i></small>
   >
   > | _**Service**_ | **Strengths** | **Weaknesses** | **Opportunities** | **Threats** |
   > |---|---|---|---|---|
-  > | **BPoint** _(current system)_ | - Allows Custom JavaScript Alterations | - Relies of redirecting the user to a BPoint payment page (out of application). |  - Allows customisation of the payment API's to meet the users needs. | - Payer must manually enter a reference number, which could be entered incorrectly. |
-  ||||
+  > | [**BPoint**](https://www.bpoint.com.au/payments/chittering) _(current system)_ | - Allows Custom JavaScript Alterations | - Relies of redirecting the user to a BPoint payment page (out of application). |  - Allows customisation of the payment API's to meet the users needs. | - Payer must manually enter a reference number, which could be entered incorrectly. |
+  > | [**Square**](https://squareup.com/au/en) | - [Customisable APIs & SDKs](https://developer.squareup.com/docs/payments-overview)<br> - Easy useability & setup <br> - Offer multiple eCommerce solutions<br> - Built in 24/7 security with end-to-end encryption. | - Requires the Shire changing current systems.<br>- Requires setting up the system. | - They offer physical [POS Hardware solutions](https://squareup.com/au/en/point-of-sale) that can use the same workflow as the online payment service<br> - Includes analytical tools | - Could create a centralised ecosystem, which can become a financial issue if subscription prices increase.<br>-   |
 
   > ### City of Swan's Online Rates Portal _(How to Guide)_
   >
