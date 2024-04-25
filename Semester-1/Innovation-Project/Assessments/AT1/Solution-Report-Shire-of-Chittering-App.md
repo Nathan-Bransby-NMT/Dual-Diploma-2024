@@ -212,7 +212,8 @@
   > | _**Service**_ | **Strengths** | **Weaknesses** | **Opportunities** | **Threats** |
   > |---|---|---|---|---|
   > | [**BPoint**](https://www.bpoint.com.au/payments/chittering) _(current system)_ | - Allows Custom JavaScript Alterations | - Relies of redirecting the user to a BPoint payment page (out of application). |  - Allows customisation of the payment API's to meet the users needs. | - Payer must manually enter a reference number, which could be entered incorrectly. |
-  > | [**Square**](https://squareup.com/au/en) | - [Customisable APIs & SDKs](https://developer.squareup.com/docs/payments-overview)<br> - Easy useability & setup <br> - Offer multiple eCommerce solutions<br> - Built in 24/7 security with end-to-end encryption. | - Requires the Shire changing current systems.<br>- Requires setting up the system. | - They offer physical [POS Hardware solutions](https://squareup.com/au/en/point-of-sale) that can use the same workflow as the online payment service<br> - Includes analytical tools | - Could create a centralised ecosystem, which can become a financial issue if subscription prices increase.<br>-   |
+  > | [**Square**](https://squareup.com/au/en) | - [Customisable APIs & SDKs](https://developer.squareup.com/docs/payments-overview)<br><br> - Easy useability & setup <br><br> - Offers multiple eCommerce solutions<br><br> - Built in 24/7 security with end-to-end encryption. | - Requires the Shire changing current systems to use the new API's.<br><br>- Requires setting up the new system.<br><br> - Include surcharges. | - They offer physical [POS Hardware solutions](https://squareup.com/au/en/point-of-sale) that can use the same workflow as the online payment service<br><br> - Includes analytical tools | - Could create a centralised ecosystem, which can become a financial issue if subscription prices increase.|
+  > | [**Stripe**](https://stripe.com/au/) | - Payments are end-to-end encrypted.<br><br> - Supports 135+ different currencies & payment methods.<br><br> - 99.999% historical service uptime.<br><br> - 250, 000, 000 API requests per day | - Implementing a new system that works for the shires current systems.<br><br> - Not Full customer support is available in Australia | - Ability to generate QR codes that can be included on the physical rate notice & a corresponding link in the application<br><br> - Allows [Embedded Financial Services](https://stripe.com/au/treasury) _(Banking as a Service API)_ with **Stripe Treasury**, allowing customers to hold funds & pay bills straight from the application. <br>&nbsp;&nbsp;- User account objects can be created to link resident accounts to their account balances. | - Full Stripe implementation may have restrictions within Australia. |
 
   > ### City of Swan's Online Rates Portal _(How to Guide)_
   >
@@ -256,7 +257,7 @@
           1. Make property rate payments, select appropriate installment period options.
           2. View any outstanding rates for the financial year.
           3. Get notified when rates are issues and/or due.
-          4. Change payment details / options.
+          4. Change payment details /  without the need of staff.
       
       In order to enhance security when requesting property payments and other sensitive information, I propose the following 
       solutions:
