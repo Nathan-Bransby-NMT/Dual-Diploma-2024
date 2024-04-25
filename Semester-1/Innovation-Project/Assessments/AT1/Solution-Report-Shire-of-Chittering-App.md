@@ -241,7 +241,7 @@
 
 ## 5. Possible Solutions
 
- ### 5.a. -- Solution #1
+ ### Solution
 
     In order to address the requirements being asked by the Shire of Chittering, I propose that we adhere to these following solution that cover the key objectives below:
 
@@ -255,8 +255,11 @@
       service portal that allows residents to: 
 
           1. Make property rate payments, select appropriate installment period options.
+
           2. View any outstanding rates for the financial year.
+          
           3. Get notified when rates are issues and/or due.
+          
           4. Change payment details /  without the need of staff.
       
       In order to enhance security when requesting property payments and other sensitive information, I propose the following 
@@ -279,6 +282,8 @@
 
             **Note**: Alterations WILL NOT impact how any of the current property information is stored and/or 
                       accessed by internal & external systems & practices.
+
+      If we change the payment gateway from BPoint to a Banking as a System (BaaS)payment gateway such as [**Stripe**]().
           
     > Section II. Events & Community News:
           
@@ -339,32 +344,6 @@
              that users receive scheduled emergency alerts.
         
         8. The feature will operate entire free of charge to both resident & Shire cutting costs dramatically.
-
- ### 5.b. -- Solution #2
-
-     ...
-
-         - I.   | Rates Payment System
-         - II.  | Events & Community News
-         - III. | Emergency Alerts & Broadcasts
-
-     > Section I. Rates Payment System:
-       
-       1. Simple verification method 
-          - Only requires property reference number & addressed resident.
-
-       2. Users can make one time payments from the application.
-
-       3. 
-
-     > Section II. Events & Community News:
-
-       1. Hooks posts from the website.
-       
-       2. 
-
-     > Section III. Emergency Alerts & Broadcasts:
-       ...
 
 - ### 6.1. Business Impacts
 
