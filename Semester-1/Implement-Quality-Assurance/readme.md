@@ -1,5 +1,10 @@
 # Implement Quality Assurance Process For Websites
 
+||Course|Due Dates|| |
+|-|-|-|-|-|
+|Assessment |1|`01-05`|week|?|
+|Assessment |2|`?`|week|18|
+|Assessment |3|`?`|week|18|
 
 ## Notes
 
@@ -26,3 +31,15 @@ _Provide a brief yet comprehensive introduction to the assigned project. Include
 > ## Non-Functional Requirements
 >
 > ## Objectives
+
+### Assessment -- _Task 2_
+
+- Methods of function testing.
+
+  - (Some how use Front-End / FullStack)
+
+#### Testing Tools
+
+- [https://validator.w3.org/](https://validator.w3.org/)
+
+
