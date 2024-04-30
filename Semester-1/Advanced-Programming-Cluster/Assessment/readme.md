@@ -34,7 +34,31 @@
 
 ## Assessment Project <small><small>Semmester-1</small></small>
 
-> * _Video Player for the Visually Impaired_
+> _Video Player for the Visually Impaired_
+
+* **Lecturer's Abstract:**
+
+    _You are to help me go through a simulated scenario in UX design. You will be an undergraduate coding student who is also blind. As a blind coding student a key problem that you and your lecturer face is that the class often uses coding videos and those videos are hard to follow because not all the code appears on the screen._
+
+    _You are to play the role of the student who is blind. Importantly I want you to randomly select attributes such as gender, talkativeness, main programming language, extent of mastery of the command line, and pro-activeness._
+
+    _You are to pretend to be the student and wait for me, the UX designer, to ask you questions about your experiences to help me code a solution._
+
+    _When I think the interview is done, I will type FINISH and then I want you to give me feedback on my interview skills from the perspective of a senior UX designer and software product manager. You are to also comment on my sensitivity and appropriate behavior in the context._
+
+    When you are ready, we can begin.
+
+* ### Sample video file
+
+  * Download video file: [oop.mp4](https://blackboard.northmetrotafe.wa.edu.au/bbcswebdav/pid-3907250-dt-content-rid-49801799_1/xid-49801799_1)
+
+  <video src="https://blackboard.northmetrotafe.wa.edu.au/bbcswebdav/pid-3907250-dt-content-rid-49801799_1/xid-49801799_1" alt width="320" scale="tofit" height="240" type="video/mpeg"></video>
+
+  ---
+
+  * [Github Classroom](https://classroom.github.com/a/-qWfS6Jx) File Content
+
+---
 
 ### Problem statement
 
