@@ -8,6 +8,8 @@ Tafe2024
 
 ***********
 
+* AT1-B - timeline can be broad
+
 [Contacts](https://tafewa.sharepoint.com/:w:/s/NMTStudentPINICT50220-Project-ShireofChittering2024/EXYJsP9lKa5KjlNh7mxmBecBs1n2Lrq_sWbTIjM3-bHvOw)
 
 ## Course Information 
@@ -276,4 +278,66 @@ Part 1 - week 10 - 7/4
 
 ### Parkinson's Law
 
-<< Never-Mind [ADHD - Brain says no :P ... ] >>
+~~<< Never-Mind [ADHD - Brain says no :P ... ] >>~~
+
+---
+
+## Week 13
+
+### Prioritise
+
+* Identify prioritiaation
+
+* key tasks should have more priority
+
+* this can be importance relation to:
+
+  * client needs
+
+  * critical to development
+
+### Dependencies
+
+* Tasks may have dependencies (cant start until one is complete)
+
+### Resources
+
+* Documentations
+
+* Images
+
+* Information resources
+
+* PCs, APIs, Servers (Tools & Facilities)
+
+* Software
+
+* Vendors
+
+* Human Resources
+  
+  * Stakeholders
+
+* Financial
+
+### Duration
+
+* Estimate task durations
+
+  * Worse case - Best case = avg them
+
+* potential impacts (ie. leave a buffer period)
+
+#### Create a time line
+
+* Consider dependencies
+
+* Separate into
+
+  * Critical tasks
+
+  * Non-Critical Tasks
+
+## Week 13 - _(pt2 Hazards)_
+
+* 
