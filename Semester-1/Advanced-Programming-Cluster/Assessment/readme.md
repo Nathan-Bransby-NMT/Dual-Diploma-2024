@@ -52,7 +52,7 @@
 
   * Download video file: [oop.mp4](https://blackboard.northmetrotafe.wa.edu.au/bbcswebdav/pid-3907250-dt-content-rid-49801799_1/xid-49801799_1)
 
-  <video src="https://blackboard.northmetrotafe.wa.edu.au/bbcswebdav/pid-3907250-dt-content-rid-49801799_1/xid-49801799_1" alt width="320" scale="tofit" height="240" type="video/mpeg"></video>
+  <iframe src="https://blackboard.northmetrotafe.wa.edu.au/bbcswebdav/pid-3907250-dt-content-rid-49801799_1/xid-49801799_1"></iframe>
 
   ---
 
