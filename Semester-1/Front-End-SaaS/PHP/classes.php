@@ -11,14 +11,15 @@ class User {
         /***
          * Class constructor must always call __construct
          * ***/
-    
-         echo 'User object constructed...';
+        
+         $this->name = $name;
+         $this->email = $email;
     }
 
     // Class methods
     public function login()
     {
-        echo 'User successfully logged-in';
+        echo $this->name . 'successfully logged-in.';
     }
 
 }
