@@ -4,7 +4,9 @@
 
 ## Portfolio Assessment #1 - Due wk5
 
-> _**Repo :** [Adv-Prg-Port](https://github.com/Nathan-Bransby-NMT/Adv-Prg-Port1_)
+> _**Repo :** [Adv-Prg-Port](https://github.com/Nathan-Bransby-NMT/Adv-Prg-Port1_)_ 
+
+-  **Completed: [X]**
 
 ---
 
@@ -16,6 +18,8 @@
 
 > _**Repo :** [Por-Asst-Task-2](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Semester-1/Advanced-Programming-Cluster/Assessment/Por-Asst-Task-2.md_)
 
+- **Completed: [ ]**
+
 ---
 
 <br>
@@ -25,6 +29,8 @@
 ## Portfolio Assessment #3 - Due wk10
 
 > _**Repo :** ..._
+
+- **Completed: [ ]**
 
 ---
 
