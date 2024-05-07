@@ -121,7 +121,7 @@ _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
 
 ---
 
-`Third Attempt` `(not submitted)`
+`Third Attempt` `(submitted)`
 
 1. [**Australian Computer Society _(ACS)_ Code of Ethics**](https://www.acs.org.au)
    - ACS is a professional association with members representing the Australian IT industry.Their code of ethics include; Fair treatment, Privacy, Communication, System integrity and social responsibility.
@@ -148,7 +148,7 @@ _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
      - Professional Development
      - Integrity and Respect of Others
 
-5. [**ITPA**](https://www.itpa.org.au/code-of-ethics/)
+5. [**ITPA Code of Ethics**](https://www.itpa.org.au/code-of-ethics/)
    - Information Technology Professionals Association (ITPA) is an Australian not-for-profit organisation that seek to empower IT professionals in collaboration, ethical decisions and support them in their career growth in the industry. Their code of ethics include:
      - Fair Treatment
      - Privacy
