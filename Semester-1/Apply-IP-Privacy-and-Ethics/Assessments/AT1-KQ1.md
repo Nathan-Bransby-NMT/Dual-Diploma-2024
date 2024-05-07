@@ -118,3 +118,44 @@ _**List any 5 Codes of Ethics pertinent to the ICT industry in Australia.**_
 
 5. [**Datacom Partner code of conduct**](https://datacom.com/au/en/legal/partner-code-of-conduct)
    - Datacom are an Australian company that offer cyber risk detection and incident response for businesses.Their code of conduct is to; exceed customer expectations, look beyond today, thrive together, everybody had a part, it's the people, courage to act.
+
+---
+
+`Third Attempt` `(not submitted)`
+
+1. [**Australian Computer Society _(ACS)_ Code of Ethics**](https://www.acs.org.au)
+   - ACS is a professional association with members representing the Australian IT industry.Their code of ethics include; Fair treatment, Privacy, Communication, System integrity and social responsibility.
+
+2. [**Atlassian Code of Business & Ethics**](https://s28.q4cdn.com/541786762/files/doc_downloads/governance/Code-of-Business-Conduct-and-Ethics_7.1.20.pdf)
+   - Atlassian are an Australian IT software provider that offer services such as Jira, Atlas, Trello and Confluence. Their code of Business Conduct & Ethics include the following core values; Open company (no bulls***t), Build with heart and balance, Don't #@!% the customer, Play as a team, Be the change you seek.
+
+3. [**Iress Code of Ethics**](https://www.iress.com/about/investors/governance-documents/code-ethics-conduct-policy/)
+   - Iress is a leading Australian-Owned and operated Fin-Tech company whose code of ethics include:
+     - act in the best interests of the group;
+     - act honestly and with high standards of integrity and fairness;
+     - comply fully with the content and spirit of all laws and regulations which govern Iress and its operations;
+     - not knowingly participate in any illegal or unethical activity;
+     - not enter into any arrangement or participate in any activity that would conflict with Iress’ best interests or that would be likely to negatively affect Iress' reputation;
+     - not take advantage of the property or information of Iress or its customers for personal gain or to cause detriment to Iress or its customers; and
+     - not take advantage of their position or the opportunities arising therefrom for personal gain.
+
+4. [**AISA Code of Ethics**](https://www.aisa.org.au/common/Uploaded%20files/aisa_code_of_ethics_-_final_v2.pdf)
+   - Australian Information Security Association (AISA) is an Australian Government association who's focus is on educating & raising awareness of the risks and dangers of cyber attack and data theft to Australian residents. Some of the core values highlighted in their code of conduct are:
+     - Honesty
+     - Legal Compliance
+     - Competence and Diligence
+     - Confidentiality and Privacy
+     - Professional Development
+     - Integrity and Respect of Others
+
+5. [**ITPA**](https://www.itpa.org.au/code-of-ethics/)
+   - Information Technology Professionals Association (ITPA) is an Australian not-for-profit organisation that seek to empower IT professionals in collaboration, ethical decisions and support them in their career growth in the industry. Their code of ethics include:
+     - Fair Treatment
+     - Privacy
+     - Communication
+     - System Integrity
+     - Co-Operation
+     - Honesty
+     - Education
+     - Social Responsibility
+     - Workplace Quality
