@@ -22,13 +22,32 @@
 
 ---
 
-### $Q2.$
+### $Q2.$**Explain the organisational communication processes and procedures related to applying IP, ethics and privacy policies in ICT environments using 250-300 words.**
 
-- **Explain the organisational communication processes and procedures related to applying IP, ethics and privacy policies in ICT environments using 250-300 words.**
+* [**Intellectual Property Protection**]
 
->
-(if changed / new procedures)
+  In order to safeguard intellectual property (IP), an organisation in the ICT industry must adhere to all legislation in place for IP Protection in order to respect peoples IP and privacy. In Australia, organisations must have well-documented & detailed workplace policies. Employees that don't comply could result in legal action being taken on the individual.
+  
+  Organisational communication processes should include propriety information, patents, copyrights and trademarks.
 
+* [**Ethical Standards _(Code of Ethics)_**]
+  
+  ...
+
+* [**Privacy Policies**]
+
+   With sensitive data being handled at any given time over the Internet, ensuring that privacy policies are created and effective are crucial in the ICT field.
+
+
+
+
+
+
+
+
+
+---
+---
 - be aware of any changes & understand them
 - communicate with your team (everyone understands)
 - lead by example
@@ -42,3 +61,5 @@
   - review to ensure that the objectives of amendments are fulfilled
 
   -
+---
+---
