@@ -23,7 +23,7 @@
 In ICT environments is crucial to establish communication processes & procedures when applying IP, ethics & privacy policies. This ensures that all relevant stakeholders and individuals understand & follow the correct policies, prevent any possible unintended violations, help maintain the security of intellectual property whilst protecting the privacy rights of individuals.
 ```
 
-> <sub><small> <u><b>Count</b></u>: 46 Words
+> <sub><small> <u><b>Count</b></u>: 46 Words</small></sub>
 
 ---
 
@@ -47,6 +47,5 @@ In ICT environments is crucial to establish communication processes & procedures
   Finally, the policies and procedures should be reviewed regularly and be updated in response to any new laws,major technological advances, and results obtained from internal audit findings. Feedback from employees and other stakeholders are also essential for organisations to refine these policies to ensure they remain effective and relevant.
   ```
 
-  > <sub><small> <u><b>Count</b></u>: 300 Words
+  > <sub><small> <u><b>Count</b></u>: 300 Words</small></sub>
   ---
-  
