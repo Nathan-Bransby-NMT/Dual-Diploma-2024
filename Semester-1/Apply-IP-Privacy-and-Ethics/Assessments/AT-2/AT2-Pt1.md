@@ -1,5 +1,11 @@
 # IP, Ethics & Privacy <br> Assessment Task-2: _Activity-1_
 
+|             |   |                        |
+|-------------|---|------------------------|
+| **Student** | : | Nathan Bransby         |
+| **Email**   | : | v141198@tafe.wa.edu.au |
+| **Date**    | : | `18-May-2024`          |
+
 `Attempt-1`
 ---
 
@@ -12,7 +18,8 @@
   
   The emphasis on compliance with laws and regulations in the Code of Ethics promotes the copyright laws and IP protection measures that are outlined in the IP & Copyright Policy. This encourages a culture of accountability and responsibility, ensuring that IP is managed and protected in a fair and lawful manner.
   ```
-  > <small><u><b>Count</b></u> : <small><i><u>100 Words</u></i></small></small>
+  
+  - > <small><u><b>Count</b></u> : <small><i><u>100 words.</u></i></small></small>
 
 ## Question 2
 
@@ -27,7 +34,8 @@
   
   Integrate more robust data privacy measures within the IP and copyright policies. With new data protection laws, this change ensures that personal data involved in IP creation and management is protected, aligning with both ethical standards and recent legislative requirements.
   ```
-  > <small><u><b>Count</b></u> : <small><i><u>88 Words</u></i></small></small>
+  
+  - > <small><u><b>Count</b></u> : <small><i><u>88 words.</u></i></small></small>
 
 ## Question 3
 
@@ -53,16 +61,54 @@
   Set an annual revision date to ensure that the policy is kept up to date.
   ```
 
+  - > <small><u><b>Count</b></u> : <small><i><u>126 words.</u></i></small></small>
+
 ## Question 4
 
 - **How would you document and communicate updates to the IP and copyright policy to ensure compliance and understanding across the organisation? (80 to 100 words)**
 
   ```.txt
+  The following steps highlight how you can document & communicate updates to the IP & Copyright Policy, that ensures compliance and reassures understanding across an organisation.
+
+  1. Establish a review committee comprising legal experts, HR representatives, and department heads to oversee policy reviews.
+
+  2. Conduct an annual assessments of the policy comparing it to current legislation, Industry best Practices & Ethical Standards as well as any technological advancements.
+
+  3. Gather feedback from employees, contractors, and students to identify practical issues and areas for improvement.
+
+  4. Revise the policy based on findings and provide updated training sessions and meetings to ensure all personnel are aware of changes.
+
+  5. Document changes and communicate them clearly through official channels and training programs.
   ```
+
+  - > <small><u><b>Count</b></u> : <small><i><u>119 words.</u></i></small></small>
 
 ## Question 5
 
 - **What mechanisms can be put in place to monitor compliance with the revised IP and copyright policies, and how would you address non-compliance? (150 to 200 words)**
 
-    ```.txt
-    ```
+  ```.txt
+  You can monitor compliance with any revisions to the IP & Copyright Policies by Implementing:
+  
+  1. periodic audits to review compliance with IP & copyright policies. This involves checking documentation, usage logs, and other records to ensure adherence to policy guidelines. 
+  
+  2. The utilisation of software tools to track the use and distribution of digital content ensures compliance with the established policies. These tools can flag unauthorized usage or distribution of IP.
+
+  3. Establishing a system where employees, students, and external contractors can report potential violations anonymously.
+
+  4. By requiring all personnel to undergo training on IP and copyright policies regularly ensures everyone is aware of their responsibilities and the consequences of non-compliance.
+  ```
+
+  ```.txt
+  Non-Compliance can be addressed with the following:
+
+  1. When a violation is reported or detected, it is important to conduct a formal investigation to understand the scope and impact. This should be handled by a dedicated compliance team or by the organisation's HR team to ensure objectivity.
+
+  2. Implement appropriate disciplinary measures based on the severity of the violation, ranging from warnings and mandatory retraining to the termination of employment contracts. Ensure that these actions are documented and communicated as part of the compliance records. 
+  
+  3. It is also important to ensure that the employees which breach their obligations have the right to detest the findings, and to defend there actions through further explanation and justification.
+  
+  4. For less severe breaches, create a remediation plan that includes additional training and closer monitoring to prevent future violations. This plan should be tailored to address the specific events that led to the non-compliance.
+  ```
+
+  - > <small><u><b>Count</b></u> : <small><i><u>264 words.</u></i></small></small>

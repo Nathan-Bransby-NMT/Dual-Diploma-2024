@@ -64,7 +64,7 @@ _A new amendment has been passed to the Australian Copyright Act that allows for
   The Code of Ethics promotes principles such as integrity, fairness, and respect, which are fundamental in establishing IP requirements. These ethical guidelines ensure that all personnel act honestly and transparently, respecting the IP rights of others and avoiding conflicts of interest. The emphasis on compliance with laws and regulations in the Code of Ethics supports adherence to copyright laws and IP protection measures outlined in the IP & Copyright Policy. This ethical framework fosters a culture of accountability and responsibility, ensuring that IP is managed and protected in a fair and lawful manner.
   ```
 
-- #### Areas for Improvement in IP and Copyright Policies
+- #### Q2 Areas for Improvement in IP and Copyright Policies
 
   ```.txt
   1. Enhanced Digital Rights Management: With the increasing use of digital platforms, the policy should include robust guidelines for digital rights management to prevent unauthorized distribution and use of digital content. This ensures compliance with recent legislation on digital copyright protection.
@@ -72,7 +72,7 @@ _A new amendment has been passed to the Australian Copyright Act that allows for
   2. Inclusive IP Ownership Agreements: Updating the policy to explicitly address collaborative and remote work environments can ensure fair IP ownership agreements. This change reflects ethical practices of recognizing contributions from all involved parties, including remote workers and collaborators, thereby aligning with modern work dynamics and recent legislative updates on IP rights.
   ```
 
-- #### Documenting and Communicating IP and Copyright Policy Updates
+- #### Q3 Documenting and Communicating IP and Copyright Policy Updates
 
   ```.txt
   1. Formal Documentation: Update the policy document with clear, detailed explanations of the changes. Ensure the document is accessible in a central repository, such as the company intranet.
@@ -86,7 +86,7 @@ _A new amendment has been passed to the Australian Copyright Act that allows for
   5. Acknowledgment: Require employees and affiliates to formally acknowledge their understanding and acceptance of the new policy.
   ```
 
-### Mechanisms to Monitor Compliance with Revised IP and Copyright Policies
+### Q4 Mechanisms to Monitor Compliance with Revised IP and Copyright Policies
 
 ```.txt
 1. Regular Audits and Inspections: Implement periodic audits to review compliance with IP and copyright policies. This involves checking documentation, usage logs, and other records to ensure adherence to policy guidelines.
@@ -98,7 +98,7 @@ _A new amendment has been passed to the Australian Copyright Act that allows for
 4.Training and Certification: Require all personnel to undergo training on IP and copyright policies regularly and pass a certification test. This ensures everyone is aware of their responsibilities and the consequences of non-compliance.
 ```
 
-### Addressing Non-Compliance
+### Q5 Addressing Non-Compliance
 
 ```.txt
 1. Investigate Violations: When a violation is reported or detected, conduct a thorough investigation to understand the scope and impact. This should be handled by a dedicated compliance team to ensure objectivity.
