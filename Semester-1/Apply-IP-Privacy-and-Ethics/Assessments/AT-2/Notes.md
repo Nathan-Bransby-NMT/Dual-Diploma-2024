@@ -64,14 +64,48 @@ _A new amendment has been passed to the Australian Copyright Act that allows for
   The Code of Ethics promotes principles such as integrity, fairness, and respect, which are fundamental in establishing IP requirements. These ethical guidelines ensure that all personnel act honestly and transparently, respecting the IP rights of others and avoiding conflicts of interest. The emphasis on compliance with laws and regulations in the Code of Ethics supports adherence to copyright laws and IP protection measures outlined in the IP & Copyright Policy. This ethical framework fosters a culture of accountability and responsibility, ensuring that IP is managed and protected in a fair and lawful manner.
   ```
 
-- #### IP Requirements
+- #### Areas for Improvement in IP and Copyright Policies
 
   ```.txt
+  1. Enhanced Digital Rights Management: With the increasing use of digital platforms, the policy should include robust guidelines for digital rights management to prevent unauthorized distribution and use of digital content. This ensures compliance with recent legislation on digital copyright protection.
 
+  2. Inclusive IP Ownership Agreements: Updating the policy to explicitly address collaborative and remote work environments can ensure fair IP ownership agreements. This change reflects ethical practices of recognizing contributions from all involved parties, including remote workers and collaborators, thereby aligning with modern work dynamics and recent legislative updates on IP rights.
   ```
 
-- #### Revision on IP & Copyright Policy and Procedures
+- #### Documenting and Communicating IP and Copyright Policy Updates
 
   ```.txt
-  
+  1. Formal Documentation: Update the policy document with clear, detailed explanations of the changes. Ensure the document is accessible in a central repository, such as the company intranet.
+
+  2. Internal Announcements: Send out organization-wide emails and notifications detailing the updates, their implications, and the reasons behind them.
+
+  3. Training Sessions: Conduct mandatory training sessions and workshops to educate staff, contractors, and students about the new policy changes.
+ 
+  4. FAQ and Support: Provide a FAQ section and a dedicated support team or helpline to address questions and concerns about the updates.
+
+  5. Acknowledgment: Require employees and affiliates to formally acknowledge their understanding and acceptance of the new policy.
   ```
+
+### Mechanisms to Monitor Compliance with Revised IP and Copyright Policies
+
+```.txt
+1. Regular Audits and Inspections: Implement periodic audits to review compliance with IP and copyright policies. This involves checking documentation, usage logs, and other records to ensure adherence to policy guidelines.
+
+2. Automated Monitoring Tools: Utilize software tools to track the use and distribution of digital content, ensuring it complies with the established policies. These tools can flag unauthorized usage or distribution of IP.
+
+3. Compliance Reporting System: Establish a system where employees, students, and contractors can report potential violations anonymously. This encourages vigilance and accountability across the organization.
+
+4.Training and Certification: Require all personnel to undergo training on IP and copyright policies regularly and pass a certification test. This ensures everyone is aware of their responsibilities and the consequences of non-compliance.
+```
+
+### Addressing Non-Compliance
+
+```.txt
+1. Investigate Violations: When a violation is reported or detected, conduct a thorough investigation to understand the scope and impact. This should be handled by a dedicated compliance team to ensure objectivity.
+
+2. Disciplinary Actions: Depending on the severity of the violation, implement appropriate disciplinary measures, ranging from warnings and mandatory retraining to termination of employment or contracts. Ensure that these actions are documented and communicated as part of the compliance records.
+
+3. Remediation Plans: For less severe breaches, create a remediation plan that includes additional training and closer monitoring to prevent future violations. This plan should be tailored to address the specific shortcomings that led to the non-compliance.
+
+4. Feedback Loop: Use insights from compliance monitoring and incident investigations to continuously improve the IP and copyright policies. This feedback loop helps in adapting the policies to changing circumstances and emerging challenges.
+```
