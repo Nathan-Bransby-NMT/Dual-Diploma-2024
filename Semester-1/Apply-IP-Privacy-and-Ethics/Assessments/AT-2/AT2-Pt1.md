@@ -88,11 +88,11 @@
 - **What mechanisms can be put in place to monitor compliance with the revised IP and copyright policies, and how would you address non-compliance? (150 to 200 words)**
 
   ```.txt
-  You can monitor compliance with any revisions to the IP & Copyright Policies by Implementing:
+  You can monitor compliance with any revisions to the IP & Copyright Policies by implementing:
   
-  1. periodic audits to review compliance with IP & copyright policies. This involves checking documentation, usage logs, and other records to ensure adherence to policy guidelines. 
+  1. Periodic audits to review compliance with IP & Copyright Policies. This involves checking documentation, usage logs, and other records to ensure adherence to policy guidelines. 
   
-  2. The utilisation of software tools to track the use and distribution of digital content ensures compliance with the established policies. These tools can flag unauthorized usage or distribution of IP.
+  2. The utilisation of software tools to track the use and distribution of digital content ensures compliance with the established policies. These tools can flag unauthorised usage or distribution of IP.
 
   3. Establishing a system where employees, students, and external contractors can report potential violations anonymously.
 
@@ -102,11 +102,11 @@
   ```.txt
   Non-Compliance can be addressed with the following:
 
-  1. When a violation is reported or detected, it is important to conduct a formal investigation to understand the scope and impact. This should be handled by a dedicated compliance team or by the organisation's HR team to ensure objectivity.
+  1. When a violation is reported or detected, it is important to conduct a formal investigation to understand the scope and impact. This should be handled by a dedicated compliance team or by an external auditing team to ensure objectivity.
 
   2. Implement appropriate disciplinary measures based on the severity of the violation, ranging from warnings and mandatory retraining to the termination of employment contracts. Ensure that these actions are documented and communicated as part of the compliance records. 
   
-  3. It is also important to ensure that the employees which breach their obligations have the right to detest the findings, and to defend there actions through further explanation and justification.
+  3. It is also important to ensure that the employees who breach their obligations have the right to detest the findings, and to defend their actions through further explanation and justification.
   
   4. For less severe breaches, create a remediation plan that includes additional training and closer monitoring to prevent future violations. This plan should be tailored to address the specific events that led to the non-compliance.
   ```
