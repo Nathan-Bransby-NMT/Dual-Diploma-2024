@@ -48,9 +48,9 @@
 
   2. Internal Announcements :
 
-  Send out organization-wide emails and notifications detailing the updates, their implications, and the reasons behind them. 
+  Send out organisation-wide emails and notifications detailing the updates, their implications, and the reasons behind them. 
   
-  On top of Email Announcements, ensure that all people in management positions are made aware of the changes, in a formal, documented meeting setting, where they will be tasked to inform all of their respective team-members of the changes.
+  Also ensure that all people in management positions are made aware of the changes, in a formal, documented meeting setting, where they will be tasked to inform all of their respective team-members of the changes.
 
   3. Training Sessions: 
   
@@ -61,7 +61,7 @@
   Set an annual revision date to ensure that the policy is kept up to date.
   ```
 
-  - > <small><u><b>Count</b></u> : <small><i><u>126 words.</u></i></small></small>
+  - > <small><u><b>Count</b></u> : <small><i><u>122 words.</u></i></small></small>
 
 ## Question 4
 
