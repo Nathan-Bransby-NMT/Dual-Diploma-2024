@@ -28,7 +28,7 @@
   ```.txt
   1. Enhanced Digital Rights Management :
    
-  With the increasing use of digital platforms, the policy should include robust guidelines for digital rights management to prevent unauthorized distribution and use of digital content. This ensures compliance with recent legislation on digital copyright protection.
+  With the increasing use of digital platforms, the policy should include robust guidelines for digital rights management to prevent unauthorised distribution and use of digital content. This ensures compliance with recent legislation on digital copyright protection.
 
   2. Enhanced Data Privacy Integration : 
   
