@@ -72,7 +72,7 @@
 
   1. Establish a review committee comprising legal experts, HR representatives, and department heads to oversee policy reviews.
 
-  2. Conduct an annual assessments of the policy comparing it to current legislation, Industry best Practices & Ethical Standards as well as any technological advancements.
+  2. Conduct an annual assessment of the policy comparing it to current legislation, Industry-Best Practices & Ethical Standards as well as any technological advancements.
 
   3. Gather feedback from employees, contractors, and students to identify practical issues and areas for improvement.
 
@@ -81,7 +81,7 @@
   5. Document changes and communicate them clearly through official channels and training programs.
   ```
 
-  - > <small><u><b>Count</b></u> : <small><i><u>119 words.</u></i></small></small>
+  - > <small><u><b>Count</b></u> : <small><i><u>118 words.</u></i></small></small>
 
 ## Question 5
 
