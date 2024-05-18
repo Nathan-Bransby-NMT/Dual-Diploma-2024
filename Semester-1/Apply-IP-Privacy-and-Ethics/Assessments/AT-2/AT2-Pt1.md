@@ -14,12 +14,12 @@
 - **How does the Code of Ethics influence the establishment of IP requirements in the organisation? (80 to 100 words)**
 
   ```.txt
-  The Code of Ethics influences the establishment of IP requirements by promoting principles such as integrity, fairness, and respect, which are fundamental when establishing IP requirements. These ethical guidelines ensure that all personnel act with honestly and transparency, respecting the IP rights of others and avoiding conflicts of interest. 
+  The Code of Ethics influences the establishment of IP requirements by promoting principles such as integrity, fairness, and respect. These ethical guidelines ensure that all personnel act with honesty and transparency, respecting the IP rights of others and avoiding conflicts of interest. 
   
   The emphasis on compliance with laws and regulations in the Code of Ethics promotes the copyright laws and IP protection measures that are outlined in the IP & Copyright Policy. This encourages a culture of accountability and responsibility, ensuring that IP is managed and protected in a fair and lawful manner.
   ```
   
-  - > <small><u><b>Count</b></u> : <small><i><u>100 words.</u></i></small></small>
+  - > <small><u><b>Count</b></u> : <small><i><u>93 words.</u></i></small></small>
 
 ## Question 2
 
