@@ -1,0 +1,27 @@
+Issues and ideas:
+
+- issues with code capturing when video screen is split
+- IDE feature does not seem work
+- key option for capturing frame and pausing video
+- button and key for copying captured code to clipboard
+- capture code only (ignore line numbers, file name etc.)
+- integrate screen reader to read code (and add button and key option to activate)
+- add pagination for code captures (instead of the current scrollable display)
+
+---------------------------------------------------------------------------------------------------------
+
+Possible user stories:
+
+- As a user, when there are other elements in the video, I'd like to capture code only, so that I can copy and paste it into my IDE.
+
+- As a user, I'd like to paginate between captured codes, so that I can use the screen reader with them in a more accessible way.
+
+- As a visual impaired user, I'd like to activate the screen reader on the extracted code, so that I can access the content in audio form.
+
+- As a user, I'd like to extract code from screenshot, so that I can access the code the quicker and easier.(multiple websites / wider range from media)
+
+- As a user, I'd like to extract code from video, so that I can open the code in clipboard.
+
+- As a user, I'd like to extract code from video, so that I can open the code in IDE.
+
+- As a user, I'd like to extract code from video, so that I can open the code in screen reader.
