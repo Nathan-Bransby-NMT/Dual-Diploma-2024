@@ -8,4 +8,4 @@ The following required fixes discussed with Aaron.
 
 3. Final Conclusion (objective I) - ~~"Update this with your Stripe vs Square conclusion."~~
 
-4. Executive summary - "Remove this detail and instead give information about the solutions looked at and proposed outcomes." (paragraph 2).
+4. Executive summary - ~~"Remove this detail and instead give information about the solutions looked at and proposed outcomes." (paragraph 2).~~
