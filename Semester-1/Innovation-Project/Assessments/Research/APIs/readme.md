@@ -1,5 +1,7 @@
 # Catalogue
 
+<iframe title="Data viewer" width="700" height="400" src="https://catalogue.data.wa.gov.au/dataset/dfes-public-emergency-incident-points-dfes-055/resource/ed63e6c2-7a77-419c-9b5d-4fdbe7f391e3/view/1db947ac-2e67-4525-aa79-bada4b6f805d" frameBorder="0"></iframe>
+
 ## Data-WA DFES
 
 * [Public Emergency Incident Areas (DFES-054)](https://catalogue.data.wa.gov.au/dataset/dfes-public-emergency-incident-areas-dfes-054) 
