@@ -1,6 +1,6 @@
 # **NMT Dual-Diploma** (_Advanced Programming & Back-End Web_) - 2024
 
-_Pretty much a master repository for storing and working through the Advanced Programming and Back-End diplomas in 2024 at North Metropolitan._
+_This repo is my master repository for storing and working through the Advanced Programming and Back-End diplomas in 2024 at North Metropolitan TAFE._
 
 ---
 
