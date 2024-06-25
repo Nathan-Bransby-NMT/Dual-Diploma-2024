@@ -52,9 +52,9 @@
 
     The risks involved in Blockchain Authentication are greatly reduced by cryptographically storing users information in directly in their wallets which can only obtainable if the user signs the transaction using an end-to-end public/private key system. After verifying & transacting the request, the only data that gets stored in the blockchain ledger, is the issuer's public cryptographic key as a safety measure, to verify the that the request is legitimate.
 
-### B)
+### B) Large Language Model Artificial Intelligence
 
-    ...
+    Large Language Model AI (LLMs) are large deep learning models pre trained to comprehend and generate human language text. One of the main ways that they are impacting the IT industry is by replacing the need of hiring customer support help desk responders, instead companies are able to deploy LLMs to respond and generate to low level tickets, filtering out the mid-high level tickets and assigning then to staff to address.
 
 ---
 
@@ -62,9 +62,11 @@
 
 ### A) Wallet Connect - (One-Click Authentication) `June 12 2024`
 
-    Wallet Connect's One-Click Authentication Flow Diagram.
+#### Wallet Connect's One-Click Authentication Flow Diagram.
 
-[![Wallet Connect One-Click Auth Flow Diagram]()](https://walletconnect.com/blog/walletkit-one-click-auth)
+[![Wallet Connect One-Click Auth Flow Diagram](https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/Img/Inno_AT2/WalletConnect_OneClickAuth.png)](https://walletconnect.com/blog/walletkit-one-click-auth)
+
+>**Ref**: ***[https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048](https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048) / Wallet Connect / June 2024*** 
 
 ---
 | About Page | Webpage Reference |
@@ -75,10 +77,10 @@
 
 ---
 
-### B)
+### B) OpenAI's Chat GPT Enterprise
 
+    
 
-** example: stripe => product / service [#5]**
 
 ---
 
