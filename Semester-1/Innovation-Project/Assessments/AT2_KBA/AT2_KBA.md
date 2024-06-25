@@ -64,7 +64,7 @@
 
 [![Wallet Connect One-Click Auth Flow Diagram](https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/Img/Inno_AT2/WalletConnect_OneClickAuth.png)](https://walletconnect.com/blog/walletkit-one-click-auth)
 
->**Ref**: ***[https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048](https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048) / Wallet Connect / June 2024*** 
+>**Ref**: ***[https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048](https://images.prismic.io/wallet-connect/ZmmgyZm069VX1rVN_image-11-.png?auto=format%2Ccompress&fit=max&w=2048) / Wallet Connect / June 2024***
 
 ---
 | About Page | Webpage Reference |
