@@ -17,32 +17,30 @@
 
 ## 2. Discuss techniques to identify the suitability of an idea for implementation within a project. How might an idea or possible solution be evaluated?
 
+    Implement an Agile Workflow - To ensure that periodic evaluation is being conducted.
+
     Create measurable objectives to work towards & make sure the requirements are SMART (Specific, Measurable, Attainable, Relevant & Time Based)
+
+    Conduct a Gap-analysis on the current system, and ensure that the objectives are intended to closing any of the gaps highlighted.
     
-    ---
-    - Feedback:
-        * A clear way to identify if the idea is suitable for implementation. (positive = good, neg = bad)
-    ---
+    Get feedback from the primary stakeholders and adjust your methods according to their vision.
 
 ---
 
 ## 3. Describe a practical or operational reason a project might not proceed
 
-    Financial reasoning - An example where a project might not proceed could be due to lack of funds or financial interest to continue to pursue .
+    Finance - 
+    
+    An example where a project might not proceed could be due to lack of funds or financial interest from the client.
 
 ---
 
 ## 4. Describe effective methods of evaluating solutions of systems against a business and its objectives
 
-    Cost benifit analysis
-    risk analysis
+    1. Conduct a Cost Benefit Analysis - to determine if the solution is worth pursuing financially for the business.
+    2. Conduct a Risk Analysis - determines what the potential risks involved are and how they can avoid them. 
 
-    ---
-    ---
-    1. Thinking through possible solutions.
-    2. Determining what's feasible.
-    3. Figuring out what's practical. 
-    ---
+---
 
 ## 5. Describe in your own words two emerging trends or technologies in your field and how they impact it
 
@@ -62,7 +60,7 @@
 
 ### A) Wallet Connect - (One-Click Authentication) `June 12 2024`
 
-#### Wallet Connect's One-Click Authentication Flow Diagram.
+#### Wallet Connect's One-Click Authentication Flow Diagram
 
 [![Wallet Connect One-Click Auth Flow Diagram](https://raw.githubusercontent.com/Nathan-Bransby-NMT/Dual-Diploma-2024/main/Assets/Img/Inno_AT2/WalletConnect_OneClickAuth.png)](https://walletconnect.com/blog/walletkit-one-click-auth)
 
@@ -71,21 +69,30 @@
 ---
 | About Page | Webpage Reference |
 |----------:|-----------|
-| *Wallet Connect / One-Click Authentication* | https://walletconnect.com/blog/walletkit-one-click-auth |
-| *Wallet Connect / AppKit Docs* | https://docs.walletconnect.com/appkit/features/one-click-auth |
-| *Wallet Connect / Github Repositories* | https://github.com/WalletConnect/ |
+| *Wallet Connect / One-Click Authentication* | [https://walletconnect.com/blog/walletkit-one-click-auth](https://walletconnect.com/blog/walletkit-one-click-auth) |
+| *Wallet Connect / AppKit Docs* | [https://docs.walletconnect.com/appkit/features/one-click-auth](https://docs.walletconnect.com/appkit/features/one-click-auth) |
+| *Wallet Connect / Github Repositories* | [https://github.com/WalletConnect/](https://github.com/WalletConnect/) |
 
 ---
 
-### B) OpenAI's Chat GPT Enterprise
+### B) OpenAI's ChatGPT Enterprise
 
-    
+[![ChatGPT Enterprise Use Case Model](https://github.com/Nathan-Bransby-NMT/Dual-Diploma-2024/blob/main/Assets/Img/Inno_AT2/gpt.png?raw=true)](https://openai.com/chatgpt/enterprise/)
 
+> ***Ref: [https://openai.com/chatgpt/enterprise/](https://openai.com/chatgpt/enterprise/) / OpenAI***
 
 ---
+| About Page | Webpage Reference |
+|--:|---|
+| ChatGPT Enterprise | [https://openai.com/chatgpt/enterprise/](https://openai.com/chatgpt/enterprise/) |
+| ChatGPT for Teams | [https://openai.com/chatgpt/team/](https://openai.com/chatgpt/team/) |
+| OpenAI Documentation | [https://platform.openai.com/docs/introduction](https://platform.openai.com/docs/introduction) |
+---
 
-## 7. List two example sections that could be included in an action plan document and describe their purpose.
+## 7. List two example sections that could be included in an action plan document and describe their purpose
+
     1. **Project timeline**: Lists all of the key milestones that the project needs to achieve within expected time-frames. This is used to clearly display the different stages of development.
 
     2. **Risk management plan**: Identifies and assesses potential risks that could, negatively impact the success of the project. An important function of a Risk management plan is the mitigation of risks through the development of risk reduction strategies.
 
+---
