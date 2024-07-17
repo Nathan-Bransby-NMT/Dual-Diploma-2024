@@ -1,0 +1,3 @@
+For this challenge split up into groups. Choose your application premise and the language/framework.
+Identify what it is you're going to do. Define your functions and requirements (You have full autonomy to define all the things you want to include but remember the time constraint. (MoSCoW)
+Rapidly develop the app implementing as many of the features as you can in the few hours. Try and manage your time, resources (that includes people).
