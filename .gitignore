@@ -1,1 +1,5 @@
+# Ignore all Open Office temparary files.
 *.~lock*
+
+# Ignore all temporary files that start with ~$
+~$*
