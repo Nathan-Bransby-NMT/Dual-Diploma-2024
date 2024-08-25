@@ -6,15 +6,30 @@
 
 - **HTTP/0.9** - `1998 - 1991`
 
-> The HyperText Transfer Protocol (HTTP), was originally developed between 1989 - 1991 as part of the 'World Wide Web' project as way for Nuclear Scientist within Europe belonging to the research organisation 'CERN' to share documents and data over the Internet. The very first version (`HTTP/0.9`) only contained the `GET` method that allowed users to retrieve HTML pages.
+> The HyperText Transfer Protocol (HTTP), was originally developed in 1989 as part of the 'World Wide Web' project as way for Nuclear Scientist within Europe belonging to the research organisation 'CERN' to share documents and data over the Internet. The very first version (`HTTP/0.9`) was released in 1991 which only contained the `GET` method that allowed users to retrieve HTML pages.
 
 - **HTTP/1.0** - `1996`
 
-> When HTTP/1.0 was developed, it introduced the standardisation of response codes, introduced headers and brought more methods such as `POST` & `HEAD`. This allowed users to communicate between clients with ease for the first time.
+> Between 1991 - 1995, the protocol was operated with a try-and-see approach. Interoperability issues were quite common, so as an effort to address and solve these issues, an informational document known as [RFC 1945](https://datatracker.ietf.org/doc/html/rfc1945) was produced, that described the first set of common rules and practices when publishing and transmitting via HTTP. This lead to the development of HTTP/1.0 which introduced the standardisation of response codes, introduced headers and brought more methods such as `POST` & `HEAD`. This gave users the ability communicate between clients with ease for the first time ensuring that information was resolved at each end.
 
 - **HTTP/1.1 & HTTPS** - `1997 - 2014`
 
-> The introduction to HTTP/1.1 changed the way people used the Internet so drastically, that it became the default standard for 18 years. Although HTTP was the default version of HTTP communication, there were growing concerns in the mid 1990's about how secure data was whilst being transmitted via the HyperText Transfer Protocol, which led to the development of the HyperText Transfer Protocol Secure (HTTPS) which combined Transfer Layer Security (TLS) (formerly known as SSL, Secure Sockets Layer) to encrypt data transferred between client and server. Although this change in protocol became essential for protecting sensitive information being passed via the Internet, it wouldn't become wide adopted until between the 2000's  2010's.
+> After to the initiation of standardisation in HTTP/1.0, HTTP had brought many new rules and guides, in order to clarify ambiguities, this lead to the development of HTTP/1.1, which also implemented numerous improvements like;
+
+- The ability to reuse a connection, which meant that it no longer needed to open multimedia multiple times to display resources and embeddings.
+- Pipelining was introduced, allowing a second request to be sent before the response.
+- Support for chunked responses.
+- Additional cache control systems were introduced.
+- Content negotiation, including encoding and type, giving client & server a way to resolve content that would have conflicted when exchanged.
+- The `HOST` header allowed servers to host multiple domains on the one IP address.
+
+HTTP/1.1 would be officially released in 1997 as [RFC 2068](https://datatracker.ietf.org/doc/html/rfc2068)
+
+Although HTTP/1.1 was the standardised protocol, there were growing concerns around how secure data was whilst being transmitted. This lead to the development of the HyperText Transfer Protocol Secure (HTTPS) which combined Transfer Layer Security (TLS) (formerly known as SSL, Secure Sockets Layer) to encrypt data transferred between client and server. Although this change in protocol became essential for protecting sensitive information being passed via the Internet, it wouldn't become widely adopted until the late 2000's to mid 2010's.
+
+- **HTTP/2.0**
+
+- **HTTP/3.0**
 
 - Please include any updates,
 
