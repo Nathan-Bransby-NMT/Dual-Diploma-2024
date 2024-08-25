@@ -4,6 +4,12 @@
 
 1. **We know that HTTP drives the web however we often do not know what the protocol does. Describe HTTP in your own words.**
 
+- Please include any updates,
+
+- Technical specifications such as protocols
+
+- Any images that will explain more.
+
 - **HTTP/0.9** - `1998 - 1991`
 
 > The HyperText Transfer Protocol (HTTP), was originally developed in 1989 as part of the 'World Wide Web' project as way for Nuclear Scientist within Europe belonging to the research organisation 'CERN' to share documents and data over the Internet. The very first version (`HTTP/0.9`) was released in 1991 which only contained the `GET` method that allowed users to retrieve HTML pages.
@@ -31,11 +37,7 @@ Although HTTP/1.1 was the standardised protocol, there were growing concerns aro
 
 - **HTTP/3.0**
 
-- Please include any updates,
-
-- Technical specifications such as protocols
-
-- Any images that will explain more.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 
 2. **What are the limitations of HTTP when it comes to developing web applications?**
 
