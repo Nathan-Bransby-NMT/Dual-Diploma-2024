@@ -4,11 +4,11 @@
 
 1. **We know that HTTP drives the web however we often do not know what the protocol does. Describe HTTP in your own words.**
 
-- Please include any updates,
+**- Please include any updates,**
 
-- Technical specifications such as protocols
+***- Technical specifications such as protocols***
 
-- Any images that will explain more.
+***- Any images that will explain more.***
 
 - **HTTP/0.9** - `1998 - 1991`
 
@@ -78,21 +78,35 @@ The latest update of HTTP, HTTP/3 was developed in 2022 and contains the same se
 > [^6] RFC 9114 | HTTP/3.0
   [https://datatracker.ietf.org/doc/html/rfc9114](https://datatracker.ietf.org/doc/html/rfc9114)
 
+---
+
 2. **What are the limitations of HTTP when it comes to developing web applications?**
 
-- Are there any?
+***- Are there any?***
 
-- What is a web application?
+The limitations of HTTP when developing web application include:
 
-- Are there any new advances for web Applications?
+> - Statelessness: Each request is independent, making session management challenging.
+> - Performance Issues: Latency, overhead from headers, and limited asynchronous connections can slow down applications.
+> - Security: Data is transmitted in plain text, making it vulnerable without HTTPS; session management can be complex.
+> - Bandwidth Consumption: HTTP headers add overhead, especially with many requests.
+> - Caching Issues: Poor caching strategies can lead to outdated content or unnecessary server load.
+
+***- What is a web application?***
+
+***- Are there any new advances for web Applications?***
+
+---
 
 3. **Please identify the advantages in using HTTP when developing web applications.**
 
-- How is HTTP used in web applications?
+***- How is HTTP used in web applications?***
 
-- What is the Advantage?
+***- What is the Advantage?***
 
-- What is the Future of Web Applications?
+***- What is the Future of Web Applications?***
+
+---
 
 4. **Describe a database structure and how HTTP works with a database.**
 
@@ -111,11 +125,20 @@ and structured query language (SQL)
   
   - defining the principles of stateless programming.
 
+---
+
 5. **Describe the processes and techniques related to object-oriented programming.**
 
 - What is Object Oriented programming and what language are you using?
 
-- describe the process for developing small-size applications
+We are writing in JavaScript. OOP is a programming method where rather than writing sequentially down a script (in step by step order), you write a "blueprint" that describe how an objects is built. Objects contain their own attributes and functions (known as methods). OOP contains 4 pillars that describe the different object behaviors, which are:
+
+> - ***Inheritance:*** When an object class derives from another object class, this inherits all of the parent classes attributes and methods.  
+> - ***Encapsulation:*** This is when one class is contained within another, allowing public methods and attributes from an object to be referenced from within another class.
+> - ***Polymorphism:*** This is when a method utilises overloading methods, which is when a class method defined multiple times to contain different parameters and producing different results.
+> - ***Abstraction:*** This is when an abstracted class is used to define a set of shared attributes and methods between classes. Generally programming languages that include abstraction, will require all defined abstract parent attributes methods to be implemented by the child class that is abstracting from the parent.
+
+- **describe the process for developing small-size applications**
 
 - identify and outline the key features of a graphical user interface (GUI), for interaction with
 an operator.
