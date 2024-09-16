@@ -133,7 +133,14 @@ This is just some of the ways that web-apps use HTTP.
 
 ***- What is the Advantage?***
 
-...
+Web Application Servers, hold the ability to multithread simultaneously, which helps deliver web content faster than traditional web servers. Web Application Servers support many different protocols, this is including HTTP which eliminates the need to host both a web server as well as an application server. The key differences between the two are seen in the table below.
+
+| **Task**  | **Web server** | **Application server** |
+|-----------|----------------|------------------------|
+| **Tasks covered** | Web servers deliver responses to simple requests. | An application server delivers more complex content from databases, services, and enterprise systems. |
+| **Protocols used** | Web servers primarily use HTTP. They also support FTP and SMTP. | Application servers support many protocols. |
+| **Content types** | Web servers deliver static content, like HTML pages, images, videos, and files. | Application servers deliver dynamic content, like real-time updates, personalized information, and customer support. |
+| **Multithreading** | Does not typically use multithreading. | Uses multithreading to process requests concurrently. |
 
 ***- What is the Future of Web Applications?***
 
@@ -142,6 +149,8 @@ This is just some of the ways that web-apps use HTTP.
 ***References:***
 
 - MDN Web Docs. (n.d.). *HTTP overview*. MDN Web Docs. Retrieved from [https://developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+- Amazon Web Services. (n.d.). *The difference between a web server and an application server*. Retrieved from [https://aws.amazon.com/compare/the-difference-between-web-server-and-application-server/](https://aws.amazon.com/compare/the-difference-between-web-server-and-application-server/)
 
 ---
 
