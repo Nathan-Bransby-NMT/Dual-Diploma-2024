@@ -190,3 +190,5 @@ We are writing in JavaScript. OOP is a programming method where rather than writ
 an operator.
 
 6. **Include APA references for all your answers, even if you know the answer. Your answers will need to be backed up by reference information of another source.**
+
+_YES_
