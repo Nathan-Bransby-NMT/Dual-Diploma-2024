@@ -1,6 +1,8 @@
 # Semester 2
 
 > All subject content for Semester 2 - 2024
+>
+> #### [Live Client Repository](https://github.com/Nathan-Bransby-NMT/NMT-Chittering-MA/)
 
 ## Subjects
 
